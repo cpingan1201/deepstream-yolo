@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/NE进_motor_vio_20260509_173436_649.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 17:35:01",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"car\",\n  \"description\": \"红框内清晰显示了一辆黑色轿车的尾部，包含车牌、后挡风玻璃和车身结构，确认为机动车。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "car",
+    "description": "红框内清晰显示了一辆黑色轿车的尾部，包含车牌、后挡风玻璃和车身结构，确认为机动车。"
+  }
+}

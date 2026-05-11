@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/5高-1F地库电梯出口_motor_vio_20260511_090326_563.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 09:04:12",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内清晰显示了一辆黑色汽车的车顶、车窗及车身侧面，可见车内方向盘等细节，符合机动车特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示了一辆黑色汽车的车顶、车窗及车身侧面，可见车内方向盘等细节，符合机动车特征。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_044256_645.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 04:43:40",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内显示的是地面上的反光或标线（可能是黄色警示线），受灯光照射呈现橙红色，没有明显的火焰跳动或烟雾特征，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内显示的是地面上的反光或标线（可能是黄色警示线），受灯光照射呈现橙红色，没有明显的火焰跳动或烟雾特征，属于误报。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/东大门---东_non_motor_vio_20260511_074459_967.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 07:45:15",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内显示的是一个带有轮子和梯子状结构的手推车或类似物体，不具备自行车或摩托车的典型特征（如车把、脚踏、两轮车身结构），属于手推车类别。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是一个带有轮子和梯子状结构的手推车或类似物体，不具备自行车或摩托车的典型特征（如车把、脚踏、两轮车身结构），属于手推车类别。"
+  }
+}

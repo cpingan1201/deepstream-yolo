@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_002745_388.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 00:28:34",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"方框内物体呈现规则排列，疑似地面上的反光警示锥筒或指示灯倒影，无火焰跳动及烟雾特征，属于物体干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "方框内物体呈现规则排列，疑似地面上的反光警示锥筒或指示灯倒影，无火焰跳动及烟雾特征，属于物体干扰。"
+  }
+}

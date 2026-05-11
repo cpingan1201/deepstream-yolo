@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_201418_426.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 20:14:33",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"false_alarm\", \"description\": \"红色方框内显示的是规则的红光，呈现为条状或点状分布，具有明显的反光特征，且没有火焰的不规则跳动感，属于红外热像仪对远处热源（如管道）的误判。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是规则的红光，呈现为条状或点状分布，具有明显的反光特征，且没有火焰的不规则跳动感，属于红外热像仪对远处热源（如管道）的误判。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/地下室-2_motor_vio_20260508_213943_160.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:40:06",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内清晰可见一辆白色的MPV或面包车，具有完整的封闭车身、车窗和车轮，符合机动车目标特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰可见一辆白色的MPV或面包车，具有完整的封闭车身、车窗和车轮，符合机动车目标特征。"
+  }
+}

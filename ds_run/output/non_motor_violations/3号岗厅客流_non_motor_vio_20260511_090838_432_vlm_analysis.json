@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/3号岗厅客流_non_motor_vio_20260511_090838_432.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 09:08:48",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内显示的是白色汽车（轿车）的车头部分，具有明显的汽车特征（大灯、格栅、挡风玻璃），并非摩托车或自行车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是白色汽车（轿车）的车头部分，具有明显的汽车特征（大灯、格栅、挡风玻璃），并非摩托车或自行车。"
+  }
+}

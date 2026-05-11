@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南门客流右_motor_vio_20260509_064558_997.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:48:41",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内显示的是电子显示屏上的数字（进入0、离开0、重0），没有车辆主体。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内显示的是电子显示屏上的数字（进入0、离开0、重0），没有车辆主体。"
+  }
+}

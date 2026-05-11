@@ -1,0 +1,6 @@
+%YAML:1.0
+BaseConfig:
+  minDetectorConfidence: 0.1
+TargetTracker:
+  trackerCore: IOU
+  maxTargetsPerStream: 150

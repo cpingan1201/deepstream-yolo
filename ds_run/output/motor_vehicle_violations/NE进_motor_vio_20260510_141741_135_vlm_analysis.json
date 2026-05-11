@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/NE进_motor_vio_20260510_141741_135.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 14:17:49",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内显示的是远处道路上的一辆深色汽车，可以看到车身和车窗结构，符合机动车特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内显示的是远处道路上的一辆深色汽车，可以看到车身和车窗结构，符合机动车特征。"
+  }
+}

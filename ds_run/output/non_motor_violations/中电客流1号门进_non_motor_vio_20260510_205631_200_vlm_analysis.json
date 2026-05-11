@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电客流1号门进_non_motor_vio_20260510_205631_200.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 20:56:40",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内是一辆深色汽车（具有明显的双肾型进气格栅和车灯特征，疑似宝马SUV），属于机动车，不是自行车或摩托车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一辆深色汽车（具有明显的双肾型进气格栅和车灯特征，疑似宝马SUV），属于机动车，不是自行车或摩托车。"
+  }
+}

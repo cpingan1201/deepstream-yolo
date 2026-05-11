@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/二号大门客流_non_motor_vio_20260509_040556_323.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 04:06:17",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内可见一个两轮车辆，具有车把和车身轮廓，符合摩托车或自行车的特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内可见一个两轮车辆，具有车把和车身轮廓，符合摩托车或自行车的特征。"
+  }
+}

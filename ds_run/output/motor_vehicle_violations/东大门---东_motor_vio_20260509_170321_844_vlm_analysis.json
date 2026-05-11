@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/东大门---东_motor_vio_20260509_170321_844.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 17:03:30",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"motor_vehicle_violations\", \"description\": \"红框内是一辆白色的汽车，具有封闭车身、车窗和车尾等结构，主体清晰可见\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内是一辆白色的汽车，具有封闭车身、车窗和车尾等结构，主体清晰可见"
+  }
+}

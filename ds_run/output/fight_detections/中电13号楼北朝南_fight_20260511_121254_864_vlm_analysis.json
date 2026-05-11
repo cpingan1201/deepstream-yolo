@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fight_detections/中电13号楼北朝南_fight_20260511_121254_864.jpg",
+  "detection_type": "fight",
+  "source_type": "single",
+  "timestamp": "2026-05-11 12:13:03",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non-fight\",\n  \"description\": \"画面中显示一名行人（person）正在沿人行道正常行走，姿态自然，未见挥拳、踢腿或推搡等暴力动作，周围也无其他冲突迹象，属于非打架行为。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non-fight",
+    "description": "画面中显示一名行人（person）正在沿人行道正常行走，姿态自然，未见挥拳、踢腿或推搡等暴力动作，周围也无其他冲突迹象，属于非打架行为。"
+  }
+}

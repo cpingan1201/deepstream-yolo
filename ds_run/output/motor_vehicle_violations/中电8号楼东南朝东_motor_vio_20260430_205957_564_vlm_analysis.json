@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/中电8号楼东南朝东_motor_vio_20260430_205957_564.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-01 05:00:10",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红色方框内清晰可见多辆封闭车身的机动车（面包车/厢式货车），符合汽车目标定义。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红色方框内清晰可见多辆封闭车身的机动车（面包车/厢式货车），符合汽车目标定义。"
+  }
+}

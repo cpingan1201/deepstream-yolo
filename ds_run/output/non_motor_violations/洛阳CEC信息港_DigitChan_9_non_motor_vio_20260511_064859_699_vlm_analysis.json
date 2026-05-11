@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260511_064859_699.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 06:49:35",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内显示的是一个立式的标志牌或广告牌，不具备自行车或摩托车的车轮、车把等特征，无法确认为非机动车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是一个立式的标志牌或广告牌，不具备自行车或摩托车的车轮、车把等特征，无法确认为非机动车。"
+  }
+}

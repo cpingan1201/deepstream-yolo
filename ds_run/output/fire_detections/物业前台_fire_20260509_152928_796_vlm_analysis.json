@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_152928_796.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:30:36",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"false_alarm\", \"description\": \"红色方框内显示的是“湖北消防温馨提示：厨房防火”的文字，属于画面中的文字提示或标牌，并非真实的火焰或烟雾。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是“湖北消防温馨提示：厨房防火”的文字，属于画面中的文字提示或标牌，并非真实的火焰或烟雾。"
+  }
+}

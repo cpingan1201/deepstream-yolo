@@ -1,0 +1,44 @@
+{
+  "timestamp": "13:44:34",
+  "cpu": {
+    "percent": "0.4%"
+  },
+  "memory": {
+    "percent": "48.5%",
+    "used": "15.2GB",
+    "total": "31.2GB"
+  },
+  "disk": {
+    "read_mb": "0.0MB/s",
+    "write_mb": "0.1MB/s"
+  },
+  "network": {
+    "sent_mb": "0.01MB/s",
+    "recv_mb": "0.07MB/s"
+  },
+  "process": {
+    "cpu_percent": "10.9%",
+    "memory_percent": "7.8%",
+    "threads": 21,
+    "open_files": 0
+  },
+  "gpu": [
+    {
+      "id": 0,
+      "name": "Tesla V100-SXM2-16GB",
+      "load": "31%",
+      "memory_used": "9215MB",
+      "memory_total": "16384MB",
+      "memory_percent": "56.2%",
+      "temperature": "58°C"
+    }
+  ],
+  "inference": {
+    "avg_time_ms": "0ms",
+    "fps": "0.0"
+  },
+  "queue": {
+    "yolo": 0,
+    "vlm": 0
+  }
+}

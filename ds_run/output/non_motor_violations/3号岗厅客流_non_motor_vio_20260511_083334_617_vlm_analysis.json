@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/3号岗厅客流_non_motor_vio_20260511_083334_617.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 08:33:51",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内显示为一辆白色的轿车（或SUV），具有明显的汽车特征（如前大灯、进气格栅、车身高度），并非自行车或摩托车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示为一辆白色的轿车（或SUV），具有明显的汽车特征（如前大灯、进气格栅、车身高度），并非自行车或摩托车。"
+  }
+}

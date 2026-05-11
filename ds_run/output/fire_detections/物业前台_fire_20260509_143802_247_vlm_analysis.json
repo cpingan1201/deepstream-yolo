@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_143802_247.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 14:38:43",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"false_alarm\",\n\"description\": \"红色方框内显示的是墙上的文字标语“社会主义核心价值观：富强”，属于环境中的物体/文字标识，并非明火或烟雾，因此判定为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是墙上的文字标语“社会主义核心价值观：富强”，属于环境中的物体/文字标识，并非明火或烟雾，因此判定为误报。"
+  }
+}

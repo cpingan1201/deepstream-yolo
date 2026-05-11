@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_011402_886.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 01:14:25",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"配电房顶部管道或线缆上的反光或固定指示灯，呈现规则的红色亮斑，无火焰跳动特征，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "配电房顶部管道或线缆上的反光或固定指示灯，呈现规则的红色亮斑，无火焰跳动特征，属于误报。"
+  }
+}

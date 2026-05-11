@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/C座道闸_non_motor_vio_20260509_054939_539.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:22:18",
+  "vlm_analysis": "{\n\"signal\": true,\n\"behavior_type\": \"non_motor_violations\",\n\"description\": \"红框内清晰可见一辆青绿色的自行车，包含车把、车轮和车架结构。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见一辆青绿色的自行车，包含车把、车轮和车架结构。"
+  }
+}

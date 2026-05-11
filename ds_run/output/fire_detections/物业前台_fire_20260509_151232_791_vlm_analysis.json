@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_151232_791.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:12:50",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内显示的是文字提示“骑车不越线，安全...”，属于标牌或系统提示信息，并非真实火焰或烟雾，因此判定为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内显示的是文字提示“骑车不越线，安全...”，属于标牌或系统提示信息，并非真实火焰或烟雾，因此判定为误报。"
+  }
+}

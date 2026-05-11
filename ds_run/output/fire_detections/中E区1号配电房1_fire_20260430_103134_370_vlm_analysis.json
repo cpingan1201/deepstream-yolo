@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区1号配电房1_fire_20260430_103134_370.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:31:49",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮光呈静态的、弥散的橙红色光斑，缺乏真实火焰应有的不规则跳动感和明显的根部结构。结合周围环境（电气设备），该光斑更可能是由于设备内部的指示灯、电线或地面上的强烈反光（环境干扰）造成的，不构成真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮光呈静态的、弥散的橙红色光斑，缺乏真实火焰应有的不规则跳动感和明显的根部结构。结合周围环境（电气设备），该光斑更可能是由于设备内部的指示灯、电线或地面上的强烈反光（环境干扰）造成的，不构成真实明火。"
+  }
+}

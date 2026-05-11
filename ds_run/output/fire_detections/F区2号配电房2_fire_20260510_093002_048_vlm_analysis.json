@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_093002_048.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 09:30:19",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"light_source\",\n  \"description\": \"红色方框内显示的是天花板上的红色光源（可能是灯具或指示灯），呈现规则的亮斑，没有火焰的不规则跳动感或烟雾，属于光源干扰导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light_source",
+    "description": "红色方框内显示的是天花板上的红色光源（可能是灯具或指示灯），呈现规则的亮斑，没有火焰的不规则跳动感或烟雾，属于光源干扰导致的误报。"
+  }
+}

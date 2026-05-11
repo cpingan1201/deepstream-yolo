@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/二号大门客流_non_motor_vio_20260508_215504_233.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:59:42",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内主要显示的是路边的黄黑相间路缘石，旁边有一些模糊不清的物体，可能是反光或阴影，无法清晰辨认出自行车或摩托车的特征（如车轮、车架等）。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内主要显示的是路边的黄黑相间路缘石，旁边有一些模糊不清的物体，可能是反光或阴影，无法清晰辨认出自行车或摩托车的特征（如车轮、车架等）。"
+  }
+}

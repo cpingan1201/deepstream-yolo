@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_151423_188.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:14:36",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内仅为文字标识“是强盛的前提”，无明火或烟雾特征，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内仅为文字标识“是强盛的前提”，无明火或烟雾特征，属于误报。"
+  }
+}

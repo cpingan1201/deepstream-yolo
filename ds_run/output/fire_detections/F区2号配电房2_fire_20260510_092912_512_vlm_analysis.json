@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_092912_512.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 09:29:34",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是管道或电缆表面的热辐射反光，呈现规则的亮斑，无火焰根部及烟雾特征，属于设备发热导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是管道或电缆表面的热辐射反光，呈现规则的亮斑，无火焰根部及烟雾特征，属于设备发热导致的误报。"
+  }
+}

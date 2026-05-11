@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260510_185545_994.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 18:56:04",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内是一辆红色的封闭式三轮车（或低速电动车），具有驾驶室结构，不符合 bicycle 或 motorcycle 的特征\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一辆红色的封闭式三轮车（或低速电动车），具有驾驶室结构，不符合 bicycle 或 motorcycle 的特征"
+  }
+}

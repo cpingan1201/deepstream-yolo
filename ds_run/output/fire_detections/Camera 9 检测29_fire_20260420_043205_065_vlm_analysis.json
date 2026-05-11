@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/Camera 9 检测29_fire_20260420_043205_065.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-20 12:33:08",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮斑颜色鲜艳，但其形态缺乏真实火焰应有的不规则跳动感和根部结构。该区域的亮光更像是强烈的环境光或物体表面的反射（如玻璃、金属等），属于光源干扰或环境干扰，判断为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮斑颜色鲜艳，但其形态缺乏真实火焰应有的不规则跳动感和根部结构。该区域的亮光更像是强烈的环境光或物体表面的反射（如玻璃、金属等），属于光源干扰或环境干扰，判断为误报。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南门客流右_motor_vio_20260508_203940_278.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 20:56:29",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内仅包含道闸栏杆、交通信号灯、地面标线和隔离墩等交通设施，未检测到任何封闭车身或车辆主体。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内仅包含道闸栏杆、交通信号灯、地面标线和隔离墩等交通设施，未检测到任何封闭车身或车辆主体。"
+  }
+}

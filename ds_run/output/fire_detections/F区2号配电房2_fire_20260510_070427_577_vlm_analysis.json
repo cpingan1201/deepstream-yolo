@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_070427_577.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 07:04:56",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"light_source\",\n  \"description\": \"红色方框内显示的是上方设备（如指示灯或传感器）发出的规则红色光点，或者是光线在光滑表面的反射，不具备火焰的不规则形状和跳动感，属于光源干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light_source",
+    "description": "红色方框内显示的是上方设备（如指示灯或传感器）发出的规则红色光点，或者是光线在光滑表面的反射，不具备火焰的不规则形状和跳动感，属于光源干扰。"
+  }
+}

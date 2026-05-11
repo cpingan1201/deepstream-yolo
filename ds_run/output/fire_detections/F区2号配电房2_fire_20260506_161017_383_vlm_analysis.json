@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260506_161017_383.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-06 16:10:27",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"interference\",\n  \"description\": \"红色方框内的亮斑呈线性、规则的结构，位于设备顶部边缘，高度疑似光源干扰或设备本身的反射光，不具备火焰的跳动感和不规则性，判断为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "interference",
+    "description": "红色方框内的亮斑呈线性、规则的结构，位于设备顶部边缘，高度疑似光源干扰或设备本身的反射光，不具备火焰的跳动感和不规则性，判断为误报。"
+  }
+}

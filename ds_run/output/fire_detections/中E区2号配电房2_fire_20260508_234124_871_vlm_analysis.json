@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260508_234124_871.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 23:45:21",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"方框内物体排列规则，呈现稳定的橙红色光，无火焰跳动及烟雾特征，疑似配电柜底部指示灯或反光装置\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "方框内物体排列规则，呈现稳定的橙红色光，无火焰跳动及烟雾特征，疑似配电柜底部指示灯或反光装置"
+  }
+}

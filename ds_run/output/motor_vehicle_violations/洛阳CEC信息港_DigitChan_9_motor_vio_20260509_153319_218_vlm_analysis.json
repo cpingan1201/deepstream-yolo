@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/洛阳CEC信息港_DigitChan_9_motor_vio_20260509_153319_218.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:33:57",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"motor_vehicle_violations\",\n    \"description\": \"红框内是一辆白色的SUV，清晰可见车头、车轮和车身侧面，属于机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内是一辆白色的SUV，清晰可见车头、车轮和车身侧面，属于机动车目标。"
+  }
+}

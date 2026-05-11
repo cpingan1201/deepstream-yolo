@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_034736_462.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 03:50:09",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是配电柜底部的指示灯，呈现规则的红色光点，排列整齐，无火焰形态（如不规则跳动感、根部）及烟雾特征，属于正常的电气指示灯或设备报警信号，非真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是配电柜底部的指示灯，呈现规则的红色光点，排列整齐，无火焰形态（如不规则跳动感、根部）及烟雾特征，属于正常的电气指示灯或设备报警信号，非真实明火。"
+  }
+}

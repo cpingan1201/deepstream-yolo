@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/c3通道_non_motor_vio_20260511_113859_991.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 11:40:36",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motorcycle\",\n  \"description\": \"红框内清晰可见一辆银灰色的两轮车，具有明显的车轮、车把和车身结构，符合摩托车的特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motorcycle",
+    "description": "红框内清晰可见一辆银灰色的两轮车，具有明显的车轮、车把和车身结构，符合摩托车的特征。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/c3通道_non_motor_vio_20260510_130546_058.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 13:06:09",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内清晰可见一辆红色的两轮车（疑似电动车或摩托车），配有红色头盔，具有车轮、车把和车身结构，符合摩托车/非机动车特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见一辆红色的两轮车（疑似电动车或摩托车），配有红色头盔，具有车轮、车把和车身结构，符合摩托车/非机动车特征。"
+  }
+}

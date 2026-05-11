@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_071902_112.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 07:19:13",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是配电房顶部的红色指示灯或光源，呈现规则的光斑，无火焰跳动感及烟雾特征，属于正常设备状态或环境光源，判定为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是配电房顶部的红色指示灯或光源，呈现规则的光斑，无火焰跳动感及烟雾特征，属于正常设备状态或环境光源，判定为误报。"
+  }
+}

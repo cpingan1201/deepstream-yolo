@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电客流3号门进_non_motor_vio_20260511_050854_470.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 05:09:05",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内主要是一个蓝色的立式设备（疑似充电桩），旁边可见人的腿部，未检测到自行车或摩托车的特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内主要是一个蓝色的立式设备（疑似充电桩），旁边可见人的腿部，未检测到自行车或摩托车的特征。"
+  }
+}

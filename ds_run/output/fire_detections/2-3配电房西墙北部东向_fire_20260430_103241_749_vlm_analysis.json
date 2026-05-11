@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/2-3配电房西墙北部东向_fire_20260430_103241_749.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:32:54",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮斑缺乏真实火焰的跳动感和根部结构，更像是地面上的反光或燃烧物残留的余烬光芒，不构成持续的火灾信号。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮斑缺乏真实火焰的跳动感和根部结构，更像是地面上的反光或燃烧物残留的余烬光芒，不构成持续的火灾信号。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/C3进出_non_motor_vio_20260430_101823_608.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:18:39",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内看到的是一辆轿车/SUV。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内看到的是一辆轿车/SUV。"
+  }
+}

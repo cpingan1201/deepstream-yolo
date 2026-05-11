@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_174948_325.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 17:50:00",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是配电柜顶部的指示灯，呈现规则的点阵状排列，属于设备正常发光或状态指示，并非真实火焰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是配电柜顶部的指示灯，呈现规则的点阵状排列，属于设备正常发光或状态指示，并非真实火焰。"
+  }
+}

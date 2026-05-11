@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260511_115341_978.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-11 11:54:24",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内的红色光点呈现规则排列，且无跳动感，判断为上方光源或指示灯在光滑表面（如天花板或管道）上的反光，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的红色光点呈现规则排列，且无跳动感，判断为上方光源或指示灯在光滑表面（如天花板或管道）上的反光，属于误报。"
+  }
+}

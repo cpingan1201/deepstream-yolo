@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/1号楼东南侧_non_motor_vio_20260509_073502_315.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 07:42:14",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内清晰可见多辆停放的摩托车，具有两轮、车把及车身结构。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见多辆停放的摩托车，具有两轮、车把及车身结构。"
+  }
+}

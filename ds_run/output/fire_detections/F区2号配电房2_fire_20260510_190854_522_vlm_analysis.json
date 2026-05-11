@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_190854_522.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 19:09:06",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"light_source\",\n  \"description\": \"红色方框内显示的是天花板上的红色光源，属于正常设备指示灯，非明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light_source",
+    "description": "红色方框内显示的是天花板上的红色光源，属于正常设备指示灯，非明火。"
+  }
+}

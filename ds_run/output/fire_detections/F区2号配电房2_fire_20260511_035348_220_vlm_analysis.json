@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260511_035348_220.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-11 03:53:57",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"天花板上的红色指示灯或反光，属于光源干扰，非真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "天花板上的红色指示灯或反光，属于光源干扰，非真实明火。"
+  }
+}

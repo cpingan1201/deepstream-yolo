@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南门客流右_motor_vio_20260510_133709_554.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 13:37:24",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内是一辆白色的面包车或小型货车，具有封闭的车厢结构，可以看到车尾和后窗，属于机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内是一辆白色的面包车或小型货车，具有封闭的车厢结构，可以看到车尾和后窗，属于机动车目标。"
+  }
+}

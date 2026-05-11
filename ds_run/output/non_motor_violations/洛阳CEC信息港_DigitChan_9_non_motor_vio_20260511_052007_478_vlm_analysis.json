@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260511_052007_478.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 05:20:34",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内是一个立着的交通标志牌（疑似禁止停车标志），不具备摩托车或自行车的特征\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一个立着的交通标志牌（疑似禁止停车标志），不具备摩托车或自行车的特征"
+  }
+}

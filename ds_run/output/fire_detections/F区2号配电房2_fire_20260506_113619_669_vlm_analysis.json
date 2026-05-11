@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260506_113619_669.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-06 11:37:04",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"electrical_glow\",\n  \"description\": \"红色方框内的亮光表现为设备顶部或接线处的电光或电弧（arcing）现象。该光斑形状规则，缺乏真实火焰应有的不规则跳动感和明显根部结构，属于电气设备运行产生的非火灾性光亮，判定为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "electrical_glow",
+    "description": "红色方框内的亮光表现为设备顶部或接线处的电光或电弧（arcing）现象。该光斑形状规则，缺乏真实火焰应有的不规则跳动感和明显根部结构，属于电气设备运行产生的非火灾性光亮，判定为误报。"
+  }
+}

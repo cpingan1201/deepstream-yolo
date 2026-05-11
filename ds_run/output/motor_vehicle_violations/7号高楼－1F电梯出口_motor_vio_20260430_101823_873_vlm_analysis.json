@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/7号高楼－1F电梯出口_motor_vio_20260430_101823_873.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:18:47",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红色方框内是一个完整的、封闭车身的轿车（或SUV），符合机动车目标定义。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红色方框内是一个完整的、封闭车身的轿车（或SUV），符合机动车目标定义。"
+  }
+}

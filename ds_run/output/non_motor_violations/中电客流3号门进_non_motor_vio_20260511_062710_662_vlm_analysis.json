@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电客流3号门进_non_motor_vio_20260511_062710_662.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 06:27:25",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内清晰可见一辆蓝色的共享单车（或电动自行车），包含车身、车把等特征，属于非机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见一辆蓝色的共享单车（或电动自行车），包含车身、车把等特征，属于非机动车目标。"
+  }
+}

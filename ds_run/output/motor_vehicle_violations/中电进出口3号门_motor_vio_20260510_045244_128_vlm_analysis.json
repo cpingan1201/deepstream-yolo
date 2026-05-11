@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/中电进出口3号门_motor_vio_20260510_045244_128.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 04:52:50",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"motor_vehicle_violations\",\n\"description\": \"红框内主要显示的是道闸栏杆（白色横杆）以及后方的一辆自行车，没有看到封闭车身、车窗或车门等汽车结构，不符合机动车目标特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内主要显示的是道闸栏杆（白色横杆）以及后方的一辆自行车，没有看到封闭车身、车窗或车门等汽车结构，不符合机动车目标特征。"
+  }
+}

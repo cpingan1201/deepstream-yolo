@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260511_125023_459.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-11 12:50:45",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内的光点排列非常规则，呈现为规则的亮斑，疑似设备指示灯或天花板光源的干扰，不具备真实火焰的不规则跳动感或根部特征，判定为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的光点排列非常规则，呈现为规则的亮斑，疑似设备指示灯或天花板光源的干扰，不具备真实火焰的不规则跳动感或根部特征，判定为误报。"
+  }
+}

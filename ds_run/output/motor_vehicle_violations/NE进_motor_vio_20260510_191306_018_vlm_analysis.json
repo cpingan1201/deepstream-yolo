@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/NE进_motor_vio_20260510_191306_018.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 19:13:27",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"motor_vehicle_violations\", \"description\": \"红框内显示的是位于围墙上方安装的一个黑色物体（疑似监控摄像头），不具备汽车的车身、车窗或车轮等特征，无法确认为机动车。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内显示的是位于围墙上方安装的一个黑色物体（疑似监控摄像头），不具备汽车的车身、车窗或车轮等特征，无法确认为机动车。"
+  }
+}

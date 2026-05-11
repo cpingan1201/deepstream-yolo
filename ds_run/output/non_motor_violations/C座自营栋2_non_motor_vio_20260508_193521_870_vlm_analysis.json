@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/C座自营栋2_non_motor_vio_20260508_193521_870.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 20:00:47",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内清晰可见一辆两轮车，具有车把、车身、座椅及后座储物箱，符合摩托车或电动自行车的视觉特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见一辆两轮车，具有车把、车身、座椅及后座储物箱，符合摩托车或电动自行车的视觉特征。"
+  }
+}

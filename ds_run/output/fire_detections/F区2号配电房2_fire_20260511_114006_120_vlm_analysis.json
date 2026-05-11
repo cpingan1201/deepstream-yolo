@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260511_114006_120.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-11 11:41:26",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"false_alarm\", \"description\": \"红色方框内显示的是规则形状的亮斑，疑似管道或设备上的反光或指示灯，不具备火焰的不规则形态和根部，无烟雾伴随，判定为误报。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是规则形状的亮斑，疑似管道或设备上的反光或指示灯，不具备火焰的不规则形态和根部，无烟雾伴随，判定为误报。"
+  }
+}

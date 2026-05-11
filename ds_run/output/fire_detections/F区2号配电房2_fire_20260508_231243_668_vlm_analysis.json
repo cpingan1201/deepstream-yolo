@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260508_231243_668.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 23:12:56",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non-fire\",\n  \"description\": \"红色方框内显示的是天花板下方管道或线缆表面的反光（或热成像下的发热物体），呈现规则的亮斑，无火焰根部及烟雾，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non-fire",
+    "description": "红色方框内显示的是天花板下方管道或线缆表面的反光（或热成像下的发热物体），呈现规则的亮斑，无火焰根部及烟雾，属于误报。"
+  }
+}

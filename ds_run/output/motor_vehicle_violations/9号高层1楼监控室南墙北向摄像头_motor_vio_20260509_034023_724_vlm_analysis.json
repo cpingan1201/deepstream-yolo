@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/9号高层1楼监控室南墙北向摄像头_motor_vio_20260509_034023_724.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 03:40:40",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"motor_vehicle_violations\", \"description\": \"红框内显示的是穿着黄绿色反光背心的人员，属于行人，并非机动车目标。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内显示的是穿着黄绿色反光背心的人员，属于行人，并非机动车目标。"
+  }
+}

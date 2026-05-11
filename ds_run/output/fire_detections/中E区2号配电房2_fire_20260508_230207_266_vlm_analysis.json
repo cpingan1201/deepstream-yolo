@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260508_230207_266.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 23:03:53",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"fire\", \"description\": \"地面反光干扰，非真实明火\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "地面反光干扰，非真实明火"
+  }
+}

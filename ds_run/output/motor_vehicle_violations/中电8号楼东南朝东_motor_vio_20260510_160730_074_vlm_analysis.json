@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/中电8号楼东南朝东_motor_vio_20260510_160730_074.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 16:07:39",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内是一辆黑色的SUV汽车，具有清晰的封闭车身、车窗和车门结构，主体占据红框主要区域。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内是一辆黑色的SUV汽车，具有清晰的封闭车身、车窗和车门结构，主体占据红框主要区域。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_030157_085.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 03:03:14",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"误报\", \"description\": \"红色方框内的光点排列规则，且周围有大量同类红色指示灯，判断为配电柜底部的状态指示灯，非真实明火。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "误报",
+    "description": "红色方框内的光点排列规则，且周围有大量同类红色指示灯，判断为配电柜底部的状态指示灯，非真实明火。"
+  }
+}

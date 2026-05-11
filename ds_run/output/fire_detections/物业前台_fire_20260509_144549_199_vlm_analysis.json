@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_144549_199.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 14:45:55",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是红色文字“如遇水，要注意，湖岸旁边莫贪”，属于文字干扰，非真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是红色文字“如遇水，要注意，湖岸旁边莫贪”，属于文字干扰，非真实明火。"
+  }
+}

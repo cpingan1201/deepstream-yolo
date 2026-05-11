@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/C座自营栋2_non_motor_vio_20260509_081113_678.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 08:26:37",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"motorcycle\", \"description\": \"红框内清晰显示一辆摩托车（或电动踏板车），可见车轮、车把、车身及后置储物箱结构。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motorcycle",
+    "description": "红框内清晰显示一辆摩托车（或电动踏板车），可见车轮、车把、车身及后置储物箱结构。"
+  }
+}

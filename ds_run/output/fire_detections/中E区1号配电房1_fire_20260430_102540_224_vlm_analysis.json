@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区1号配电房1_fire_20260430_102540_224.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:25:49",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮斑缺乏火焰的明显根部和不规则跳动感。该光斑更像是由于周围电箱或照明设备产生的强烈反光或光线干扰，不构成真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮斑缺乏火焰的明显根部和不规则跳动感。该光斑更像是由于周围电箱或照明设备产生的强烈反光或光线干扰，不构成真实明火。"
+  }
+}

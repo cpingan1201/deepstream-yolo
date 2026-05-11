@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/9号高层1楼监控室南墙北向摄像头_motor_vio_20260509_022142_637.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 02:22:18",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内显示的是店铺内部的柜台及陈列物品，没有看到任何车辆特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内显示的是店铺内部的柜台及陈列物品，没有看到任何车辆特征。"
+  }
+}

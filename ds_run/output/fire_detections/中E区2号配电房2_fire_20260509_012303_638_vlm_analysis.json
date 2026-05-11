@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_012303_638.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 01:23:19",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"误报\",\n\"description\": \"红色方框内的物体呈现为规则排列的红色光点，形状类似电气柜底部的指示灯（如接地指示灯）或其在地面的反光，不具备火焰的不规则形状和跳动感，也无烟雾伴随，属于环境干扰导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "误报",
+    "description": "红色方框内的物体呈现为规则排列的红色光点，形状类似电气柜底部的指示灯（如接地指示灯）或其在地面的反光，不具备火焰的不规则形状和跳动感，也无烟雾伴随，属于环境干扰导致的误报。"
+  }
+}

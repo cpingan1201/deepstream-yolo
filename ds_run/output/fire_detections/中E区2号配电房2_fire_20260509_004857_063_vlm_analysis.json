@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_004857_063.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 00:49:31",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"fire\",\n    \"description\": \"方框内显示的是整齐排列的红色光点，看起来像是电气柜底部的指示灯或地面反光，缺乏火焰的不规则跳动感及烟雾特征，判定为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "方框内显示的是整齐排列的红色光点，看起来像是电气柜底部的指示灯或地面反光，缺乏火焰的不规则跳动感及烟雾特征，判定为误报。"
+  }
+}

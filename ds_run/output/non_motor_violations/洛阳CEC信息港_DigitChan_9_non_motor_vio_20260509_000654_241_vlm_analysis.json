@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260509_000654_241.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 00:10:57",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内显示一辆亮着前大灯的白色轿车（或SUV），具有明显的车轮、车灯和车身侧面结构，属于机动车，而非摩托车或自行车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示一辆亮着前大灯的白色轿车（或SUV），具有明显的车轮、车灯和车身侧面结构，属于机动车，而非摩托车或自行车。"
+  }
+}

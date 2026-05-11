@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_173613_948.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 17:37:06",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的红色光斑呈现规则状，且无火焰根部及烟雾特征，更像是管道或设备表面的反光或指示灯，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的红色光斑呈现规则状，且无火焰根部及烟雾特征，更像是管道或设备表面的反光或指示灯，属于误报。"
+  }
+}

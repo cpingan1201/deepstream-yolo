@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/中电13号楼北朝南_motor_vio_20260510_135928_018.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 13:59:35",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"motor_vehicle_violations\", \"description\": \"红框内主要为路面、交通标线和交通锥，未检测到任何封闭车身或车辆主体。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内主要为路面、交通标线和交通锥，未检测到任何封闭车身或车辆主体。"
+  }
+}

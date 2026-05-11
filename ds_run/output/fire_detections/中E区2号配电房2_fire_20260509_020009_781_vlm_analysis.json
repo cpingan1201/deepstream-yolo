@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_020009_781.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 02:04:01",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"fire\", \"description\": \"红色方框内显示明显的橙红色不规则光源，具有火焰的形态特征，符合真实明火告警。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "fire",
+    "description": "红色方框内显示明显的橙红色不规则光源，具有火焰的形态特征，符合真实明火告警。"
+  }
+}

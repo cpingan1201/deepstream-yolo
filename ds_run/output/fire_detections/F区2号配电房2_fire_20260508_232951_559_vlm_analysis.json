@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260508_232951_559.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 23:31:39",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"fire\",\n    \"description\": \"方框内显示规则排列的红色光点，疑似配电房顶部指示灯或反光，不具备火焰的不规则形态和跳动感，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "方框内显示规则排列的红色光点，疑似配电房顶部指示灯或反光，不具备火焰的不规则形态和跳动感，属于误报。"
+  }
+}

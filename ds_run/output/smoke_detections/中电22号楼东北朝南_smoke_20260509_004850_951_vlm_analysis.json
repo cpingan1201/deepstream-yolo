@@ -1,0 +1,12 @@
+{
+  "image_path": "output/smoke_detections/中电22号楼东北朝南_smoke_20260509_004850_951.jpg",
+  "detection_type": "smoke",
+  "source_type": "single",
+  "timestamp": "2026-05-09 00:49:20",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"light_source\",\n  \"description\": \"红色方框内显示的是夜间的路灯强光，产生的强烈光晕和眩光，并非真实烟雾，属于光源干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light_source",
+    "description": "红色方框内显示的是夜间的路灯强光，产生的强烈光晕和眩光，并非真实烟雾，属于光源干扰。"
+  }
+}

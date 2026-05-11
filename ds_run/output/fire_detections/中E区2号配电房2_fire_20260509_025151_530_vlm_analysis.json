@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_025151_530.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 02:52:04",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false alarm\",\n  \"description\": \"这是配电柜底部红色指示灯在地面上的反光，形状规则整齐，无火焰特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false alarm",
+    "description": "这是配电柜底部红色指示灯在地面上的反光，形状规则整齐，无火焰特征。"
+  }
+}

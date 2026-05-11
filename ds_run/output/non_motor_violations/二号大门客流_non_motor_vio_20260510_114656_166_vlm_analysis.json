@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/二号大门客流_non_motor_vio_20260510_114656_166.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 11:47:34",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内是一辆摩托车，车身覆盖有蓝色挡风被，可见车轮、车把和座椅结构\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一辆摩托车，车身覆盖有蓝色挡风被，可见车轮、车把和座椅结构"
+  }
+}

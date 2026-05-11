@@ -1,0 +1,12 @@
+{
+  "image_path": "output/cigarette_detections/9号高层－1F电梯出口_cigarette_20260509_080854_454.jpg",
+  "detection_type": "cigarette",
+  "source_type": "single",
+  "timestamp": "2026-05-09 08:20:19",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"cigarette\", \"description\": \"红色方框位于男子颈部/下巴区域，未检测到香烟或吸烟动作。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "cigarette",
+    "description": "红色方框位于男子颈部/下巴区域，未检测到香烟或吸烟动作。"
+  }
+}

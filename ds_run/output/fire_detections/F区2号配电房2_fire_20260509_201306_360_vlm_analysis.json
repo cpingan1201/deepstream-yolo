@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_201306_360.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 20:13:23",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"红色方框内显示的是整齐排列的红色光点，形态规则，无火焰跳动特征，推测为配电房顶部设备（如变压器）的正常运行指示灯或反光，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是整齐排列的红色光点，形态规则，无火焰跳动特征，推测为配电房顶部设备（如变压器）的正常运行指示灯或反光，属于误报。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260510_185705_583.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 18:57:27",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内显示一辆红色的电动三轮车（或类似的三轮车辆），具有明显的驾驶室/遮雨棚结构，并非两轮摩托车或自行车。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示一辆红色的电动三轮车（或类似的三轮车辆），具有明显的驾驶室/遮雨棚结构，并非两轮摩托车或自行车。"
+  }
+}

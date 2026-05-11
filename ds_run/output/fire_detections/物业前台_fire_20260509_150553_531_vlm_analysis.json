@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_150553_531.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:06:25",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"误报\",\n    \"description\": \"红色方框内显示的是文字提示“骑电动车戴头盔”，属于系统叠加的文字信息，并非真实的火焰或烟雾，因此判定为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "误报",
+    "description": "红色方框内显示的是文字提示“骑电动车戴头盔”，属于系统叠加的文字信息，并非真实的火焰或烟雾，因此判定为误报。"
+  }
+}

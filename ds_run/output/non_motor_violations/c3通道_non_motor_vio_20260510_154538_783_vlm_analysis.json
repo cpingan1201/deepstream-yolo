@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/c3通道_non_motor_vio_20260510_154538_783.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 15:46:11",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内显示一辆红色的电动三轮车，带有顶棚和载货斗，装载了杂物，不符合 bicycle 或 motorcycle 的定义\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示一辆红色的电动三轮车，带有顶棚和载货斗，装载了杂物，不符合 bicycle 或 motorcycle 的定义"
+  }
+}

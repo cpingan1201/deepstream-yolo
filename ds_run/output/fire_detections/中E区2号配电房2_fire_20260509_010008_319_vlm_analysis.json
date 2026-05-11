@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_010008_319.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 01:01:39",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"fire\",\n    \"description\": \"红色方框内的物体呈现固定的红色光斑，形状相对规则，无明显火焰跳动、根部或烟雾扩散特征，疑似墙面上的红色警示标识或指示灯，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的物体呈现固定的红色光斑，形状相对规则，无明显火焰跳动、根部或烟雾扩散特征，疑似墙面上的红色警示标识或指示灯，属于误报。"
+  }
+}

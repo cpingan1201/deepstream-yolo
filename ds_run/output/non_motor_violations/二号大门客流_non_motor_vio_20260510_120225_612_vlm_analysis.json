@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/二号大门客流_non_motor_vio_20260510_120225_612.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 12:03:10",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内清晰可见一辆两轮车，具有车把、车轮和车身结构，虽然覆盖有蓝色防雨罩，但特征符合摩托车或电动车的定义。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见一辆两轮车，具有车把、车轮和车身结构，虽然覆盖有蓝色防雨罩，但特征符合摩托车或电动车的定义。"
+  }
+}

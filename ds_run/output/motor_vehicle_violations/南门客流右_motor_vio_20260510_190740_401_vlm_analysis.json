@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南门客流右_motor_vio_20260510_190740_401.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 19:07:59",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"motor_vehicle_violations\",\n\"description\": \"红框内主要显示的是蓝白相间的道闸栏杆、白色路障以及地面导向箭头，没有发现任何机动车的主体特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内主要显示的是蓝白相间的道闸栏杆、白色路障以及地面导向箭头，没有发现任何机动车的主体特征。"
+  }
+}

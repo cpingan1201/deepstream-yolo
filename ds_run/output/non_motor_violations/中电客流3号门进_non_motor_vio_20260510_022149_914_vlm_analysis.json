@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电客流3号门进_non_motor_vio_20260510_022149_914.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 02:21:58",
+  "vlm_analysis": "{\n\"signal\": true,\n\"behavior_type\": \"non_motor_violations\",\n\"description\": \"红框内可见一辆两轮车辆，结合左侧标注的'motorcycle'字样及车辆轮廓特征，确认为摩托车。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内可见一辆两轮车辆，结合左侧标注的'motorcycle'字样及车辆轮廓特征，确认为摩托车。"
+  }
+}

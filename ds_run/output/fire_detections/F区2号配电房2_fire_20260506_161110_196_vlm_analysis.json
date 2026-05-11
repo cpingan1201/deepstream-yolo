@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260506_161110_196.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-06 16:14:25",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮光呈规则的、均匀的红色光斑，形态更接近于指示灯或设备运行状态的警告灯光，缺乏真实火焰应有的不规则跳动和根部结构，属于光源干扰误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮光呈规则的、均匀的红色光斑，形态更接近于指示灯或设备运行状态的警告灯光，缺乏真实火焰应有的不规则跳动和根部结构，属于光源干扰误报。"
+  }
+}

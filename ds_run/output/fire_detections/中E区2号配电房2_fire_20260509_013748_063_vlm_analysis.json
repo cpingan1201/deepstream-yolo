@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_013748_063.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 01:40:07",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"红色方框内的光点排列较为规则，且无明显的火焰根部和不规则跳动感，结合配电房环境，判断为上方红色指示灯在地面或物体上的反光倒影，属于环境干扰导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的光点排列较为规则，且无明显的火焰根部和不规则跳动感，结合配电房环境，判断为上方红色指示灯在地面或物体上的反光倒影，属于环境干扰导致的误报。"
+  }
+}

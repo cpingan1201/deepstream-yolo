@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/中电8号楼东南朝东_motor_vio_20260508_213135_729.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:31:51",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内清晰显示一辆白色的轿车，具有完整的封闭车身、车窗和车门结构，车辆主体占据了红框的主要区域，确认为机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示一辆白色的轿车，具有完整的封闭车身、车窗和车门结构，车辆主体占据了红框的主要区域，确认为机动车目标。"
+  }
+}

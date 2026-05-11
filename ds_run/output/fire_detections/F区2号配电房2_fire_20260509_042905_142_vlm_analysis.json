@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_042905_142.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 04:29:33",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"红色方框内显示的是上方光源（可能是指示灯）在光滑表面（如潮湿的顶棚或管道）上的反光，没有发现火焰特征\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是上方光源（可能是指示灯）在光滑表面（如潮湿的顶棚或管道）上的反光，没有发现火焰特征"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电展厅北朝南_non_motor_vio_20260510_134609_176.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 13:46:25",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内是一辆深色轿车，具有汽车的车身、挡风玻璃和车轮特征，并非摩托车或自行车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一辆深色轿车，具有汽车的车身、挡风玻璃和车轮特征，并非摩托车或自行车。"
+  }
+}

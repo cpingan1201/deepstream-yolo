@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/洛阳CEC信息港_DigitChan_9_motor_vio_20260511_082655_741.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 08:27:38",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"car\",\n  \"description\": \"红框内是一辆白色的轿车，清晰可见车头、车门和车轮，属于机动车。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "car",
+    "description": "红框内是一辆白色的轿车，清晰可见车头、车门和车轮，属于机动车。"
+  }
+}

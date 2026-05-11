@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/5号工坊－1F电梯出口_motor_vio_20260511_103722_936.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 10:37:45",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内清晰显示一辆深色的MPV或面包车，具有完整的封闭车身、车窗、车门及轮毂结构，车辆主体占据了红框的主要区域，确认为机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示一辆深色的MPV或面包车，具有完整的封闭车身、车窗、车门及轮毂结构，车辆主体占据了红框的主要区域，确认为机动车目标。"
+  }
+}

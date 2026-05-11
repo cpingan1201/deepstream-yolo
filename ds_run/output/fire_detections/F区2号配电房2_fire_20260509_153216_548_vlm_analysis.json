@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_153216_548.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:32:33",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是规则形状的亮斑，呈现为金属管道或线缆上的反光，没有火焰的不规则跳动感，属于光源或环境干扰导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是规则形状的亮斑，呈现为金属管道或线缆上的反光，没有火焰的不规则跳动感，属于光源或环境干扰导致的误报。"
+  }
+}

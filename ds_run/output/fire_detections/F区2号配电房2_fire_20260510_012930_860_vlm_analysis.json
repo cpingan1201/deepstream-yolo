@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_012930_860.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 01:29:41",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"false_alarm\", \"description\": \"红色方框内的红色光斑呈现规则排列，更像是电气设备的指示灯或环境光反射，没有明显的火焰特征（如不规则跳动、烟雾），且地面潮湿反光严重，属于误报。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的红色光斑呈现规则排列，更像是电气设备的指示灯或环境光反射，没有明显的火焰特征（如不规则跳动、烟雾），且地面潮湿反光严重，属于误报。"
+  }
+}

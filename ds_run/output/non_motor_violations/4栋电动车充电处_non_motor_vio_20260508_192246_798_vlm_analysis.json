@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/4栋电动车充电处_non_motor_vio_20260508_192246_798.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 19:45:50",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内清晰显示一辆自行车，可见车架、车轮、车把及后座结构。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰显示一辆自行车，可见车架、车轮、车把及后座结构。"
+  }
+}

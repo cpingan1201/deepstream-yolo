@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/A9大厅内侧_motor_vio_20260508_190352_299.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 19:18:09",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内清晰显示了一辆深色汽车的车头部分，具有明显的车窗、车顶和车身结构，符合机动车目标特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示了一辆深色汽车的车头部分，具有明显的车窗、车顶和车身结构，符合机动车目标特征。"
+  }
+}

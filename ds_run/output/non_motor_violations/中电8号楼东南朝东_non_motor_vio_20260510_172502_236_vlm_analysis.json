@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电8号楼东南朝东_non_motor_vio_20260510_172502_236.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 17:25:16",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内显示的是深色SUV汽车，车门打开，旁边有人站立，并非摩托车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是深色SUV汽车，车门打开，旁边有人站立，并非摩托车。"
+  }
+}

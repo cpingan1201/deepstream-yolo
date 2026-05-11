@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_080622_730.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 08:17:08",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的光点呈现规则的点状分布，且颜色稳定，没有明显的火焰跳动感或烟雾，符合配电柜底部指示灯的特征，属于光源干扰导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的光点呈现规则的点状分布，且颜色稳定，没有明显的火焰跳动感或烟雾，符合配电柜底部指示灯的特征，属于光源干扰导致的误报。"
+  }
+}

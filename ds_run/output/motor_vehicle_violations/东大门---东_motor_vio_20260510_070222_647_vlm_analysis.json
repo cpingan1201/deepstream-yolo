@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/东大门---东_motor_vio_20260510_070222_647.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 07:02:33",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"motor_vehicle_violations\", \"description\": \"红框内清晰可见两辆白色轿车，具有明显的车窗、车身等汽车结构，属于机动车目标\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰可见两辆白色轿车，具有明显的车窗、车身等汽车结构，属于机动车目标"
+  }
+}

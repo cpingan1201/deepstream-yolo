@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/1号楼东南侧_motor_vio_20260509_032308_109.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 03:24:44",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内清晰显示了一辆白色汽车的车头、车顶和车窗部分，具有明显的封闭车身和汽车结构。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示了一辆白色汽车的车头、车顶和车窗部分，具有明显的封闭车身和汽车结构。"
+  }
+}

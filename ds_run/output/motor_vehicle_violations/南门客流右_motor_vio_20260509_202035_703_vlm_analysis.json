@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南门客流右_motor_vio_20260509_202035_703.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 20:20:45",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内主要显示的是道闸栏杆、白色护栏、地面箭头标识以及石墩，并没有出现任何机动车（轿车、SUV等）的主体部分。虽然左上角有'car'的标签，但红框实际框选区域为空车状态。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内主要显示的是道闸栏杆、白色护栏、地面箭头标识以及石墩，并没有出现任何机动车（轿车、SUV等）的主体部分。虽然左上角有'car'的标签，但红框实际框选区域为空车状态。"
+  }
+}

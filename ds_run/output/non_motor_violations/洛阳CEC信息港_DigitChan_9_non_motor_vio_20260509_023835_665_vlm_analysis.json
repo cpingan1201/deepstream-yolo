@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260509_023835_665.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 02:39:38",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内清晰可见一辆摩托车，包含车轮、车身及车把结构，符合摩托车特征。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见一辆摩托车，包含车轮、车身及车把结构，符合摩托车特征。"
+  }
+}

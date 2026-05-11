@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260509_184648_577.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 18:46:59",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内是一辆三轮车（看起来像电动三轮车），具有三个轮子和简易驾驶室，不属于本项目定义的自行车或摩托车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一辆三轮车（看起来像电动三轮车），具有三个轮子和简易驾驶室，不属于本项目定义的自行车或摩托车。"
+  }
+}

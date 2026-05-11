@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260511_035946_734.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-11 03:59:57",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"误报\",\n  \"description\": \"红色方框内显示的是规则排列的红色光点，看起来像是火灾报警探测器的指示灯或电柜顶部的状态灯，没有火焰的跳动和烟雾特征，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "误报",
+    "description": "红色方框内显示的是规则排列的红色光点，看起来像是火灾报警探测器的指示灯或电柜顶部的状态灯，没有火焰的跳动和烟雾特征，属于误报。"
+  }
+}

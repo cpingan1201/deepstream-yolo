@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电客流3号门进_non_motor_vio_20260509_201544_215.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 20:16:10",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内显示的是一个人的腿部（穿着深色裤子）和鞋子（带有蓝色反光），未观察到摩托车或自行车的车轮、车架等特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是一个人的腿部（穿着深色裤子）和鞋子（带有蓝色反光），未观察到摩托车或自行车的车轮、车架等特征。"
+  }
+}

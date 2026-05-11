@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区1号配电房1_fire_20260430_103422_433.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:34:31",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮光区域缺乏火焰应有的不规则跳动和明显根部结构。该光斑形状规则，亮度集中，更符合电箱或周围光源的强烈反光或局部过热发光，不构成真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮光区域缺乏火焰应有的不规则跳动和明显根部结构。该光斑形状规则，亮度集中，更符合电箱或周围光源的强烈反光或局部过热发光，不构成真实明火。"
+  }
+}

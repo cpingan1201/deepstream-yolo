@@ -1,0 +1,13 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_045719_718.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 05:00:35",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"fire\", \"description\": \"配电房上方出现不规则红色光源，伴有地面强烈反射，疑似电气火灾。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "配电房上方出现不规则红色光源，伴有地面强烈反射，疑似电气火灾。",
+    "risk_level": 0.1
+  }
+}

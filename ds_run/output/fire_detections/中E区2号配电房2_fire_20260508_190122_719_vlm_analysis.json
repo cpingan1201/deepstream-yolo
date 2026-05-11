@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260508_190122_719.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 19:15:23",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"false_alarm\",\n\"description\": \"红色方框内的物体呈现规则的排列状，类似于周围配电柜上的指示灯或反光，没有观察到火焰的不规则形状、跳动感或伴随的烟雾，属于光源干扰或误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的物体呈现规则的排列状，类似于周围配电柜上的指示灯或反光，没有观察到火焰的不规则形状、跳动感或伴随的烟雾，属于光源干扰或误报。"
+  }
+}

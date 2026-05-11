@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/垃圾场_non_motor_vio_20260509_054718_187.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:16:44",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内是一辆摩托车（或三轮车），符合摩托车特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一辆摩托车（或三轮车），符合摩托车特征。"
+  }
+}

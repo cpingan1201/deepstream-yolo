@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/1号楼东南侧_non_motor_vio_20260509_074903_241.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 07:54:17",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内清晰显示了一辆两轮车（看起来像电动车），具有明显的车轮、车身和车把结构。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰显示了一辆两轮车（看起来像电动车），具有明显的车轮、车身和车把结构。"
+  }
+}

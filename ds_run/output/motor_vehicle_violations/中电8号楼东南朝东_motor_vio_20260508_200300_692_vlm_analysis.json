@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/中电8号楼东南朝东_motor_vio_20260508_200300_692.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 20:22:07",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"motor_vehicle_violations\",\n    \"description\": \"红框内清晰显示了一辆白色的汽车（看起来像面包车），具有封闭的车身、车窗和车门结构，符合机动车目标特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示了一辆白色的汽车（看起来像面包车），具有封闭的车身、车窗和车门结构，符合机动车目标特征。"
+  }
+}

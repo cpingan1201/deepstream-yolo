@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_150613_101.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:07:04",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"false_alarm\", \"description\": \"红色方框内显示的是文字提示‘电动车逆行危害大，意外...’，属于屏幕文字或标牌干扰，并非真实火焰。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是文字提示‘电动车逆行危害大，意外...’，属于屏幕文字或标牌干扰，并非真实火焰。"
+  }
+}

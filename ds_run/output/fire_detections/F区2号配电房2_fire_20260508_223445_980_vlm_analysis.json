@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260508_223445_980.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 22:35:40",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的红色光点排列规则，呈现静止状态，无火焰的不规则跳动和根部特征，且位于机房顶部，极可能是设备指示灯或反光，属于光源干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的红色光点排列规则，呈现静止状态，无火焰的不规则跳动和根部特征，且位于机房顶部，极可能是设备指示灯或反光，属于光源干扰。"
+  }
+}

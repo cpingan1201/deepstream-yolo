@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fight_detections/D4道闸路段_fight_20260509_182753_674.jpg",
+  "detection_type": "fight",
+  "source_type": "single",
+  "timestamp": "2026-05-09 18:28:02",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non-fight\",\n  \"description\": \"画面中人物似乎正在行走或进行正常的肢体接触（如搀扶或拥抱），未观察到挥拳、踢腿或推搡等具有伤害意图的剧烈动作，不存在打架行为。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non-fight",
+    "description": "画面中人物似乎正在行走或进行正常的肢体接触（如搀扶或拥抱），未观察到挥拳、踢腿或推搡等具有伤害意图的剧烈动作，不存在打架行为。"
+  }
+}

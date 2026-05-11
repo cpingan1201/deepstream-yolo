@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/3号岗厅客流_non_motor_vio_20260509_162638_782.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 16:26:44",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内显示的是一个白色的顶棚或遮阳结构，上面印有“3号岗厅客流”字样，并非自行车或摩托车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是一个白色的顶棚或遮阳结构，上面印有“3号岗厅客流”字样，并非自行车或摩托车。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区1号配电房1_fire_20260430_102902_347.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:29:13",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"该亮斑缺乏真实火焰的跳动和不规则形态，光线过于规则和集中，更像是地面或设备上的强光反射或发光部件，属于光源干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "该亮斑缺乏真实火焰的跳动和不规则形态，光线过于规则和集中，更像是地面或设备上的强光反射或发光部件，属于光源干扰。"
+  }
+}

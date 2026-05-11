@@ -1,0 +1,2743 @@
+{
+  "confidence_thresholds": {
+    "person": 0.6,
+    "bicycle": 0.5,
+    "car": 0.5,
+    "motorcycle": 0.5,
+    "fire": 0.7,
+    "smoke": 0.7,
+    "cigarette": 0.4,
+    "stick": 0.3,
+    "animal": 0.3,
+    "default": 0.3
+  },
+  "cameras": {
+    "camera_001": {
+      "name": "C3进出",
+      "index": 1,
+      "cameraIndexCode": "3740aad52b6f486dbae89e5bc6dab4bb",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            2,
+            423
+          ],
+          [
+            426,
+            119
+          ],
+          [
+            475,
+            140
+          ],
+          [
+            514,
+            168
+          ],
+          [
+            341,
+            575
+          ],
+          [
+            2,
+            573
+          ],
+          [
+            3,
+            429
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_003": {
+      "name": "D4道闸路段",
+      "index": 3,
+      "cameraIndexCode": "ad0e8bedb9f446079f3a413e90770c79",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            45,
+            564
+          ],
+          [
+            297,
+            165
+          ],
+          [
+            445,
+            155
+          ],
+          [
+            525,
+            573
+          ],
+          [
+            45,
+            572
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_004": {
+      "name": "C座道闸",
+      "index": 4,
+      "cameraIndexCode": "5a5395d4d45943a79e329d5a454b2725",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            186,
+            84
+          ],
+          [
+            170,
+            125
+          ],
+          [
+            239,
+            359
+          ],
+          [
+            639,
+            359
+          ],
+          [
+            639,
+            209
+          ],
+          [
+            336,
+            95
+          ],
+          [
+            319,
+            113
+          ],
+          [
+            252,
+            84
+          ],
+          [
+            188,
+            85
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_005": {
+      "name": "NE进",
+      "index": 5,
+      "cameraIndexCode": "1471d1e4be83489a834ae0505dbe7d21",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            1,
+            315
+          ],
+          [
+            312,
+            2
+          ],
+          [
+            484,
+            2
+          ],
+          [
+            579,
+            575
+          ],
+          [
+            1,
+            575
+          ],
+          [
+            3,
+            315
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_006": {
+      "name": "垃圾场南E地库出入口",
+      "index": 6,
+      "cameraIndexCode": "8ce27637e2e04fb6b1ad54d6ad480197",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            3,
+            332
+          ],
+          [
+            190,
+            128
+          ],
+          [
+            398,
+            114
+          ],
+          [
+            703,
+            447
+          ],
+          [
+            703,
+            573
+          ],
+          [
+            3,
+            571
+          ],
+          [
+            4,
+            329
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_007": {
+      "name": "办公区",
+      "index": 7,
+      "cameraIndexCode": "fe7493e888b649549eab708b80c46a89"
+    },
+    "camera_008": {
+      "name": "A13配电室西门",
+      "index": 8,
+      "cameraIndexCode": "162b3b45d5644070b49e8c4432a4d474"
+    },
+    "camera_009": {
+      "name": "A13消防泵房东门外走廊",
+      "index": 9,
+      "cameraIndexCode": "579877a1f2494f009ef1672887a22621"
+    },
+    "camera_010": {
+      "name": "监控室",
+      "index": 10,
+      "cameraIndexCode": "f3fd5d422fb243e08cccf306a50bf5e2"
+    },
+    "camera_011": {
+      "name": "配电室",
+      "index": 11,
+      "cameraIndexCode": "a84954d3b6874a07bd0dbb5c8e25655c"
+    },
+    "camera_012": {
+      "name": "9#-地下室消防水箱房101",
+      "index": 12,
+      "cameraIndexCode": "4afc557060d94baa8c15af5d6635fe1d"
+    },
+    "camera_013": {
+      "name": "9#-地下室（消防水泵房）126",
+      "index": 13,
+      "cameraIndexCode": "da83d16f51744846a4bac33831822c8d"
+    },
+    "camera_014": {
+      "name": "9#-地下室（配电室）104",
+      "index": 14,
+      "cameraIndexCode": "d0f1b19451424016b5c6bfb3de53fa02"
+    },
+    "camera_015": {
+      "name": "消防监控室139",
+      "index": 15,
+      "cameraIndexCode": "61268cb9c99640afb3daf1b9846e59a4"
+    },
+    "camera_016": {
+      "name": "监控室",
+      "index": 16,
+      "cameraIndexCode": "c8eade3365a9489698ff7ee5ad0da9da"
+    },
+    "camera_017": {
+      "name": "1号楼东南侧",
+      "index": 17,
+      "cameraIndexCode": "e492d43456f7485395f91940774b8a11",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            222,
+            568
+          ],
+          [
+            411,
+            125
+          ],
+          [
+            455,
+            130
+          ],
+          [
+            443,
+            441
+          ],
+          [
+            610,
+            438
+          ],
+          [
+            668,
+            573
+          ],
+          [
+            222,
+            568
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_018": {
+      "name": "4栋电动车充电处",
+      "index": 18,
+      "cameraIndexCode": "933f3492ec874f93a0358d93a45d0c07"
+    },
+    "camera_019": {
+      "name": "物业办公室",
+      "index": 19,
+      "cameraIndexCode": "c88a589dc9294530814030e0873f1472"
+    },
+    "camera_020": {
+      "name": "监控室",
+      "index": 20,
+      "cameraIndexCode": "9282e8be630a4d07ad55e8ba6b9b0ab1"
+    },
+    "camera_021": {
+      "name": "水泵房",
+      "index": 21,
+      "cameraIndexCode": "cae42d1cbd9e4285b6d22c5448cc51ab"
+    },
+    "camera_022": {
+      "name": "K9二楼总配电室",
+      "index": 22,
+      "cameraIndexCode": "4bddc69c566b4be5bac71a9ca8a3a686"
+    },
+    "camera_023": {
+      "name": "B1水泵房内",
+      "index": 23,
+      "cameraIndexCode": "5a7d8c425e754341b43b5c050093062a"
+    },
+    "camera_024": {
+      "name": "B1水泵房外",
+      "index": 24,
+      "cameraIndexCode": "bc2f4c5359bc406e9faf5014a6e0d694"
+    },
+    "camera_025": {
+      "name": "B1配电房(外)",
+      "index": 25,
+      "cameraIndexCode": "41a9894e7012430e92cbedaa6cd71d57"
+    },
+    "camera_026": {
+      "name": "B1配电房(内)",
+      "index": 26,
+      "cameraIndexCode": "078ed1fa8ad0422e9da848d8455ba6e2"
+    },
+    "camera_027": {
+      "name": "B2-2F物业大厅",
+      "index": 27,
+      "cameraIndexCode": "5b0cc9c827d54858bdbcbe62bc298061"
+    },
+    "camera_028": {
+      "name": "B11-西边生活垃圾站",
+      "index": 28,
+      "cameraIndexCode": "c424cb3ed7764c4581d4a6fdf31d2245",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            50,
+            196
+          ],
+          [
+            639,
+            181
+          ],
+          [
+            637,
+            358
+          ],
+          [
+            16,
+            356
+          ],
+          [
+            47,
+            202
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_029": {
+      "name": "B12-西边建筑垃圾站",
+      "index": 29,
+      "cameraIndexCode": "80bc05bd15c74c748036d98d5ba65d0a"
+    },
+    "camera_030": {
+      "name": "B4-监控室01",
+      "index": 30,
+      "cameraIndexCode": "94b804eac35d478c9bdee7e46c04a782"
+    },
+    "camera_031": {
+      "name": "B1地下车库配电房03",
+      "index": 31,
+      "cameraIndexCode": "12bb773cf97a4e2d83ffd26a6774c11a"
+    },
+    "camera_032": {
+      "name": "B4-监控室02",
+      "index": 32,
+      "cameraIndexCode": "525d9249285440828988fde11daaf30d"
+    },
+    "camera_033": {
+      "name": "D3鹰眼球机",
+      "index": 33,
+      "cameraIndexCode": "9607e619a69640cc95ecb8e8a270a675"
+    },
+    "camera_034": {
+      "name": "E1消控室2",
+      "index": 34,
+      "cameraIndexCode": "8f4cb41ba34c4695b150036dbe4bd5dd"
+    },
+    "camera_035": {
+      "name": "D3水泵房2",
+      "index": 35,
+      "cameraIndexCode": "2388893b6da4429892966084bdb9075b"
+    },
+    "camera_036": {
+      "name": "D区2号水泵房",
+      "index": 36,
+      "cameraIndexCode": "d9350b7e7c4046e19b45cfcc3523ef13"
+    },
+    "camera_037": {
+      "name": "2号配电间",
+      "index": 37,
+      "cameraIndexCode": "1dd2ddc46820496cb7d3f172b1fbcb91"
+    },
+    "camera_038": {
+      "name": "D6栋1F",
+      "index": 38,
+      "cameraIndexCode": "4e0b5d502d784c00a85d002b459a4c46"
+    },
+    "camera_039": {
+      "name": "D3鹰眼180",
+      "index": 39,
+      "cameraIndexCode": "6a120c45f0924ebba7d2a1186badb949"
+    },
+    "camera_040": {
+      "name": "D3-1F南大厅",
+      "index": 40,
+      "cameraIndexCode": "007f58f7531e42b0a0322adce9ffbdb1"
+    },
+    "camera_041": {
+      "name": "中控室",
+      "index": 41,
+      "cameraIndexCode": "fb850cf712b14bf29be7fb7be656758f"
+    },
+    "camera_042": {
+      "name": "配电室2",
+      "index": 42,
+      "cameraIndexCode": "8d8d67c855144c219fb50026e5de26c4"
+    },
+    "camera_043": {
+      "name": "消防泵房",
+      "index": 43,
+      "cameraIndexCode": "46127e7ae232425ea3cfcc1c0ae5b2ba"
+    },
+    "camera_044": {
+      "name": "配电室1",
+      "index": 44,
+      "cameraIndexCode": "4ab47990679849138dbb53143f669a7e"
+    },
+    "camera_045": {
+      "name": "消房泵房监控",
+      "index": 45,
+      "cameraIndexCode": "a86194883aff480388bcc66c76018e8f"
+    },
+    "camera_046": {
+      "name": "水泵房监控4",
+      "index": 46,
+      "cameraIndexCode": "1783ec7c10a2433aa1e4f7afcd334f61"
+    },
+    "camera_047": {
+      "name": "水泵房监控5",
+      "index": 47,
+      "cameraIndexCode": "dea79359dff1400aac15fc186b6df136"
+    },
+    "camera_048": {
+      "name": "高压配电室监控",
+      "index": 48,
+      "cameraIndexCode": "d51f16e76ea842418c8c192b3871f3ad"
+    },
+    "camera_049": {
+      "name": "高压配电室监控2",
+      "index": 49,
+      "cameraIndexCode": "8962f98d19af46e8ae44978123f7a142"
+    },
+    "camera_050": {
+      "name": "305岗亭监控",
+      "index": 50,
+      "cameraIndexCode": "ab3f2359c78a47ee81ef511aaa33ab5b"
+    },
+    "camera_051": {
+      "name": "309岗监控",
+      "index": 51,
+      "cameraIndexCode": "53d3805048a449b6aaf00e76222d2b0c"
+    },
+    "camera_052": {
+      "name": "物业前台",
+      "index": 52,
+      "cameraIndexCode": "8b529267feaf425681e6746ee8b6aab8"
+    },
+    "camera_053": {
+      "name": "监控室监控",
+      "index": 53,
+      "cameraIndexCode": "1d867ee986a249c3baa590b86c5bf65a"
+    },
+    "camera_054": {
+      "name": "配电室01",
+      "index": 54,
+      "cameraIndexCode": "ceacca9896a840d1ae3132a464f70714"
+    },
+    "camera_055": {
+      "index": 55,
+      "name": "消防泵01",
+      "cameraIndexCode": "093d079b4c564177a186d5fea339b325"
+    },
+    "camera_056": {
+      "name": "配电房03",
+      "index": 56,
+      "cameraIndexCode": "269b1a8370094af79b4d351325ef1a2f"
+    },
+    "camera_057": {
+      "name": "生活水泵房01",
+      "index": 57,
+      "cameraIndexCode": "7773d41934a8439892cc0dd4714f567b"
+    },
+    "camera_058": {
+      "name": "消控室",
+      "index": 58,
+      "cameraIndexCode": "1bbcd68a357a41b8a97a2e0a846a915c"
+    },
+    "camera_059": {
+      "name": "配电房1",
+      "index": 59,
+      "cameraIndexCode": "bdc59d36319c4898b9450a94f726e74a"
+    },
+    "camera_060": {
+      "name": "水泵房",
+      "index": 60,
+      "cameraIndexCode": "25ec8fe2f0d74b5cb281237f9c52db74"
+    },
+    "camera_061": {
+      "name": "物业前台",
+      "index": 61,
+      "cameraIndexCode": "4038c7c96b5642e9b7bd2c6cb0cccf68"
+    },
+    "camera_062": {
+      "name": "配电房2",
+      "index": 62,
+      "cameraIndexCode": "bafd219ce5454d72a7a57691aa164bea"
+    },
+    "camera_063": {
+      "name": "消控室",
+      "index": 63,
+      "cameraIndexCode": "5b103ea066664c85924927bd04c21a19"
+    },
+    "camera_064": {
+      "name": "消防泵房1",
+      "index": 64,
+      "cameraIndexCode": "3fc0ddc9392248f3a8187b24ff9ee552"
+    },
+    "camera_065": {
+      "name": "消防泵房2",
+      "index": 65,
+      "cameraIndexCode": "ce2386ff24f34ff8b026868ea93e406e"
+    },
+    "camera_066": {
+      "name": "垃圾场",
+      "index": 66,
+      "cameraIndexCode": "cfdb002aae05492cab17f0e13cd364bf"
+    },
+    "camera_067": {
+      "name": "办公室",
+      "index": 67,
+      "cameraIndexCode": "e4bc514168f648ac81dc7267f6da691c"
+    },
+    "camera_068": {
+      "name": "配电室",
+      "index": 68,
+      "cameraIndexCode": "ac6aeded2f5948e08f22546f7fd462c2"
+    },
+    "camera_069": {
+      "name": "3号消防泵房",
+      "index": 69,
+      "cameraIndexCode": "eb70248f588640b3a084b92efcca99ad"
+    },
+    "camera_070": {
+      "name": "3号水泵房",
+      "index": 70,
+      "cameraIndexCode": "f9438115e54a4938972067098e9a6e44"
+    },
+    "camera_071": {
+      "name": "垃圾站",
+      "index": 71,
+      "cameraIndexCode": "13e9091000874a07bcc72a452a259c4e"
+    },
+    "camera_072": {
+      "name": "消防泵房",
+      "index": 72,
+      "cameraIndexCode": "861ff71c72214a33bb6cdcfc11ed3536"
+    },
+    "camera_073": {
+      "name": "生活泵房",
+      "index": 73,
+      "cameraIndexCode": "b508b31077004732959b08af28970c45"
+    },
+    "camera_074": {
+      "name": "配电房1",
+      "index": 74,
+      "cameraIndexCode": "04c25a5f18ad4d0cacf14c0c7ff7990c"
+    },
+    "camera_075": {
+      "name": "配电房2",
+      "index": 75,
+      "cameraIndexCode": "9475279f5ec246c7acfe85fd45f969af"
+    },
+    "camera_076": {
+      "name": "物业办公室走道",
+      "index": 76,
+      "cameraIndexCode": "377a1ee290cf434d9cd003b5960e7aeb"
+    },
+    "camera_077": {
+      "name": "办公室前台",
+      "index": 77,
+      "cameraIndexCode": "393a6692873445ab828262222fe2c916"
+    },
+    "camera_078": {
+      "name": "B14高压配电房1",
+      "index": 78,
+      "cameraIndexCode": "90bbbb48536e4c66ac5e95fc2fca46eb"
+    },
+    "camera_079": {
+      "name": "B14消防泵房",
+      "index": 79,
+      "cameraIndexCode": "48c3ebc5567345ff887e849f6695d316"
+    },
+    "camera_080": {
+      "name": "B14高压配电房2",
+      "index": 80,
+      "cameraIndexCode": "83442bbf71ae4225b7da60fb03bd5334"
+    },
+    "camera_081": {
+      "name": "B14生活泵房",
+      "index": 81,
+      "cameraIndexCode": "2494519002aa4ac0847ae68c198c4bff"
+    },
+    "camera_082": {
+      "name": "B3监控室",
+      "index": 82,
+      "cameraIndexCode": "213b7101c1af445895feaf65b75486da"
+    },
+    "camera_083": {
+      "name": "B3物业前台",
+      "index": 83,
+      "cameraIndexCode": "3d7d7e6c5bda46aa8949bad044547602"
+    },
+    "camera_084": {
+      "name": "俪湖天地前台",
+      "index": 84,
+      "cameraIndexCode": "eed9598ea18345c7949350f9bb1309a6"
+    },
+    "camera_085": {
+      "name": "俪湖天地生活水泵房",
+      "index": 85,
+      "cameraIndexCode": "cb5758e3ebde483d93973f08280f1e52"
+    },
+    "camera_086": {
+      "name": "俪湖天地消防水泵房",
+      "index": 86,
+      "cameraIndexCode": "21b48cdb430448d6a95a5b53f7de9ebc"
+    },
+    "camera_087": {
+      "name": "俪湖天地中心配电房1",
+      "index": 87,
+      "cameraIndexCode": "8c65e78b7c2b48c3830ecc949b542db3"
+    },
+    "camera_088": {
+      "name": "俪湖天地中心配电房2",
+      "index": 88,
+      "cameraIndexCode": "8a7e2fe0d2bd4d2690816a21c9aa2779"
+    },
+    "camera_100": {
+      "name": "物业办公室",
+      "index": 100,
+      "cameraIndexCode": "a478289b45014c5fb5b09c55b37d8b56"
+    },
+    "camera_101": {
+      "name": "星光配电房",
+      "index": 101,
+      "cameraIndexCode": "401bc7e6fd5945e9a7e2e0d9ecf10e7e"
+    },
+    "camera_102": {
+      "name": "20栋电梯机房",
+      "index": 102,
+      "cameraIndexCode": "03583656d0a14a5eb0deadc8e5c8f8a6"
+    },
+    "camera_103": {
+      "name": "24栋消防泵房",
+      "index": 103,
+      "cameraIndexCode": "ac142807e7284923ae02eb00233a6742"
+    },
+    "camera_104": {
+      "name": "21栋水泵房",
+      "index": 104,
+      "cameraIndexCode": "d336cd4ac0b54360a24ee768ac28312b"
+    },
+    "camera_105": {
+      "name": "星光2栋电梯机房",
+      "index": 105,
+      "cameraIndexCode": "5ec199341833438887ae579314f170e0"
+    },
+    "camera_106": {
+      "name": "23栋电梯机房",
+      "index": 106,
+      "cameraIndexCode": "3ff7bc4a486749208836a806d64360f0"
+    },
+    "camera_107": {
+      "name": "24栋电梯机房",
+      "index": 107,
+      "cameraIndexCode": "e385b92213564e34ae405cb7cd6ee684"
+    },
+    "camera_108": {
+      "name": "23栋配电房",
+      "index": 108,
+      "cameraIndexCode": "4b373cc5cb8a459b88f882fa0c01a7e3"
+    },
+    "camera_109": {
+      "name": "22栋电梯机房",
+      "index": 109,
+      "cameraIndexCode": "6a9e78e67eb64c41a2dff6e7df332b9d"
+    },
+    "camera_110": {
+      "name": "星光1栋电梯机房",
+      "index": 110,
+      "cameraIndexCode": "51a5a65669d84af1a02c84d0717942dd"
+    },
+    "camera_112": {
+      "name": "19栋电梯机房",
+      "index": 112,
+      "cameraIndexCode": "0fea653e24ed499fb8dca2a26edcdf5b"
+    },
+    "camera_113": {
+      "name": "21栋电梯机房",
+      "index": 113,
+      "cameraIndexCode": "2ce67a35c20e479d969541fa2b3d4a71"
+    },
+    "camera_120": {
+      "name": "4号高层1层大门中部西向摄像机",
+      "index": 120,
+      "cameraIndexCode": "d2d6ec8b4448489a95d42582807be666"
+    },
+    "camera_121": {
+      "name": "物业大厅",
+      "index": 121,
+      "cameraIndexCode": "ca2c756c3c5b453ca9836ed495347c91"
+    },
+    "camera_122": {
+      "name": "物业办公室",
+      "index": 122,
+      "cameraIndexCode": "5704ad3a117a4962b2ff8487a36dc087"
+    },
+    "camera_123": {
+      "name": "Camera 01",
+      "index": 123,
+      "cameraIndexCode": "6f6a33f4ebba4b408ff628243a051d18"
+    },
+    "camera_124": {
+      "name": "19号楼-1F大门",
+      "index": 124,
+      "cameraIndexCode": "b80182196fc5493182106b718bea8394"
+    },
+    "camera_125": {
+      "name": "19号楼-1F",
+      "index": 125,
+      "cameraIndexCode": "30e33be2cab644039805228e27314c79"
+    },
+    "camera_130": {
+      "name": "中电信息港1栋前厅",
+      "index": 130,
+      "cameraIndexCode": "31962cacd46e45159e89927147a6e74f"
+    },
+    "camera_131": {
+      "name": "中电信息港6B一层前厅",
+      "index": 131,
+      "cameraIndexCode": "d4a4458e00854e3f88391718abb9b4d3"
+    },
+    "camera_132": {
+      "name": "中电信息港2栋前厅",
+      "index": 132,
+      "cameraIndexCode": "b2a1b12e1f5446e29b699084a33deb12"
+    },
+    "camera_133": {
+      "name": "中电信息港8栋B座前厅",
+      "index": 133,
+      "cameraIndexCode": "34322a93b02540ceb0501b46d2fbfbaa"
+    },
+    "camera_134": {
+      "name": "中电信息港6栋A座前厅",
+      "index": 134,
+      "cameraIndexCode": "f7f83d94aeb24751b9a2886e1e50f002"
+    },
+    "camera_135": {
+      "name": "中电信息港8A一层前厅",
+      "index": 135,
+      "cameraIndexCode": "a79ef02f62a14d638192f4fa42ba9598"
+    },
+    "camera_136": {
+      "name": "中电信息港5A一层前厅",
+      "index": 136,
+      "cameraIndexCode": "361df2de93254f1592d4511ac80702fe"
+    },
+    "camera_137": {
+      "name": "中电信息港5B一层前厅",
+      "index": 137,
+      "cameraIndexCode": "167f85a42acc45d683931d94a3e9d496"
+    },
+    "camera_138": {
+      "name": "信息港物业办公室",
+      "index": 138,
+      "cameraIndexCode": "5b2cd28df9dc41638662c8214c4c3688"
+    },
+    "camera_139": {
+      "name": "信息港物业大厅",
+      "index": 139,
+      "cameraIndexCode": "7b7f8ed66f8041ba8beb48211aa0f892"
+    },
+    "camera_140": {
+      "name": "配电房",
+      "index": 140,
+      "cameraIndexCode": "1536aaf1a2aa4a0d8ba8ba14e6ab73ff"
+    },
+    "camera_141": {
+      "name": "物业办公室1",
+      "index": 141,
+      "cameraIndexCode": "a7ad3ca0d5dd4a25926f41e8d01915d5"
+    },
+    "camera_142": {
+      "name": "A座自营栋",
+      "index": 142,
+      "cameraIndexCode": "cf8e2ef8d18d4e0a94e40e683d3a5673"
+    },
+    "camera_143": {
+      "name": "监控室",
+      "index": 143,
+      "cameraIndexCode": "0f8b39b0497441eb89ee5a7fb93f3784"
+    },
+    "camera_144": {
+      "name": "物业办公室",
+      "index": 144,
+      "cameraIndexCode": "e44efe2beaaa4fa991b0efbd025a1e6b"
+    },
+    "camera_145": {
+      "index": 145,
+      "name": "物业办公室2",
+      "cameraIndexCode": "6b7281522e1248c2bb1345a01808d364"
+    },
+    "camera_146": {
+      "index": 146,
+      "name": "C座自营栋2",
+      "cameraIndexCode": "dffb7cb4248c43db9300c6e58e9a9f58"
+    },
+    "camera_147": {
+      "name": "水泵房",
+      "index": 147,
+      "cameraIndexCode": "c7b2b067448147ca940dae00758c7129"
+    },
+    "camera_148": {
+      "name": "A7一楼大厅",
+      "index": 148,
+      "cameraIndexCode": "0be2858a6d5f40d283e91312c601b60c"
+    },
+    "camera_149": {
+      "name": "D2西",
+      "index": 149,
+      "cameraIndexCode": "b66f584e94644047a9856a8594f60741"
+    },
+    "camera_150": {
+      "name": "物业办公室",
+      "index": 150,
+      "cameraIndexCode": "715502326c5d4a57b087835f99be1edf"
+    },
+    "camera_151": {
+      "name": "一栋大厅客流",
+      "index": 151,
+      "cameraIndexCode": "b4545db0522f428986fc4487644d65ad"
+    },
+    "camera_152": {
+      "name": "展厅客流",
+      "index": 152,
+      "cameraIndexCode": "09d998bd37114f268c02c5e238c5dd61"
+    },
+    "camera_153": {
+      "name": "二号大门客流",
+      "index": 153,
+      "cameraIndexCode": "11c7dbda9b1840ce97fc7c64977402f7",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            3,
+            176
+          ],
+          [
+            414,
+            117
+          ],
+          [
+            703,
+            246
+          ],
+          [
+            700,
+            575
+          ],
+          [
+            1,
+            571
+          ],
+          [
+            4,
+            175
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_154": {
+      "name": "南门客流右",
+      "index": 154,
+      "cameraIndexCode": "49d49d15d1e2451db086eb42bc2be40d",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            1,
+            79
+          ],
+          [
+            452,
+            33
+          ],
+          [
+            700,
+            365
+          ],
+          [
+            700,
+            571
+          ],
+          [
+            2,
+            569
+          ],
+          [
+            3,
+            79
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_155": {
+      "index": 155,
+      "name": "南门客流左",
+      "cameraIndexCode": "e9bdf64462a44b0c870cc36c44d8caf6",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            91,
+            59
+          ],
+          [
+            697,
+            105
+          ],
+          [
+            697,
+            572
+          ],
+          [
+            9,
+            570
+          ],
+          [
+            5,
+            232
+          ],
+          [
+            89,
+            65
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_156": {
+      "name": "食堂一楼左门客流",
+      "index": 156,
+      "cameraIndexCode": "4c8d57e6bad44302bb869546787a5784"
+    },
+    "camera_157": {
+      "name": "3号岗厅客流",
+      "index": 157,
+      "cameraIndexCode": "6c7b885581a9404593b08f10f2b75472",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            83,
+            96
+          ],
+          [
+            214,
+            89
+          ],
+          [
+            364,
+            214
+          ],
+          [
+            362,
+            264
+          ],
+          [
+            703,
+            565
+          ],
+          [
+            463,
+            573
+          ],
+          [
+            254,
+            274
+          ],
+          [
+            100,
+            285
+          ],
+          [
+            82,
+            99
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_158": {
+      "name": "消控室",
+      "index": 158,
+      "cameraIndexCode": "b62fb4d8d9494e1e90adf2a5a0ef4d95"
+    },
+    "camera_159": {
+      "name": "中电22号楼东北朝南",
+      "index": 159,
+      "cameraIndexCode": "316606a8706d402ea41961fceffe4565",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            169,
+            273
+          ],
+          [
+            244,
+            359
+          ],
+          [
+            494,
+            358
+          ],
+          [
+            273,
+            254
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_160": {
+      "name": "中电客流1号门进",
+      "index": 160,
+      "cameraIndexCode": "91f0cc91d8ad420d81fb45d9c58571bc",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            7,
+            141
+          ],
+          [
+            678,
+            116
+          ],
+          [
+            699,
+            570
+          ],
+          [
+            7,
+            565
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_161": {
+      "name": "中电进出口3号门",
+      "index": 161,
+      "cameraIndexCode": "ab7e4fd260984a558f43ab6b0030b920",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            0,
+            359
+          ],
+          [
+            1,
+            193
+          ],
+          [
+            200,
+            146
+          ],
+          [
+            172,
+            92
+          ],
+          [
+            261,
+            91
+          ],
+          [
+            638,
+            256
+          ],
+          [
+            638,
+            358
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_162": {
+      "name": "中电8号楼东南朝东",
+      "index": 162,
+      "cameraIndexCode": "56b4908a8df743899ebb63b136dc0dbe",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            2,
+            359
+          ],
+          [
+            22,
+            117
+          ],
+          [
+            103,
+            50
+          ],
+          [
+            168,
+            45
+          ],
+          [
+            639,
+            301
+          ],
+          [
+            639,
+            359
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_163": {
+      "name": "中电13号楼北朝南",
+      "index": 163,
+      "cameraIndexCode": "bdf18db8aa104b59b4fd2164e81ba8b1",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            7,
+            278
+          ],
+          [
+            459,
+            103
+          ],
+          [
+            565,
+            109
+          ],
+          [
+            527,
+            358
+          ],
+          [
+            2,
+            358
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_164": {
+      "name": "中电客流3号门进",
+      "index": 164,
+      "cameraIndexCode": "ad46657c253945f99803853faf354888",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            4,
+            573
+          ],
+          [
+            1,
+            156
+          ],
+          [
+            357,
+            234
+          ],
+          [
+            534,
+            147
+          ],
+          [
+            579,
+            161
+          ],
+          [
+            700,
+            270
+          ],
+          [
+            702,
+            574
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_165": {
+      "name": "中电展厅北朝南",
+      "index": 165,
+      "cameraIndexCode": "7becab4e7e2b4ea0a8a8a2f35eaf7dc8",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            233,
+            135
+          ],
+          [
+            418,
+            133
+          ],
+          [
+            638,
+            221
+          ],
+          [
+            638,
+            358
+          ],
+          [
+            125,
+            357
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_166": {
+      "index": 166,
+      "name": "中电鹰眼",
+      "cameraIndexCode": "881ae8fd9d21421d8cbc137d129752b2"
+    },
+    "camera_167": {
+      "name": "中电消控室2",
+      "index": 167,
+      "cameraIndexCode": "acb688c77372441b9f47214c6b287fc7"
+    },
+    "camera_168": {
+      "name": "中电消控室1",
+      "index": 168,
+      "cameraIndexCode": "f1a563d9d7b14025a2955f281914f67b"
+    },
+    "camera_169": {
+      "name": "洛阳CEC信息港_DigitChan_9",
+      "index": 169,
+      "cameraIndexCode": "dc5f7453c5d940118813d253a35fd1d3",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            0,
+            287
+          ],
+          [
+            1,
+            138
+          ],
+          [
+            127,
+            73
+          ],
+          [
+            217,
+            73
+          ],
+          [
+            351,
+            147
+          ],
+          [
+            351,
+            287
+          ],
+          [
+            2,
+            286
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_170": {
+      "name": "东大门---东",
+      "index": 170,
+      "cameraIndexCode": "8c87fe5e06f64b6ea312cb7146747a04",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            0,
+            313
+          ],
+          [
+            363,
+            214
+          ],
+          [
+            636,
+            227
+          ],
+          [
+            635,
+            357
+          ],
+          [
+            2,
+            356
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_171": {
+      "name": "物业大厅西南角",
+      "index": 171,
+      "cameraIndexCode": "e9a84be79c4c4281a300d0bafa2c9eec"
+    },
+    "camera_172": {
+      "name": "监控室 东",
+      "index": 172,
+      "cameraIndexCode": "b13f654218df4667b32001408ea68955"
+    },
+    "camera_173": {
+      "name": "监控室--西",
+      "index": 173,
+      "cameraIndexCode": "f87133a68ef24621b3b14e5351181e8f"
+    },
+    "camera_174": {
+      "name": "南大门前门岗",
+      "index": 174,
+      "cameraIndexCode": "2c44d92fbbdd4fa9b3e81ac81ca889c6",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            629,
+            359
+          ],
+          [
+            485,
+            82
+          ],
+          [
+            304,
+            77
+          ],
+          [
+            12,
+            141
+          ],
+          [
+            2,
+            355
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_175": {
+      "name": "A7一楼电梯厅",
+      "index": 175,
+      "cameraIndexCode": "54fe49c1487f4f8a87a2136506730499"
+    },
+    "camera_176": {
+      "index": 176,
+      "name": "1F-前台侧（左）",
+      "cameraIndexCode": "2a2455c4c35c4b4598508bd76a8cbcf5"
+    },
+    "camera_177": {
+      "name": "1F-大堂2（左）",
+      "index": 177,
+      "cameraIndexCode": "74df050b6cb340888d07cd4e4dac180d"
+    },
+    "camera_178": {
+      "index": 178,
+      "name": "1F-大堂1号（右）",
+      "cameraIndexCode": "916e457337f946af8117901b03fb411e"
+    },
+    "camera_179": {
+      "name": "1F-大堂1（左）",
+      "index": 179,
+      "cameraIndexCode": "c526566d94bc4957b6ed882fdc496a07"
+    },
+    "camera_180": {
+      "name": "1F -物业大厅左",
+      "index": 180,
+      "cameraIndexCode": "99640f6e28c84eafb95323dd128ac59a"
+    },
+    "camera_182": {
+      "name": "C3调度中心",
+      "index": 182,
+      "cameraIndexCode": "60bd4f6a463440e08c84fe46ea1f2789"
+    },
+    "camera_183": {
+      "name": "6号工坊1层大门中部东向摄像机",
+      "index": 183,
+      "cameraIndexCode": "9c1e43a1d82442e0b45c4df1d4ba6f01"
+    },
+    "camera_184": {
+      "name": "2号高层地库电梯出口",
+      "index": 184,
+      "cameraIndexCode": "d373510bb1ac4f4da8a1ad094aef400b",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            16,
+            275
+          ],
+          [
+            716,
+            278
+          ],
+          [
+            717,
+            572
+          ],
+          [
+            1,
+            572
+          ],
+          [
+            13,
+            278
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_185": {
+      "name": "3号高层－1F电梯出口",
+      "index": 185,
+      "cameraIndexCode": "5681ef42f80f4da2b7836cc94b89fa00",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            1,
+            368
+          ],
+          [
+            701,
+            230
+          ],
+          [
+            718,
+            572
+          ],
+          [
+            2,
+            573
+          ],
+          [
+            1,
+            369
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_186": {
+      "name": "3号高层1层大门中部东向摄像头",
+      "index": 186,
+      "cameraIndexCode": "7fab56310da54791bf1d46e1eb2dbc03"
+    },
+    "camera_187": {
+      "name": "4号高层－1F电梯出口",
+      "index": 187,
+      "cameraIndexCode": "39de4e19b1304047ac6f7f02299fc8db",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            151,
+            92
+          ],
+          [
+            201,
+            83
+          ],
+          [
+            241,
+            171
+          ],
+          [
+            350,
+            164
+          ],
+          [
+            351,
+            287
+          ],
+          [
+            1,
+            285
+          ],
+          [
+            1,
+            179
+          ],
+          [
+            151,
+            178
+          ],
+          [
+            151,
+            91
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_188": {
+      "name": "5高-1F地库电梯出口",
+      "index": 188,
+      "cameraIndexCode": "ef35b7b55bab424b8373b14f996bb219",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            250,
+            94
+          ],
+          [
+            362,
+            84
+          ],
+          [
+            380,
+            310
+          ],
+          [
+            711,
+            278
+          ],
+          [
+            717,
+            572
+          ],
+          [
+            3,
+            574
+          ],
+          [
+            2,
+            341
+          ],
+          [
+            255,
+            324
+          ],
+          [
+            248,
+            97
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_189": {
+      "name": "5号高层1层大门中部东向摄像机",
+      "index": 189,
+      "cameraIndexCode": "350c397cf906477789b6ed04885ebc81"
+    },
+    "camera_190": {
+      "name": "6号高层1层大门中部东向摄像机",
+      "index": 190,
+      "cameraIndexCode": "03a239c37e6f4def8bae2f02f6f3b8bc"
+    },
+    "camera_191": {
+      "name": "6号高层-1F电梯出口",
+      "index": 191,
+      "cameraIndexCode": "1ac70ad651db41f5892f8c8157f11a94",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            17,
+            354
+          ],
+          [
+            710,
+            287
+          ],
+          [
+            713,
+            570
+          ],
+          [
+            5,
+            574
+          ],
+          [
+            10,
+            354
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_192": {
+      "name": "7号高楼－1F电梯出口",
+      "index": 192,
+      "cameraIndexCode": "dce3deb0963e447aa39616f2857a4953"
+    },
+    "camera_193": {
+      "name": "7号高层1层大门中部西向摄像机",
+      "index": 193,
+      "cameraIndexCode": "1f7b4680ca41492b9f5f47e670b82ba7"
+    },
+    "camera_194": {
+      "name": "8号高层－1F电梯出口",
+      "index": 194,
+      "cameraIndexCode": "ebd5721ae7c444a093080b3045929e0f"
+    },
+    "camera_195": {
+      "name": "8号高层1层大门中部东向摄像机",
+      "index": 195,
+      "cameraIndexCode": "a2f031610f1146b98a04656a5acbce7b"
+    },
+    "camera_196": {
+      "name": "9号高层－1F电梯出口",
+      "index": 196,
+      "cameraIndexCode": "fa66c57c43464ee1b024e16123bd5eab"
+    },
+    "camera_197": {
+      "name": "9号高层1层大门中部西向摄像机",
+      "index": 197,
+      "cameraIndexCode": "87386692bf5b4562b90ddbd66edd6582"
+    },
+    "camera_198": {
+      "name": "10号高层－1F电梯出口",
+      "index": 198,
+      "cameraIndexCode": "fc08657846c547f38cf6fa4a71216f60"
+    },
+    "camera_199": {
+      "name": "10号高层1层大门中部东向摄像机",
+      "index": 199,
+      "cameraIndexCode": "08f09b50084b4cf09bada0a66d937c0c"
+    },
+    "camera_200": {
+      "name": "11号高层－1F电梯出口",
+      "index": 200,
+      "cameraIndexCode": "c8141f01221d4443b9c81adac91052a7"
+    },
+    "camera_201": {
+      "name": "11号高层1层大门中部南向摄像",
+      "index": 201,
+      "cameraIndexCode": "beee6750f8cb4d6c90550b52f0531d7d"
+    },
+    "camera_202": {
+      "name": "2号工坊1层大门中部西向摄像机",
+      "index": 202,
+      "cameraIndexCode": "74ef835e09214694a31db6d55b93979f"
+    },
+    "camera_203": {
+      "name": "2号工坊－1F电梯出口",
+      "index": 203,
+      "cameraIndexCode": "ecfba2f6eb714ecfa1ce623357b13120"
+    },
+    "camera_204": {
+      "name": "3号工坊1层大门中部南向摄像机",
+      "index": 204,
+      "cameraIndexCode": "7c8c082dc02647398262ad0cdfc1cfd9"
+    },
+    "camera_205": {
+      "name": "3号工坊－1F电梯出口",
+      "index": 205,
+      "cameraIndexCode": "2eda64da107f42a5b7a465fa8d9a183a"
+    },
+    "camera_206": {
+      "name": "2#水泵房东面墙西向摄像头",
+      "index": 206,
+      "cameraIndexCode": "12c885ab7d60423ca6c973c2fe496e8d"
+    },
+    "camera_207": {
+      "name": "4号工坊1层大门中部南向摄像机",
+      "index": 207,
+      "cameraIndexCode": "784c4d712bd348009f5246702ef00f82"
+    },
+    "camera_208": {
+      "name": "5号工坊－1F电梯出口",
+      "index": 208,
+      "cameraIndexCode": "f2e6f7d28c33499d99e4534d0f30af6b",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            10,
+            213
+          ],
+          [
+            716,
+            310
+          ],
+          [
+            714,
+            565
+          ],
+          [
+            6,
+            559
+          ],
+          [
+            4,
+            217
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_209": {
+      "name": "7坊负一楼电梯前室",
+      "index": 209,
+      "cameraIndexCode": "883a1d748f30418a8aa6f6f086f5d59e"
+    },
+    "camera_210": {
+      "name": "7号工坊1层大门中部西向摄像机",
+      "index": 210,
+      "cameraIndexCode": "ebfdd1d0ba1b4c69b2c5e91a4dadc792"
+    },
+    "camera_211": {
+      "name": "8坊负一层电梯前室",
+      "index": 211,
+      "cameraIndexCode": "b66c7f3c4dc74793af31ed8bbaa433d3"
+    },
+    "camera_212": {
+      "name": "8号工坊1层大门中部南向摄像机",
+      "index": 212,
+      "cameraIndexCode": "ccc0172840774a09a32bad2917137203"
+    },
+    "camera_213": {
+      "name": "9号工坊1层大门中部",
+      "index": 213,
+      "cameraIndexCode": "150e753954bc48498ff00609bc3ea174"
+    },
+    "camera_214": {
+      "name": "10号工坊1层大门中部东向摄像头",
+      "index": 214,
+      "cameraIndexCode": "97971bfbed0748d993c4ec6fd37c0326"
+    },
+    "camera_215": {
+      "name": "11号工坊1层大门中部西向摄像头",
+      "index": 215,
+      "cameraIndexCode": "8ef4940e4f4147e1a058b23c78062602"
+    },
+    "camera_216": {
+      "name": "A8大厅内侧",
+      "index": 216,
+      "cameraIndexCode": "d240968ac8a943a1931708008b31267e"
+    },
+    "camera_217": {
+      "name": "A9大厅内侧",
+      "index": 217,
+      "cameraIndexCode": "ef65f470e4d54e3cbee845dcd04a61eb"
+    },
+    "camera_218": {
+      "name": "A11大厅内侧",
+      "index": 218,
+      "cameraIndexCode": "067b8c9c00204ece8516e8e246046dd9"
+    },
+    "camera_219": {
+      "name": "c3通道",
+      "index": 219,
+      "cameraIndexCode": "fbcd27ed441e444f89c8895dbc6c91b5",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            702,
+            302
+          ],
+          [
+            1,
+            347
+          ],
+          [
+            5,
+            574
+          ],
+          [
+            703,
+            574
+          ],
+          [
+            702,
+            302
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_220": {
+      "name": "F2南门内",
+      "index": 220,
+      "cameraIndexCode": "f0f7cfac606644e3b0806859e7b54588"
+    },
+    "camera_221": {
+      "name": "F3门岗",
+      "index": 221,
+      "cameraIndexCode": "720db826b05a41e0a16bb9a851b008da"
+    },
+    "camera_222": {
+      "name": "中E1大厅内",
+      "index": 222,
+      "cameraIndexCode": "7050161315d44632b2a8de0aa4952cc9"
+    },
+    "camera_223": {
+      "name": "E2大厅内",
+      "index": 223,
+      "cameraIndexCode": "3d5fab168cbd48c7bb6bd571c3a6299e"
+    },
+    "camera_224": {
+      "name": "E4大厅内",
+      "index": 224,
+      "cameraIndexCode": "73dd8fca84724238bd4ebbf7ac2a748d"
+    },
+    "camera_225": {
+      "name": "E5大厅内",
+      "index": 225,
+      "cameraIndexCode": "70cdac9deeae4e4a823a1aa6278dd02a"
+    },
+    "camera_226": {
+      "name": "1号高层内部西南角东北向",
+      "index": 226,
+      "cameraIndexCode": "97ea7da94f72416eb369216fba863b4a"
+    },
+    "camera_227": {
+      "name": "1高-1楼地库电梯出口",
+      "index": 227,
+      "cameraIndexCode": "0301c8dfc18340c094a3a40b327ea6f7",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            5,
+            386
+          ],
+          [
+            718,
+            359
+          ],
+          [
+            718,
+            565
+          ],
+          [
+            5,
+            572
+          ],
+          [
+            2,
+            386
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_228": {
+      "name": "1-5配电房南面墙中部北",
+      "index": 228,
+      "cameraIndexCode": "2f3a6a1f72a0449d9ff6f59687053b4b"
+    },
+    "camera_230": {
+      "name": "2#水泵房东南角北向摄像头",
+      "index": 230,
+      "cameraIndexCode": "2d41719b28d54d1891f212c32ffaff0e"
+    },
+    "camera_231": {
+      "name": "9号高层1楼监控室南墙北向摄像头",
+      "index": 231,
+      "cameraIndexCode": "0311895a179a4ea4b80a287ff8199c57"
+    },
+    "camera_232": {
+      "name": "9高监控室大门",
+      "index": 232,
+      "cameraIndexCode": "7535424438bd4456a900c1aa925dcd2e"
+    },
+    "camera_233": {
+      "name": "6高3楼办公大厅",
+      "index": 233,
+      "cameraIndexCode": "de9539591089493c8aab13f893a115ce"
+    },
+    "camera_234": {
+      "name": "6高三楼前厅",
+      "index": 234,
+      "cameraIndexCode": "ae908228cc1a447c985cefe936f031ae"
+    },
+    "camera_235": {
+      "name": "1#水泵房东侧西向",
+      "index": 235,
+      "cameraIndexCode": "6e405308a55b4932a22cc5de87f525b2"
+    },
+    "camera_236": {
+      "name": "2-3配电房西墙北部东向",
+      "index": 236,
+      "cameraIndexCode": "541b170556c84a60a370b83cb78d5c0b"
+    },
+    "camera_237": {
+      "name": "b22水泵房",
+      "index": 237,
+      "cameraIndexCode": "3c0d03a7050d4d61a15b9f5d42de017f"
+    },
+    "camera_238": {
+      "name": "b22水泵房2",
+      "index": 238,
+      "cameraIndexCode": "c1354af45ee9464190f499529e0892e1"
+    },
+    "camera_239": {
+      "name": "b22配电房1",
+      "index": 239,
+      "cameraIndexCode": "c72390402e594cf6822bd291b59533d5"
+    },
+    "camera_240": {
+      "name": "b22配电房2",
+      "index": 240,
+      "cameraIndexCode": "ed57a5c692ef4723acee2b67a11cd48c"
+    },
+    "camera_241": {
+      "name": "b18配电房1",
+      "index": 241,
+      "cameraIndexCode": "1644cbaba6f9452bbfc80e56e6abf691"
+    },
+    "camera_242": {
+      "name": "b18配电房2",
+      "index": 242,
+      "cameraIndexCode": "9aa86c01a98e4926bbade7bb4ed87084"
+    },
+    "camera_243": {
+      "name": "b18水泵房2",
+      "index": 243,
+      "cameraIndexCode": "50d2a313f58c460182502664b1bb81db"
+    },
+    "camera_244": {
+      "name": "b18水泵房2",
+      "index": 244,
+      "cameraIndexCode": "7d4ceac6591f4bc6af6728009e196a0c"
+    },
+    "camera_245": {
+      "name": "b5配电房1",
+      "index": 245,
+      "cameraIndexCode": "e46480c43df24c0e8e6d14d1bdb841c7"
+    },
+    "camera_246": {
+      "name": "b5配电房2",
+      "index": 246,
+      "cameraIndexCode": "b733d80ad8bf4f6f831c229d57cd0c02"
+    },
+    "camera_247": {
+      "name": "b5水泵房1",
+      "index": 247,
+      "cameraIndexCode": "5610ad64663f4c05bcf61bfa064eb32d"
+    },
+    "camera_248": {
+      "name": "b5水泵房2",
+      "index": 248,
+      "cameraIndexCode": "aff14fc046c64aa38a1135fb676190e1"
+    },
+    "camera_249": {
+      "name": "b4消防泵房1",
+      "index": 249,
+      "cameraIndexCode": "961199dad8954696a0f6b9450dfa5c8b"
+    },
+    "camera_250": {
+      "name": "b4消防泵房2",
+      "index": 250,
+      "cameraIndexCode": "f79f97b87c5d4d738fa405c5005d29ef"
+    },
+    "camera_251": {
+      "name": "b4配电房1",
+      "index": 251,
+      "cameraIndexCode": "e6b7ffd0e46a4d59a4078e330942144c"
+    },
+    "camera_252": {
+      "name": "b4配电房2",
+      "index": 252,
+      "cameraIndexCode": "083ee28ce8964c4daa66b031c75fe115"
+    },
+    "camera_253": {
+      "name": "b2配电房1",
+      "index": 253,
+      "cameraIndexCode": "ee07b2dda0d44445ab85034fb1938847"
+    },
+    "camera_254": {
+      "name": "b2配电房2",
+      "index": 254,
+      "cameraIndexCode": "c33c794ebc1d46139ea73f9d2fcdd2ba"
+    },
+    "camera_255": {
+      "name": "b7配电房1",
+      "index": 255,
+      "cameraIndexCode": "7003893ace524a1488f5c72baf823a91"
+    },
+    "camera_256": {
+      "name": "b7配电房2",
+      "index": 256,
+      "cameraIndexCode": "e071cf9fae9b4d598334e352b3208fb9"
+    },
+    "camera_257": {
+      "name": "b7水泵房2",
+      "index": 257,
+      "cameraIndexCode": "8968b652116448238717eb0f67c575b4"
+    },
+    "camera_258": {
+      "name": "b7水泵房1",
+      "index": 258,
+      "cameraIndexCode": "a9d33c7af755445ea156f46736a8476e"
+    },
+    "camera_259": {
+      "name": "b27配电房2",
+      "index": 259,
+      "cameraIndexCode": "fa408570c09e4a46a3466746277559cb"
+    },
+    "camera_260": {
+      "name": "b27配电房1",
+      "index": 260,
+      "cameraIndexCode": "a48a25069e4447e8b0ed395691da89bf"
+    },
+    "camera_261": {
+      "name": "b27消防泵房1",
+      "index": 261,
+      "cameraIndexCode": "37c216a9a7584fbea9237d39a96a8889"
+    },
+    "camera_262": {
+      "name": "b27消防泵房2",
+      "index": 262,
+      "cameraIndexCode": "76dff5e538174946a4cd9dea1d90580b"
+    },
+    "camera_263": {
+      "name": "b26配电房2",
+      "index": 263,
+      "cameraIndexCode": "b43a1f6fb4634945a31bdcd0f8cce070"
+    },
+    "camera_264": {
+      "name": "b26配电房1",
+      "index": 264,
+      "cameraIndexCode": "cb2c950275e74fad97a3d064d451a674"
+    },
+    "camera_265": {
+      "name": "a4水泵房1",
+      "index": 265,
+      "cameraIndexCode": "0b61b495ea00479dbfe1b9f7831bacb7"
+    },
+    "camera_266": {
+      "name": "a4水泵房2",
+      "index": 266,
+      "cameraIndexCode": "83947c3fff4743dab1ff1bcb0563a821"
+    },
+    "camera_267": {
+      "name": "a4配电房1",
+      "index": 267,
+      "cameraIndexCode": "a4440dae874644688dbf3344e87545ce"
+    },
+    "camera_268": {
+      "name": "a4配电房2",
+      "index": 268,
+      "cameraIndexCode": "f018298af27948cfb95ff02cfdd230f3"
+    },
+    "camera_269": {
+      "name": "a3水泵房1",
+      "index": 269,
+      "cameraIndexCode": "41a373e7533a400ebd72cf2d2a22f487"
+    },
+    "camera_270": {
+      "name": "a3水泵房2",
+      "index": 270,
+      "cameraIndexCode": "d4cbef188df9488d9d8b68cfcb054802"
+    },
+    "camera_271": {
+      "name": "a3配电房1",
+      "index": 271,
+      "cameraIndexCode": "6c5ce27de569427f8ac2c0f30a54aa6f"
+    },
+    "camera_272": {
+      "name": "a3配电房2",
+      "index": 272,
+      "cameraIndexCode": "c8ce5bf664634003ade35b4371ebe8b6"
+    },
+    "camera_273": {
+      "name": "a15配电房1",
+      "index": 273,
+      "cameraIndexCode": "c847d60a48d545d7b9833b54ab622763"
+    },
+    "camera_274": {
+      "name": "a15配电房2",
+      "index": 274,
+      "cameraIndexCode": "db1613d45be14547b0ccf0bfdba266ef"
+    },
+    "camera_275": {
+      "name": "a15水泵房1",
+      "index": 275,
+      "cameraIndexCode": "b3ca41a018bf48ceb844a66bd634859f"
+    },
+    "camera_276": {
+      "name": "a15水泵房2",
+      "index": 276,
+      "cameraIndexCode": "50ba76090c924e7daaaa581089f84e33"
+    },
+    "camera_277": {
+      "name": "b14水泵房1",
+      "index": 277,
+      "cameraIndexCode": "f6650c49bfa04486b4f23fd59a9c1b0d"
+    },
+    "camera_278": {
+      "name": "b14水泵房2",
+      "index": 278,
+      "cameraIndexCode": "4fe1be7b8d9a418989378a83b93c6a69"
+    },
+    "camera_279": {
+      "name": "a1配电房1",
+      "index": 279,
+      "cameraIndexCode": "16b9e41e16864dc29e8958d8ab235205"
+    },
+    "camera_280": {
+      "name": "a1配电房2",
+      "index": 280,
+      "cameraIndexCode": "07ca22c2ac924a73990c39c982413009"
+    },
+    "camera_281": {
+      "name": "a1消防泵房1",
+      "index": 281,
+      "cameraIndexCode": "2aebe9fee4f4470c870c02862a59be94"
+    },
+    "camera_282": {
+      "name": "a1消防泵房2",
+      "index": 282,
+      "cameraIndexCode": "ab092ba1acc14c698891f4dda223e434"
+    },
+    "camera_283": {
+      "name": "办公室1",
+      "index": 283,
+      "cameraIndexCode": "fae8f7a0af05483392a4eb891cb93648"
+    },
+    "camera_284": {
+      "name": "办公室2",
+      "index": 284,
+      "cameraIndexCode": "1e5a2d72834040fdb9fd802227ce8d3f"
+    },
+    "camera_285": {
+      "name": "监控中心",
+      "index": 285,
+      "cameraIndexCode": "68758ee72d6e428baadd0b6adfd4f4c1"
+    },
+    "camera_286": {
+      "name": "南区消防泵房1",
+      "index": 286,
+      "cameraIndexCode": "830eb6958ade47b89fef056245529605"
+    },
+    "camera_287": {
+      "name": "南区消防泵房2",
+      "index": 287,
+      "cameraIndexCode": "1034812e4fc8483a8f442f3294e9a516"
+    },
+    "camera_288": {
+      "name": "南E区发电房1",
+      "index": 288,
+      "cameraIndexCode": "2ec38379236349fd8c8239f488c2b542"
+    },
+    "camera_289": {
+      "name": "南E区3号配电房1",
+      "index": 289,
+      "cameraIndexCode": "7280c63a806646b09cd3dede168b41ec"
+    },
+    "camera_290": {
+      "name": "南E区3号配电房2",
+      "index": 290,
+      "cameraIndexCode": "b7ec2edccfa14bd08de85ebfa8f4d2c5"
+    },
+    "camera_291": {
+      "name": "南E区1号配电房1",
+      "index": 291,
+      "cameraIndexCode": "0a96114145a74f928c60a502c4335187"
+    },
+    "camera_292": {
+      "name": "F区消防泵房1",
+      "index": 292,
+      "cameraIndexCode": "f98e490b9bbc47d5b15fb139004ee720"
+    },
+    "camera_293": {
+      "name": "F区消防泵房2",
+      "index": 293,
+      "cameraIndexCode": "906412d0d17349db8acf82855ca53a8d"
+    },
+    "camera_294": {
+      "name": "F区1号水泵房1",
+      "index": 294,
+      "cameraIndexCode": "ab46b20c37fe450ea59a00ddf4e0f4cd"
+    },
+    "camera_295": {
+      "name": "F区1号水泵房2",
+      "index": 295,
+      "cameraIndexCode": "61a625edafe64f0c80871f0f8b025064"
+    },
+    "camera_296": {
+      "name": "F区1号配电房1",
+      "index": 296,
+      "cameraIndexCode": "d5376e82690f484f8835a604ffb31278"
+    },
+    "camera_297": {
+      "name": "F区1号配电房2",
+      "index": 297,
+      "cameraIndexCode": "6abbba2c547248c3ad8a92bdf06546f6"
+    },
+    "camera_298": {
+      "name": "F区3号配电房1",
+      "index": 298,
+      "cameraIndexCode": "e7c290df8b6d4bf4b66f1d3976298505"
+    },
+    "camera_299": {
+      "name": "F区3号配电房1",
+      "index": 299,
+      "cameraIndexCode": "9c6909686a89446e870cc8ff1fbe0156"
+    },
+    "camera_300": {
+      "name": "F区2号配电房1",
+      "index": 300,
+      "cameraIndexCode": "22f5a0971bc745af8acf1e92f2f09c5c"
+    },
+    "camera_301": {
+      "name": "F区2号配电房2",
+      "index": 301,
+      "cameraIndexCode": "1244a4759e564ca0a514a4e1de238565"
+    },
+    "camera_302": {
+      "name": "F区2号配电房3",
+      "index": 302,
+      "cameraIndexCode": "0901805ce6254125bf1f84872a488591"
+    },
+    "camera_303": {
+      "name": "F区2号水泵房1",
+      "index": 303,
+      "cameraIndexCode": "9ffdb4774aed49caaeda17087ea2482f"
+    },
+    "camera_304": {
+      "name": "F区2号水泵房2",
+      "index": 304,
+      "cameraIndexCode": "5fcd713e597f49f7bf0be2cd8738fe40"
+    },
+    "camera_305": {
+      "name": "F区5号配电房1",
+      "index": 305,
+      "cameraIndexCode": "037ce40e5f954e33b2fb3d4fb344f999"
+    },
+    "camera_306": {
+      "name": "F区5号配电房2",
+      "index": 306,
+      "cameraIndexCode": "4b6dbf8d1e444e18a3479a68f02d71eb"
+    },
+    "camera_308": {
+      "name": "F区4号配电房1",
+      "index": 308,
+      "cameraIndexCode": "87a8a3a873e049e58b0bccb89ef1c290"
+    },
+    "camera_309": {
+      "name": "F区6号配电房1",
+      "index": 309,
+      "cameraIndexCode": "9b043c406cf846b19a6618c30110b3fc"
+    },
+    "camera_310": {
+      "name": "F区6号配电房2",
+      "index": 310,
+      "cameraIndexCode": "1be397fd52754d14b21fc686359da545"
+    },
+    "camera_311": {
+      "name": "A区水泵房",
+      "index": 311,
+      "cameraIndexCode": "c7d274639f5b4662a493a0b970626cd0"
+    },
+    "camera_312": {
+      "name": "A区配电房",
+      "index": 312,
+      "cameraIndexCode": "f525db44aed6456c970030cf2f3ab762"
+    },
+    "camera_313": {
+      "name": "A区配电房2",
+      "index": 313,
+      "cameraIndexCode": "597057f4852b4358bd977cbcf19672e6"
+    },
+    "camera_314": {
+      "name": "C座配电房",
+      "index": 314,
+      "cameraIndexCode": "c62a720e6d8740b1a3aedf0f4560e5a5"
+    },
+    "camera_315": {
+      "name": "C座配电房2",
+      "index": 315,
+      "cameraIndexCode": "f16dda1bb14f499eb969f755e222e0fc"
+    },
+    "camera_316": {
+      "name": "C座水泵房1",
+      "index": 316,
+      "cameraIndexCode": "c2543ff79a6a49e188b1ed5ac107d8eb"
+    },
+    "camera_317": {
+      "name": "C座水泵房2",
+      "index": 317,
+      "cameraIndexCode": "f1981ef6279d4ee3aa2074662415fb6d"
+    },
+    "camera_318": {
+      "name": "中房E区发房1",
+      "index": 318,
+      "cameraIndexCode": "23fe2ba560504179a5c11880212d3302"
+    },
+    "camera_319": {
+      "name": "中房E区发房2",
+      "index": 319,
+      "cameraIndexCode": "b657df54d650447384a7583a7c945f24"
+    },
+    "camera_320": {
+      "name": "中E区消防泵房1",
+      "index": 320,
+      "cameraIndexCode": "bac4ac82238043d38f2a622736440381"
+    },
+    "camera_321": {
+      "name": "中E区3号配电房1",
+      "index": 321,
+      "cameraIndexCode": "2107f4fbc4dc44c8a592958616616f9c"
+    },
+    "camera_322": {
+      "name": "中E区消防泵房2",
+      "index": 322,
+      "cameraIndexCode": "fd680b5e5c6d4a21972747da4abb4b0f"
+    },
+    "camera_323": {
+      "name": "中E区3号配电房2",
+      "index": 323,
+      "cameraIndexCode": "341227e965e240cfa6accd139c9276d7"
+    },
+    "camera_324": {
+      "name": "中E区2号发电房",
+      "index": 324,
+      "cameraIndexCode": "2262b4df7fd545fe8bca6046de9b0201"
+    },
+    "camera_325": {
+      "name": "中E区2号发房2",
+      "index": 325,
+      "cameraIndexCode": "619e08be36504863aea8165ad57ffff8"
+    },
+    "camera_326": {
+      "name": "中E区1号配电房1",
+      "index": 326,
+      "cameraIndexCode": "b3687c2d6ae04a91b48324f6a40cf63c"
+    },
+    "camera_327": {
+      "name": "中E区1号配电房2",
+      "index": 327,
+      "cameraIndexCode": "dae54fc892c54f66a3f88789b30225d3"
+    },
+    "camera_328": {
+      "name": "中E区2号配电房1",
+      "index": 328,
+      "cameraIndexCode": "689c7e1479084bd4ba9e6b3e425566fe"
+    },
+    "camera_329": {
+      "name": "中E区2号配电房2",
+      "index": 329,
+      "cameraIndexCode": "2132b985683544298d38988118318441"
+    },
+    "camera_330": {
+      "name": "中E区水泵房1",
+      "index": 330,
+      "cameraIndexCode": "1f958ed90ea84c08b2586303e7b1f78d"
+    },
+    "camera_331": {
+      "name": "中E区水泵房2",
+      "index": 331,
+      "cameraIndexCode": "ea9dc45a9cc94f2bb30c2930e58700e8"
+    },
+    "camera_332": {
+      "name": "f5水泵房1",
+      "index": 332,
+      "cameraIndexCode": "3d9d67a5c52d4fecad1d632c9131309f"
+    },
+    "camera_333": {
+      "name": "f5水泵房2",
+      "index": 333,
+      "cameraIndexCode": "63bb0afb0f1b4874bc4caef51e550c4d"
+    },
+    "camera_334": {
+      "name": "运营中心1",
+      "index": 334,
+      "cameraIndexCode": "837a9eeea83542deb9c0024b7d4812f1"
+    },
+    "camera_335": {
+      "name": "运营中心2",
+      "index": 335,
+      "cameraIndexCode": "76295722e7a344d783d2c9f119d7a634"
+    },
+    "camera_337": {
+      "name": "1F-物业大厅(右)",
+      "index": 337,
+      "cameraIndexCode": "63cf676add9443f98393caee91606aff"
+    },
+    "camera_338": {
+      "name": "地下室-19消防泵房",
+      "index": 338,
+      "cameraIndexCode": "51b7031b514b4895994f330dfacd66d1"
+    },
+    "camera_339": {
+      "name": "地下室-2",
+      "index": 339,
+      "cameraIndexCode": "855a70b5ae9d4c14a33465220bc0e4f1",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            9,
+            262
+          ],
+          [
+            540,
+            176
+          ],
+          [
+            703,
+            250
+          ],
+          [
+            701,
+            574
+          ],
+          [
+            2,
+            571
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_340": {
+      "name": "地下室-12消防泵房",
+      "index": 340,
+      "cameraIndexCode": "e0e4f182b11b4587a1d21d331988e5e0"
+    },
+    "camera_345": {
+      "name": "西北门",
+      "index": 345,
+      "cameraIndexCode": "e3f650e2fd7847e49c3c44b0a8344505",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            637,
+            357
+          ],
+          [
+            632,
+            157
+          ],
+          [
+            574,
+            156
+          ],
+          [
+            556,
+            96
+          ],
+          [
+            212,
+            84
+          ],
+          [
+            2,
+            130
+          ],
+          [
+            1,
+            357
+          ],
+          [
+            639,
+            356
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_346": {
+      "name": "西北门道闸",
+      "index": 346,
+      "cameraIndexCode": "ff4425a72612411a8732da9d0fa6329e",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            0,
+            86
+          ],
+          [
+            284,
+            37
+          ],
+          [
+            639,
+            119
+          ],
+          [
+            638,
+            478
+          ],
+          [
+            2,
+            478
+          ],
+          [
+            1,
+            87
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_347": {
+      "name": "1-7配电房西墙中部东向摄像头",
+      "index": 347,
+      "cameraIndexCode": "0828abb3723d4d159051db1a5fac1747"
+    },
+    "camera_348": {
+      "name": "1-7配电房南墙东部北向摄像头",
+      "index": 348,
+      "cameraIndexCode": "889ef5cdd29c4a45b160b6150f10767d"
+    },
+    "camera_349": {
+      "name": "1-6配电房南墙中部北向摄像头",
+      "index": 349,
+      "cameraIndexCode": "5224039870344ae0a7fe479e3e8fde61"
+    },
+    "camera_350": {
+      "name": "1-6配电房南墙东南角北向摄像头",
+      "index": 350,
+      "cameraIndexCode": "48061263202d4cb0a944abacbde0a24c"
+    },
+    "camera_351": {
+      "name": "1#水泵房北墙中部南向摄像头",
+      "index": 351,
+      "cameraIndexCode": "51c986b9ba1146a1add61a109937008b"
+    },
+    "camera_352": {
+      "name": "1#水泵房西南角东向摄像头",
+      "index": 352,
+      "cameraIndexCode": "c8ccf07ddf574dd5bd69ccdd187b6b37"
+    },
+    "camera_353": {
+      "name": "4号工坊－1F电梯出口",
+      "index": 353,
+      "cameraIndexCode": "b7a05a745aa9406e8b2bc584f1c8a928",
+      "vehicle_violation_zone": {
+        "type": "polygon",
+        "points": [
+          [
+            28,
+            257
+          ],
+          [
+            302,
+            140
+          ],
+          [
+            350,
+            158
+          ],
+          [
+            346,
+            286
+          ],
+          [
+            24,
+            287
+          ],
+          [
+            27,
+            255
+          ]
+        ],
+        "enabled": true
+      }
+    },
+    "camera_354": {
+      "name": "2-5#变配电房北面墙西部南向摄",
+      "index": 354,
+      "cameraIndexCode": "ddb5ec268a8341a4868bbda7488e8237"
+    },
+    "camera_355": {
+      "name": "2-4#变配电房东面墙中部西向摄",
+      "index": 355,
+      "cameraIndexCode": "e618d01598b54eccb2855a6f04e6e059"
+    },
+    "camera_356": {
+      "name": "2-3配电房西南柱子东南向摄像头",
+      "index": 356,
+      "cameraIndexCode": "add03cd169964aed879c306ddca10b66"
+    },
+    "camera_357": {
+      "name": "2-3配电房西墙中部东向摄像头",
+      "index": 357,
+      "cameraIndexCode": "109e3e85ab584523b84a3b6ca46f0f28"
+    },
+    "camera_358": {
+      "name": "2-5#变配电房东南角西向摄像头",
+      "index": 358,
+      "cameraIndexCode": "2008fcacb1a942099377d31cdd71d97b"
+    },
+    "camera_359": {
+      "name": "2-2配电房南墙中部北向摄像头",
+      "index": 359,
+      "cameraIndexCode": "261f3b66662c4879a182d2a17e349d5f"
+    },
+    "camera_360": {
+      "name": "2-1配电房1号摄像头",
+      "index": 360,
+      "cameraIndexCode": "e050e527b416409b9b601146b930a4c7"
+    },
+    "camera_361": {
+      "name": "2-1配电房2号摄像头",
+      "index": 361,
+      "cameraIndexCode": "9c594758cafe4dc6962735a8846e168a"
+    },
+    "camera_362": {
+      "name": "2-1配电房",
+      "index": 362,
+      "cameraIndexCode": "7103c94e46e24ab0ba57899080712d3d"
+    },
+    "camera_363": {
+      "name": "D座配电房2",
+      "index": 363,
+      "cameraIndexCode": "6b3fc29ecabd41adbe1f939ce6bb1a1e"
+    },
+    "camera_364": {
+      "name": "C4高压房1",
+      "index": 364,
+      "cameraIndexCode": "86e923b1331d4d4d82bb7d00627e8913"
+    },
+    "camera_365": {
+      "name": "C4高压房2",
+      "index": 365,
+      "cameraIndexCode": "d64d75bfad514d9fb8454f71de496d09"
+    },
+    "camera_366": {
+      "name": "C4低压房2",
+      "index": 366,
+      "cameraIndexCode": "f5c3c77ed59d46b0b90182bb4cc5772f"
+    },
+    "camera_367": {
+      "name": "C4低压房1",
+      "index": 367,
+      "cameraIndexCode": "10181678cdb84b848ae7304cfa67db5c"
+    },
+    "camera_368": {
+      "name": "3期水泵房2",
+      "index": 368,
+      "cameraIndexCode": "9ae980a544974d73846feb821d69e72d"
+    },
+    "camera_369": {
+      "name": "3期水泵房1",
+      "index": 369,
+      "cameraIndexCode": "a43cd612c56f457bb4db758d6fa6501b"
+    },
+    "camera_370": {
+      "name": "3期发电房1",
+      "index": 370,
+      "cameraIndexCode": "cba289d2a5764cb290d9dbcffcf15c73"
+    },
+    "camera_371": {
+      "name": "3期发电房2",
+      "index": 371,
+      "cameraIndexCode": "ee8d5ca12c3949aa9ae1a3abdbb967cb"
+    },
+    "camera_372": {
+      "name": "4期配电房1",
+      "index": 372,
+      "cameraIndexCode": "ab5350e52eab4d4c827320e3c82c1d49"
+    },
+    "camera_373": {
+      "name": "4期配电房2",
+      "index": 373,
+      "cameraIndexCode": "65dfebe7e0ee410993ffb5e86e2a49e1"
+    },
+    "camera_374": {
+      "name": "C5配电房1",
+      "index": 374,
+      "cameraIndexCode": "16f17a9a760842a6af3ab45679074c42"
+    },
+    "camera_375": {
+      "name": "D座配电房1",
+      "index": 375,
+      "cameraIndexCode": "37342c95353746f2a87cfb910451cdde"
+    },
+    "camera_376": {
+      "name": "C5配电房2",
+      "index": 376,
+      "cameraIndexCode": "f96e34987dd0429f876fc742a44305c4"
+    }
+  }
+}

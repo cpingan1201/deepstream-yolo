@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_082818_735.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 08:49:28",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"误报\",\n    \"description\": \"红色方框内显示的是“河北消防温馨提示”的文字信息，属于监控系统的提示或墙面装饰，没有发现明火或烟雾特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "误报",
+    "description": "红色方框内显示的是“河北消防温馨提示”的文字信息，属于监控系统的提示或墙面装饰，没有发现明火或烟雾特征。"
+  }
+}

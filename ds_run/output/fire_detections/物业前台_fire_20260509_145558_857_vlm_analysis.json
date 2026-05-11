@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_145558_857.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 14:56:18",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内仅为墙面上的标语文字（安全是发展的基础...），无火焰、烟雾或火光特征，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内仅为墙面上的标语文字（安全是发展的基础...），无火焰、烟雾或火光特征，属于误报。"
+  }
+}

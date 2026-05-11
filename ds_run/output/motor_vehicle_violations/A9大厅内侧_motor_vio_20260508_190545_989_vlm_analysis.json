@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/A9大厅内侧_motor_vio_20260508_190545_989.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 19:21:45",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内清晰显示了一辆白色汽车的尾部，可以看到明显的后备箱盖、车窗和车身结构，符合封闭车身汽车的特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示了一辆白色汽车的尾部，可以看到明显的后备箱盖、车窗和车身结构，符合封闭车身汽车的特征。"
+  }
+}

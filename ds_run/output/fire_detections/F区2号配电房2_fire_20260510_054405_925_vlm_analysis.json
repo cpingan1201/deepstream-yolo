@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_054405_925.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 05:44:16",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"light_source\",\n  \"description\": \"红色方框内显示的是天花板灯具发出的红色光晕，属于正常光源干扰，无火焰特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light_source",
+    "description": "红色方框内显示的是天花板灯具发出的红色光晕，属于正常光源干扰，无火焰特征。"
+  }
+}

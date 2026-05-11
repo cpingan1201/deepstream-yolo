@@ -1,0 +1,12 @@
+{
+  "image_path": "output/smoke_detections/中电22号楼东北朝南_smoke_20260508_205618_309.jpg",
+  "detection_type": "smoke",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:05:39",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"smoke\", \"description\": \"红色方框内显示的是强烈的点光源（如路灯），其强光导致画面过曝，形成了类似烟雾的光晕，属于光源干扰，并非真实烟雾。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "smoke",
+    "description": "红色方框内显示的是强烈的点光源（如路灯），其强光导致画面过曝，形成了类似烟雾的光晕，属于光源干扰，并非真实烟雾。"
+  }
+}

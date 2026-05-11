@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fight_detections/中电客流3号门进_fight_20260511_115705_256.jpg",
+  "detection_type": "fight",
+  "source_type": "single",
+  "timestamp": "2026-05-11 11:58:01",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"non-fight\", \"description\": \"视频中显示的是正常的通行和交谈场景。被标记的人员正在行走，右侧两人正在站立交谈，未发现任何挥拳、踢腿、推搡或具有伤害意图的暴力行为。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non-fight",
+    "description": "视频中显示的是正常的通行和交谈场景。被标记的人员正在行走，右侧两人正在站立交谈，未发现任何挥拳、踢腿、推搡或具有伤害意图的暴力行为。"
+  }
+}

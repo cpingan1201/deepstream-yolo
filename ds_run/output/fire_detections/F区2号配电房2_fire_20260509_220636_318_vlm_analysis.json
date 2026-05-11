@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_220636_318.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 22:06:47",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false\",\n  \"description\": \"红色方框内的物体呈现为规则的光斑，位于天花板或管道区域，具有明显的光源反光特征，不具备火焰的根部和不规则跳动感，也没有伴随烟雾，因此判定为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false",
+    "description": "红色方框内的物体呈现为规则的光斑，位于天花板或管道区域，具有明显的光源反光特征，不具备火焰的根部和不规则跳动感，也没有伴随烟雾，因此判定为误报。"
+  }
+}

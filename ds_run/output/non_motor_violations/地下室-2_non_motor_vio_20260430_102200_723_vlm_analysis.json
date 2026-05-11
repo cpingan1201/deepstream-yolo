@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/地下室-2_non_motor_vio_20260430_102200_723.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:22:11",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内物体过于模糊和遮挡，无法清晰确认其为摩托车或自行车，可能是其他杂物或局部结构。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内物体过于模糊和遮挡，无法清晰确认其为摩托车或自行车，可能是其他杂物或局部结构。"
+  }
+}

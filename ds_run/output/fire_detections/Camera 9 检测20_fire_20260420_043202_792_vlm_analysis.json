@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/Camera 9 检测20_fire_20260420_043202_792.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-20 12:32:12",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮斑缺乏真实火焰的根部和不规则跳动感。其形状和亮度更像是由于环境光线、物体或地面材质产生的强烈反光或光学干扰，不符合真实火灾的特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮斑缺乏真实火焰的根部和不规则跳动感。其形状和亮度更像是由于环境光线、物体或地面材质产生的强烈反光或光学干扰，不符合真实火灾的特征。"
+  }
+}

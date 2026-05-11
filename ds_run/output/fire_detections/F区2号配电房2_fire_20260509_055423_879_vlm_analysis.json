@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_055423_879.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:34:01",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"light_reflection\",\n    \"description\": \"配电房上方设备指示灯的光线在天花板或管道上的反射\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light_reflection",
+    "description": "配电房上方设备指示灯的光线在天花板或管道上的反射"
+  }
+}

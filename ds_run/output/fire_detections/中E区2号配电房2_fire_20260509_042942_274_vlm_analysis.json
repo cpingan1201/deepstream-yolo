@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_042942_274.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 04:30:45",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内显示的是配电柜底部整齐排列的指示灯（可能是接地指示灯或状态指示灯），具有规则的几何形状和排列，没有火焰的不规则形态和跳动感，属于设备指示灯误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内显示的是配电柜底部整齐排列的指示灯（可能是接地指示灯或状态指示灯），具有规则的几何形状和排列，没有火焰的不规则形态和跳动感，属于设备指示灯误报。"
+  }
+}

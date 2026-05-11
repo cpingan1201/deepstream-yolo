@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260508_215329_124.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:59:06",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"方框内为排列整齐的红色光点，无火焰跳动感，疑似电气柜指示灯或反光，属于误报\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "方框内为排列整齐的红色光点，无火焰跳动感，疑似电气柜指示灯或反光，属于误报"
+  }
+}

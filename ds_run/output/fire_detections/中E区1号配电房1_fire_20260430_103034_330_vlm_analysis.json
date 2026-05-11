@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区1号配电房1_fire_20260430_103034_330.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:30:52",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮光缺乏火焰的跳动感和不规则性，其形状和亮度更符合地面或设备上的光线反射或局部指示灯的映照，判断为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮光缺乏火焰的跳动感和不规则性，其形状和亮度更符合地面或设备上的光线反射或局部指示灯的映照，判断为误报。"
+  }
+}

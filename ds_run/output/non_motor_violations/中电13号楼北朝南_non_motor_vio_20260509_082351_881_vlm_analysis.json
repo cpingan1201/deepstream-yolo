@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电13号楼北朝南_non_motor_vio_20260509_082351_881.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 08:46:49",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"motorcycle\", \"description\": \"红框内清晰可见一辆两轮车辆，具有摩托车或电动车的典型特征（两轮、车身结构），符合非机动车目标定义。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motorcycle",
+    "description": "红框内清晰可见一辆两轮车辆，具有摩托车或电动车的典型特征（两轮、车身结构），符合非机动车目标定义。"
+  }
+}

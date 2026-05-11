@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/Camera 9 检测29_fire_20260420_043209_261.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-20 12:34:24",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮斑颜色鲜艳，但其形状较为规则，缺乏真实火焰应有的不规则跳动感和明显的根部结构。结合室内环境，该亮斑更可能是由强烈的环境光、反光或物体（如塑料、衣物）的颜色反射造成的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮斑颜色鲜艳，但其形状较为规则，缺乏真实火焰应有的不规则跳动感和明显的根部结构。结合室内环境，该亮斑更可能是由强烈的环境光、反光或物体（如塑料、衣物）的颜色反射造成的误报。"
+  }
+}

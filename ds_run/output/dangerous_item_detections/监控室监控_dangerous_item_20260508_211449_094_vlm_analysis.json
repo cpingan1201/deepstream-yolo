@@ -1,0 +1,12 @@
+{
+  "image_path": "output/dangerous_item_detections/监控室监控_dangerous_item_20260508_211449_094.jpg",
+  "detection_type": "dangerous_item",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:18:18",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"safe_item\", \"description\": \"红色方框内显示的是椅子腿（或椅子的一部分），属于家具，不具备危险性。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "safe_item",
+    "description": "红色方框内显示的是椅子腿（或椅子的一部分），属于家具，不具备危险性。"
+  }
+}

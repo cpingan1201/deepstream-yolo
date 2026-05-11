@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/c3通道_non_motor_vio_20260509_055412_812.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:33:45",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内清晰可见一辆摩托车，具有两轮、车把及车身结构特征。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见一辆摩托车，具有两轮、车把及车身结构特征。"
+  }
+}

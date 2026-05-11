@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_080918_166.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 08:09:30",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"方框内显示的是天花板管道上的红色反光或指示灯，形状规则，无火焰跳动特征，属于误报\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "方框内显示的是天花板管道上的红色反光或指示灯，形状规则，无火焰跳动特征，属于误报"
+  }
+}

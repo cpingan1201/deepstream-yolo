@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_002535_973.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 00:25:56",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"light_reflection\",\n  \"description\": \"红色方框内的红色光斑排列规则，无火焰跳动特征，结合配电房环境，判断为电气柜指示灯或天花板光源在天花板/管道上的反光。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light_reflection",
+    "description": "红色方框内的红色光斑排列规则，无火焰跳动特征，结合配电房环境，判断为电气柜指示灯或天花板光源在天花板/管道上的反光。"
+  }
+}

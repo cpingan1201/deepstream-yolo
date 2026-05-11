@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_032829_438.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 03:30:16",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是配电柜上的指示灯，排列规则整齐，呈现稳定的点状光源，无火焰的不规则跳动感及伴随的烟雾，属于电气指示灯干扰导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是配电柜上的指示灯，排列规则整齐，呈现稳定的点状光源，无火焰的不规则跳动感及伴随的烟雾，属于电气指示灯干扰导致的误报。"
+  }
+}

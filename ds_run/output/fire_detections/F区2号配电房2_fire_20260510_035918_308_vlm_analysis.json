@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_035918_308.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 03:59:26",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内显示的是金属管道或设备表面的反光，形状规则，无火焰跳动和烟雾特征，属于光源或环境干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内显示的是金属管道或设备表面的反光，形状规则，无火焰跳动和烟雾特征，属于光源或环境干扰。"
+  }
+}

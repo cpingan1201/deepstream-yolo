@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_034939_007.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 03:50:04",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"false_alarm\", \"description\": \"红色方框内显示的是天花板上的管道或线缆，呈现红色光泽（可能是红外热成像下的发热体或监控反光），没有火焰的不规则跳动感，也没有烟雾，属于误报。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是天花板上的管道或线缆，呈现红色光泽（可能是红外热成像下的发热体或监控反光），没有火焰的不规则跳动感，也没有烟雾，属于误报。"
+  }
+}

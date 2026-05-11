@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/洛阳CEC信息港_DigitChan_9_motor_vio_20260511_083649_900.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 08:37:05",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内清晰显示了一辆白色的轿车，可以看到车身、车窗、车门和前轮等汽车结构，主体占据红框主要区域。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示了一辆白色的轿车，可以看到车身、车窗、车门和前轮等汽车结构，主体占据红框主要区域。"
+  }
+}

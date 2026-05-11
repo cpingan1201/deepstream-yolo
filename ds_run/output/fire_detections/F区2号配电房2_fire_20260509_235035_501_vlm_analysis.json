@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_235035_501.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 23:50:49",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是天花板上的光源（可能是指示灯或灯具），其发出的红光在地面和柜体上形成了倒影，属于正常设备状态，非真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是天花板上的光源（可能是指示灯或灯具），其发出的红光在地面和柜体上形成了倒影，属于正常设备状态，非真实明火。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_012407_083.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 01:24:29",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是天花板上的灯具或红色指示灯，形状规则，无火焰跳动及烟雾特征，属于光源干扰或误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是天花板上的灯具或红色指示灯，形状规则，无火焰跳动及烟雾特征，属于光源干扰或误报。"
+  }
+}

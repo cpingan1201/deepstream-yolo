@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260508_225648_243.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 22:58:21",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"指示灯\",\n\"description\": \"配电柜上的红色指示灯亮起，呈现规则排列，无火焰特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "指示灯",
+    "description": "配电柜上的红色指示灯亮起，呈现规则排列，无火焰特征。"
+  }
+}

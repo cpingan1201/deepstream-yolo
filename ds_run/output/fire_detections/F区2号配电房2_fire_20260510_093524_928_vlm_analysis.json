@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_093524_928.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 09:35:53",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内的红色光斑呈现规则排列，且在地面有对应的倒影，这是上方光源（如指示灯或灯带）在金属表面或潮湿环境中的反光，并非真实火焰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的红色光斑呈现规则排列，且在地面有对应的倒影，这是上方光源（如指示灯或灯带）在金属表面或潮湿环境中的反光，并非真实火焰。"
+  }
+}

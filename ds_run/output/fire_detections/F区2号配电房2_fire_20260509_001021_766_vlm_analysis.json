@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_001021_766.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 00:13:45",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"light source interference\",\n  \"description\": \"方框内显示的是天花板上的红色指示灯或光源，光线规则且刺眼，没有火焰特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light source interference",
+    "description": "方框内显示的是天花板上的红色指示灯或光源，光线规则且刺眼，没有火焰特征。"
+  }
+}

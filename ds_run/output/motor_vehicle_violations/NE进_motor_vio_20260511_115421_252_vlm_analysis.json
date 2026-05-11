@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/NE进_motor_vio_20260511_115421_252.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 11:55:15",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"motor_vehicle_violations\",\n    \"description\": \"红框内清晰显示了一辆黑色的轿车，可以看到车头、前挡风玻璃和车顶，属于封闭车身汽车，主体占据红框主要区域。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示了一辆黑色的轿车，可以看到车头、前挡风玻璃和车顶，属于封闭车身汽车，主体占据红框主要区域。"
+  }
+}

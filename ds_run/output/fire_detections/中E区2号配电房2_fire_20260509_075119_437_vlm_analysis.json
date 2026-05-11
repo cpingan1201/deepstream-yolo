@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_075119_437.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 07:56:49",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"fire\", \"description\": \"配电房内电气柜底部出现明显的橙红色火焰，形态不规则，具有明显的根部，符合真实火灾特征。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "fire",
+    "description": "配电房内电气柜底部出现明显的橙红色火焰，形态不规则，具有明显的根部，符合真实火灾特征。"
+  }
+}

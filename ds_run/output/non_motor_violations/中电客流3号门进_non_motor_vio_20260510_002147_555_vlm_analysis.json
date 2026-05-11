@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电客流3号门进_non_motor_vio_20260510_002147_555.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 00:22:37",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内显示的是一个人的头部（戴白色头盔）和深色衣物，看起来像是一个人在行走或站立，未看到明确的摩托车车身、车轮或车把结构，无法确认为摩托车目标。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是一个人的头部（戴白色头盔）和深色衣物，看起来像是一个人在行走或站立，未看到明确的摩托车车身、车轮或车把结构，无法确认为摩托车目标。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区1号配电房1_fire_20260430_103518_475.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:35:28",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮光呈规则的、持续的橙红色光斑，缺乏火焰应有的不规则跳动和根部结构。结合环境判断，该光斑更可能是由于设备内部的指示灯、电弧放电或地面上的强烈反光造成的，属于光源干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮光呈规则的、持续的橙红色光斑，缺乏火焰应有的不规则跳动和根部结构。结合环境判断，该光斑更可能是由于设备内部的指示灯、电弧放电或地面上的强烈反光造成的，属于光源干扰。"
+  }
+}

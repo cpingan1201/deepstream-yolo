@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/NE进_motor_vio_20260510_151415_240.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 15:14:36",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内显示的是一个黑色的监控摄像头（或补光灯），位于道路上方，不具备汽车的车身、车窗或车轮等特征，因此不是机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内显示的是一个黑色的监控摄像头（或补光灯），位于道路上方，不具备汽车的车身、车窗或车轮等特征，因此不是机动车目标。"
+  }
+}

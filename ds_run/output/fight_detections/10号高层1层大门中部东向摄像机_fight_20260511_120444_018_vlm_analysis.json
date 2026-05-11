@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fight_detections/10号高层1层大门中部东向摄像机_fight_20260511_120444_018.jpg",
+  "detection_type": "fight",
+  "source_type": "single",
+  "timestamp": "2026-05-11 12:05:50",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"non_fight\",\n    \"description\": \"画面中显示一名身穿深色外套的人员手持花束正在行走，周围有其他人员活动，但未见明显的肢体冲突、推搡或攻击行为，整体场景较为平静，无打架迹象。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_fight",
+    "description": "画面中显示一名身穿深色外套的人员手持花束正在行走，周围有其他人员活动，但未见明显的肢体冲突、推搡或攻击行为，整体场景较为平静，无打架迹象。"
+  }
+}

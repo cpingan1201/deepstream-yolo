@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260511_122926_796.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-11 12:31:08",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内的红色光斑位于天花板区域，形状规则，看起来像是金属管道或灯具表面的反光，或者是设备上的指示灯，不具备火焰的不规则跳动感，判定为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的红色光斑位于天花板区域，形状规则，看起来像是金属管道或灯具表面的反光，或者是设备上的指示灯，不具备火焰的不规则跳动感，判定为误报。"
+  }
+}

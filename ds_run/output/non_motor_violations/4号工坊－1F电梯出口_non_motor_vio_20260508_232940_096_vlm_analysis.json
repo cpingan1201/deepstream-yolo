@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/4号工坊－1F电梯出口_non_motor_vio_20260508_232940_096.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 23:31:26",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motorcycle\",\n  \"description\": \"红框内清晰可见一辆黑色的摩托车，具有明显的车把、车轮、车身及座椅结构。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motorcycle",
+    "description": "红框内清晰可见一辆黑色的摩托车，具有明显的车把、车轮、车身及座椅结构。"
+  }
+}

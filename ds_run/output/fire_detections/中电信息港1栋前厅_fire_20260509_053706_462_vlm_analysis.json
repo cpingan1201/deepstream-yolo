@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中电信息港1栋前厅_fire_20260509_053706_462.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:06:20",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"light\",\n  \"description\": \"红色方框内显示的是室内的壁灯或照明设备，发出稳定的暖黄色光，形状规则且无跳动，没有火焰特征，属于光源干扰导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light",
+    "description": "红色方框内显示的是室内的壁灯或照明设备，发出稳定的暖黄色光，形状规则且无跳动，没有火焰特征，属于光源干扰导致的误报。"
+  }
+}

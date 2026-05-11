@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_065139_290.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:53:18",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是天花板或管道附近的红色光点，形态规则，疑似指示灯或反光，没有明显的火焰形态（如不规则跳动、根部），且地面有对应的红色倒影，符合光源干扰的特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是天花板或管道附近的红色光点，形态规则，疑似指示灯或反光，没有明显的火焰形态（如不规则跳动、根部），且地面有对应的红色倒影，符合光源干扰的特征。"
+  }
+}

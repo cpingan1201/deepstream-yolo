@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/3号高层1层大门中部东向摄像头_non_motor_vio_20260508_230645_949.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 23:07:00",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内实际显示的是几把黑色的椅子和一张小圆桌，属于办公休息区的家具，并非摩托车或自行车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内实际显示的是几把黑色的椅子和一张小圆桌，属于办公休息区的家具，并非摩托车或自行车。"
+  }
+}

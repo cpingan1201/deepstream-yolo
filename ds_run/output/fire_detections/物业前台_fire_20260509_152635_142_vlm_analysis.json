@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_152635_142.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:26:48",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false\",\n  \"description\": \"红色方框内显示的是墙上的红色文字标牌“社会主义核心价值观”，属于物体干扰（标牌），并非真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false",
+    "description": "红色方框内显示的是墙上的红色文字标牌“社会主义核心价值观”，属于物体干扰（标牌），并非真实明火。"
+  }
+}

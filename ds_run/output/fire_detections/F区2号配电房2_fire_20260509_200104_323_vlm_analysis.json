@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_200104_323.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 20:01:18",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内显示的是配电房顶部设备（如管道或指示灯）上的规则红色光点，无火焰跳动及烟雾特征，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内显示的是配电房顶部设备（如管道或指示灯）上的规则红色光点，无火焰跳动及烟雾特征，属于误报。"
+  }
+}

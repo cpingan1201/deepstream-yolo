@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/南大门前门岗_fire_20260509_150852_552.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:09:17",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"false\", \"description\": \"红色方框内显示的是路面的黄色标线，无火焰或烟雾特征，属于误报\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false",
+    "description": "红色方框内显示的是路面的黄色标线，无火焰或烟雾特征，属于误报"
+  }
+}

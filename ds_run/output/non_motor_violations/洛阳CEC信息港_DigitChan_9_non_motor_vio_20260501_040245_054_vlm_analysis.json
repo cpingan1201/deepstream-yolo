@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260501_040245_054.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-01 12:02:57",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内分别检测到一辆轿车和一辆小型货车，它们属于机动车，不符合非机动车目标（bicycle或motorcycle）的判定标准。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内分别检测到一辆轿车和一辆小型货车，它们属于机动车，不符合非机动车目标（bicycle或motorcycle）的判定标准。"
+  }
+}

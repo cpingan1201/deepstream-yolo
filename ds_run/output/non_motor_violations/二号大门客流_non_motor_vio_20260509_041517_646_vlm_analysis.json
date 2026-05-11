@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/二号大门客流_non_motor_vio_20260509_041517_646.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 04:16:53",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内显示的是带有黄黑条纹的道闸杆（或栏杆）以及旁边的一个白色物体，未观察到自行车或摩托车的特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是带有黄黑条纹的道闸杆（或栏杆）以及旁边的一个白色物体，未观察到自行车或摩托车的特征。"
+  }
+}

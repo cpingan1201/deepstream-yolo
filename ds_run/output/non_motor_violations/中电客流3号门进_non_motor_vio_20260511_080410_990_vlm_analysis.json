@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电客流3号门进_non_motor_vio_20260511_080410_990.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 08:04:56",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内主要是一辆绿色的电动三轮车（带车厢），属于机动车或特殊车辆，不符合本项目定义的自行车或摩托车特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内主要是一辆绿色的电动三轮车（带车厢），属于机动车或特殊车辆，不符合本项目定义的自行车或摩托车特征。"
+  }
+}

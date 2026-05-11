@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/3号岗厅客流_motor_vio_20260509_080934_746.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 08:21:42",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_vehicle\",\n  \"description\": \"红框内是一个骑电动车的人，属于两轮车，不具备封闭车身和车窗车门等汽车结构。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_vehicle",
+    "description": "红框内是一个骑电动车的人，属于两轮车，不具备封闭车身和车窗车门等汽车结构。"
+  }
+}

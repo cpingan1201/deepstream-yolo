@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260511_061853_668.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 06:19:16",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内是一个立式的长方形物体，看起来像是一个指示牌或广告牌，不具备自行车或摩托车的特征\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一个立式的长方形物体，看起来像是一个指示牌或广告牌，不具备自行车或摩托车的特征"
+  }
+}

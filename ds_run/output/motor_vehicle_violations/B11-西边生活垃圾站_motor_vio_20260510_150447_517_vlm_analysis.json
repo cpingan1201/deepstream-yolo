@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/B11-西边生活垃圾站_motor_vio_20260510_150447_517.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 15:05:07",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内是一辆蓝色的三轮车，车斗内装有垃圾，属于非封闭车身汽车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内是一辆蓝色的三轮车，车斗内装有垃圾，属于非封闭车身汽车。"
+  }
+}

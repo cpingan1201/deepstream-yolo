@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260511_061023_806.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-11 06:10:32",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"误报\",\n  \"description\": \"红色方框内显示的是附着在天花板管道或线槽上的红色反光标识或指示灯，形状规则且静止，无火焰跳动特征，属于环境干扰导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "误报",
+    "description": "红色方框内显示的是附着在天花板管道或线槽上的红色反光标识或指示灯，形状规则且静止，无火焰跳动特征，属于环境干扰导致的误报。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260508_212957_470.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:30:09",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"方框内显示的是地面规则的红色光点，形态整齐，无火焰跳动特征，疑似地面指示灯或反光，非真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "方框内显示的是地面规则的红色光点，形态整齐，无火焰跳动特征，疑似地面指示灯或反光，非真实明火。"
+  }
+}

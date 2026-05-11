@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_050025_547.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 05:06:21",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"false_alarm\", \"description\": \"红色方框内显示的是规则排列的红色光点，结合地面光滑表面的红色反光，判断为设备指示灯或光源干扰，非真实明火。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是规则排列的红色光点，结合地面光滑表面的红色反光，判断为设备指示灯或光源干扰，非真实明火。"
+  }
+}

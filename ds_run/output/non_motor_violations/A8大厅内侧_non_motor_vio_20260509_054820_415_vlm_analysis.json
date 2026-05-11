@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/A8大厅内侧_non_motor_vio_20260509_054820_415.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:19:00",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内清晰可见一辆两轮车（摩托车/电动踏板车），具备车把、车身、座椅及后座箱等特征，符合摩托车定义。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见一辆两轮车（摩托车/电动踏板车），具备车把、车身、座椅及后座箱等特征，符合摩托车定义。"
+  }
+}

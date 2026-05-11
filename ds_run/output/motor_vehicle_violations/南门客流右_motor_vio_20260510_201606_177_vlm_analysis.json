@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南门客流右_motor_vio_20260510_201606_177.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 20:16:30",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内主要显示的是蓝色的道闸栏杆、白色的隔离护栏以及地面的交通标线，未检测到清晰的机动车主体（如车身、车窗等）。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内主要显示的是蓝色的道闸栏杆、白色的隔离护栏以及地面的交通标线，未检测到清晰的机动车主体（如车身、车窗等）。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_065048_548.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:52:31",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"fire\",\n\"description\": \"配电柜底部的指示灯或传感器指示灯，排列规则，无火焰特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "配电柜底部的指示灯或传感器指示灯，排列规则，无火焰特征。"
+  }
+}

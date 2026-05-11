@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_010313_716.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 01:03:21",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"false_alarm\",\n\"description\": \"配电柜面板上的红色指示灯亮起，属于正常设备状态或电气报警信号，并非明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "配电柜面板上的红色指示灯亮起，属于正常设备状态或电气报警信号，并非明火。"
+  }
+}

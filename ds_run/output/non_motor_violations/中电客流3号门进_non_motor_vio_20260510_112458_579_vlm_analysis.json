@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电客流3号门进_non_motor_vio_20260510_112458_579.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 11:25:37",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内清晰可见一辆两轮摩托车（或电动踏板车），具有明显的车头灯、车把、车身结构和车轮，符合摩托车的特征\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见一辆两轮摩托车（或电动踏板车），具有明显的车头灯、车把、车身结构和车轮，符合摩托车的特征"
+  }
+}

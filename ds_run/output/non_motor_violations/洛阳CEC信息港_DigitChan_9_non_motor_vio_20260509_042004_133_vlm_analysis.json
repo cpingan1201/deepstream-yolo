@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260509_042004_133.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 04:21:44",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"non_motor_violations\", \"description\": \"红框内显示的是轿车（汽车）的后部，包含车轮、车身和尾灯，属于机动车，不是自行车或摩托车。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是轿车（汽车）的后部，包含车轮、车身和尾灯，属于机动车，不是自行车或摩托车。"
+  }
+}

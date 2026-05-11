@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南门客流右_motor_vio_20260508_193114_324.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 19:56:27",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"none\",\n  \"description\": \"红框内主要包含蓝白相间的道闸杆、白色金属护栏、圆形石墩以及交通信号灯，未检测到任何封闭车身或机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "none",
+    "description": "红框内主要包含蓝白相间的道闸杆、白色金属护栏、圆形石墩以及交通信号灯，未检测到任何封闭车身或机动车目标。"
+  }
+}

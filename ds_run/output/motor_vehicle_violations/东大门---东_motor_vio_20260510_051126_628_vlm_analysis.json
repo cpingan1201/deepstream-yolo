@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/东大门---东_motor_vio_20260510_051126_628.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 05:11:53",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"motor_vehicle_violations\", \"description\": \"红框内是一辆白色的SUV或两厢轿车，具有清晰的封闭车身、车窗和车轮，符合机动车特征。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内是一辆白色的SUV或两厢轿车，具有清晰的封闭车身、车窗和车轮，符合机动车特征。"
+  }
+}

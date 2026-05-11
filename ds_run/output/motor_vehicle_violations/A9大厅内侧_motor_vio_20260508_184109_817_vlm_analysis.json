@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/A9大厅内侧_motor_vio_20260508_184109_817.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 18:43:28",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内是一辆深色汽车，清晰可见车头、车窗等汽车结构，属于机动车目标\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内是一辆深色汽车，清晰可见车头、车窗等汽车结构，属于机动车目标"
+  }
+}

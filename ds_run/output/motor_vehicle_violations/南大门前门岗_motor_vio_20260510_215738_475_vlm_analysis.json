@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南大门前门岗_motor_vio_20260510_215738_475.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 21:57:51",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"motor_vehicle_violations\",\n    \"description\": \"红框内左侧可见一辆深色轿车（或SUV），虽然光线较暗，但能辨认出封闭的车身轮廓，属于机动车目标。右侧有强烈的车灯光源，也暗示有车辆存在。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内左侧可见一辆深色轿车（或SUV），虽然光线较暗，但能辨认出封闭的车身轮廓，属于机动车目标。右侧有强烈的车灯光源，也暗示有车辆存在。"
+  }
+}

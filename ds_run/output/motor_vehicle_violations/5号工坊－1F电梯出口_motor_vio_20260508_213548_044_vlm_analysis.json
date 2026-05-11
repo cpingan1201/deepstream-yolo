@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/5号工坊－1F电梯出口_motor_vio_20260508_213548_044.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:36:01",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"motor_vehicle_violations\", \"description\": \"红框内清晰可见一辆深色轿车，具有完整的封闭车身、车窗和车尾结构，主体占据红框主要区域，符合机动车目标特征。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰可见一辆深色轿车，具有完整的封闭车身、车窗和车尾结构，主体占据红框主要区域，符合机动车目标特征。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/中电客流1号门进_motor_vio_20260509_204622_502.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 20:46:44",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"motor_vehicle_violations\",\n    \"description\": \"红框内清晰显示一辆白色轿车，可见车身侧面、车窗、车门及尾灯，主体占据红框主要区域，确认为机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示一辆白色轿车，可见车身侧面、车窗、车门及尾灯，主体占据红框主要区域，确认为机动车目标。"
+  }
+}

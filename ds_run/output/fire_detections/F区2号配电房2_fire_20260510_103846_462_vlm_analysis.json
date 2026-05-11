@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_103846_462.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 10:39:07",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是配电房顶部或管道附近的固定红色指示灯或光源，呈现规则的排列，没有火焰的不规则形状、根部或跳动特征，也没有伴随烟雾，属于光源干扰导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是配电房顶部或管道附近的固定红色指示灯或光源，呈现规则的排列，没有火焰的不规则形状、根部或跳动特征，也没有伴随烟雾，属于光源干扰导致的误报。"
+  }
+}

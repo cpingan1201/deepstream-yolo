@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/洛阳CEC信息港_DigitChan_9_non_motor_vio_20260510_185313_659.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 18:53:32",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内是一辆小型电动三轮车（或类似载货车辆），具有驾驶室和后部载货结构，不符合自行车或摩托车的特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一辆小型电动三轮车（或类似载货车辆），具有驾驶室和后部载货结构，不符合自行车或摩托车的特征。"
+  }
+}

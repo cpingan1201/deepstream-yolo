@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_075742_714.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 08:08:10",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"fire\",\n    \"description\": \"光源干扰：方框内的红色光点排列整齐，呈现规则亮斑特征，无火焰跳动感，疑似电气柜指示灯或反光\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "光源干扰：方框内的红色光点排列整齐，呈现规则亮斑特征，无火焰跳动感，疑似电气柜指示灯或反光"
+  }
+}

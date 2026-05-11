@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_135834_610.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 14:02:03",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false\",\n  \"description\": \"方框内为设备指示灯，非明火\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false",
+    "description": "方框内为设备指示灯，非明火"
+  }
+}

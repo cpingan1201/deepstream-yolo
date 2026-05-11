@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/中电进出口3号门_motor_vio_20260510_103515_317.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 10:35:27",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"motor_vehicle_violations\",\n    \"description\": \"红框内显示的是白色车辆的车顶部分，具有明显的汽车封闭车身结构，属于机动车。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内显示的是白色车辆的车顶部分，具有明显的汽车封闭车身结构，属于机动车。"
+  }
+}

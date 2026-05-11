@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/c3通道_non_motor_vio_20260509_055047_600.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:25:24",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内可见一辆倒下的两轮车，具有明显的车把和车身结构，上方有 'motorcycle' 文字标注，确认为摩托车。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内可见一辆倒下的两轮车，具有明显的车把和车身结构，上方有 'motorcycle' 文字标注，确认为摩托车。"
+  }
+}

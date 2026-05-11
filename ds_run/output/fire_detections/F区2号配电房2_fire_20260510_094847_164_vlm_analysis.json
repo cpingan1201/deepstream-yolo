@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_094847_164.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 09:49:03",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false\",\n  \"description\": \"红色方框内显示的是管道或设备表面的红色反光，属于光源干扰，并非真实火焰\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false",
+    "description": "红色方框内显示的是管道或设备表面的红色反光，属于光源干扰，并非真实火焰"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电进出口3号门_non_motor_vio_20260510_073837_209.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 07:39:03",
+  "vlm_analysis": "{\n\"signal\": true,\n\"behavior_type\": \"non_motor_violations\",\n\"description\": \"红框内清晰显示一辆两轮摩托车（或电动摩托车），可以清楚看到车身、车把和车轮，符合摩托车特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰显示一辆两轮摩托车（或电动摩托车），可以清楚看到车身、车把和车轮，符合摩托车特征。"
+  }
+}

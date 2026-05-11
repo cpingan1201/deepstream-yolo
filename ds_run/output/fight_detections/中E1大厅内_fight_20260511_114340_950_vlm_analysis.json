@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fight_detections/中E1大厅内_fight_20260511_114340_950.jpg",
+  "detection_type": "fight",
+  "source_type": "single",
+  "timestamp": "2026-05-11 11:44:52",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_fight\",\n  \"description\": \"视频中仅显示一名男子在走廊内独自行走，未观察到任何挥拳、踢腿、推搡等具有攻击性或冲突性的互动行为，不存在打架迹象。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_fight",
+    "description": "视频中仅显示一名男子在走廊内独自行走，未观察到任何挥拳、踢腿、推搡等具有攻击性或冲突性的互动行为，不存在打架迹象。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/5号工坊－1F电梯出口_motor_vio_20260511_122820_424.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 12:29:03",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内清晰显示一辆黑色的MPV（多用途汽车）或面包车，具有封闭车身、车窗和车门等典型汽车结构，且车辆主体占据了红框的主要区域。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示一辆黑色的MPV（多用途汽车）或面包车，具有封闭车身、车窗和车门等典型汽车结构，且车辆主体占据了红框的主要区域。"
+  }
+}

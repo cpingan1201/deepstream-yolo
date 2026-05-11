@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_081038_594.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 08:24:22",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是暗红色的光斑，看起来像是管道或设备上的指示灯，或者是金属表面的反光，不具备火焰的不规则跳动感或根部特征，属于光源干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是暗红色的光斑，看起来像是管道或设备上的指示灯，或者是金属表面的反光，不具备火焰的不规则跳动感或根部特征，属于光源干扰。"
+  }
+}

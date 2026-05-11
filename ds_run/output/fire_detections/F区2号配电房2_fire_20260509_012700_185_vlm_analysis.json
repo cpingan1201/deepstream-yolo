@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_012700_185.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 01:28:14",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"指示灯\",\n\"description\": \"红色方框内显示的是整齐排列的红色指示灯，属于电气柜的状态指示灯，并非明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "指示灯",
+    "description": "红色方框内显示的是整齐排列的红色指示灯，属于电气柜的状态指示灯，并非明火。"
+  }
+}

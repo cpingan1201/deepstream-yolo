@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南大门前门岗_motor_vio_20260511_003026_142.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 00:30:42",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内主要为空旷的路面和车道标线，虽然右侧远处有强光源（疑似车灯），但并未在红框内清晰显示机动车的封闭车身、车窗或车头车尾等主体结构，无法确认为机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内主要为空旷的路面和车道标线，虽然右侧远处有强光源（疑似车灯），但并未在红框内清晰显示机动车的封闭车身、车窗或车头车尾等主体结构，无法确认为机动车目标。"
+  }
+}

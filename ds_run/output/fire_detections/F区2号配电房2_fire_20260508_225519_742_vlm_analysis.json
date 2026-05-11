@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260508_225519_742.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 22:56:59",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"false alarm\", \"description\": \"红色方框内显示的是排列整齐的红色光点，形态规则，无火焰根部及不规则跳动特征，符合光源或指示灯干扰的特征。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false alarm",
+    "description": "红色方框内显示的是排列整齐的红色光点，形态规则，无火焰根部及不规则跳动特征，符合光源或指示灯干扰的特征。"
+  }
+}

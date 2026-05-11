@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/3号岗厅客流_non_motor_vio_20260509_053321_460.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 06:00:50",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内是一个被蓝色布覆盖的物体，下方有一个纸箱，无法看清具体的车轮、车把或车身结构，无法确认是自行车或摩托车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一个被蓝色布覆盖的物体，下方有一个纸箱，无法看清具体的车轮、车把或车身结构，无法确认是自行车或摩托车。"
+  }
+}

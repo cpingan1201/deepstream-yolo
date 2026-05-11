@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/监控室_non_motor_vio_20260508_201913_571.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 20:40:17",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"non_motor_violations\",\n\"description\": \"红框内显示的是坐在办公桌前的人（监控室工作人员），并非自行车或摩托车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是坐在办公桌前的人（监控室工作人员），并非自行车或摩托车。"
+  }
+}

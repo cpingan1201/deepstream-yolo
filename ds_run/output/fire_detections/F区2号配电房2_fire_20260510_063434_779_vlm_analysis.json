@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_063434_779.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 06:35:12",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"红色方框内的红光呈现规则的排列，且位置较高，看起来像是上方设备指示灯或光源在天花板/管道上的反射，属于光源干扰，非真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的红光呈现规则的排列，且位置较高，看起来像是上方设备指示灯或光源在天花板/管道上的反射，属于光源干扰，非真实明火。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区1号配电房1_fire_20260430_102734_375.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:27:43",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的亮斑呈均匀的橙红色光芒，形状规则，缺乏火焰应有的不规则跳动和明显的燃烧根部。该光斑更像是周围设备（如电箱）发出的光线在地面上的强烈反射或光照干扰，不构成真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的亮斑呈均匀的橙红色光芒，形状规则，缺乏火焰应有的不规则跳动和明显的燃烧根部。该光斑更像是周围设备（如电箱）发出的光线在地面上的强烈反射或光照干扰，不构成真实明火。"
+  }
+}

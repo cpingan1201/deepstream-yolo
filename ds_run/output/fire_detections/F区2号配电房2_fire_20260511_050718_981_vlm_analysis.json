@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260511_050718_981.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-11 05:07:32",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"画面中的红色光点呈现为规则的圆形或点状，排列整齐，且伴有明显的镜面反射（地面倒影），符合室内设备指示灯的特征，不具备火焰的不规则跳动感或烟雾特征，属于光源或环境干扰导致的误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "画面中的红色光点呈现为规则的圆形或点状，排列整齐，且伴有明显的镜面反射（地面倒影），符合室内设备指示灯的特征，不具备火焰的不规则跳动感或烟雾特征，属于光源或环境干扰导致的误报。"
+  }
+}

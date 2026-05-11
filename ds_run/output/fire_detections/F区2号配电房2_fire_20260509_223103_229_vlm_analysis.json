@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_223103_229.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 22:31:15",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是顶部设备（可能是指示灯或通风设备）发出的规则光斑，或者是金属表面的反光，没有火焰的不规则跳动和根部特征，属于光源或环境干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是顶部设备（可能是指示灯或通风设备）发出的规则光斑，或者是金属表面的反光，没有火焰的不规则跳动和根部特征，属于光源或环境干扰。"
+  }
+}

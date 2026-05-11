@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/3号岗厅客流_non_motor_vio_20260509_162207_434.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 16:22:21",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内显示的是一个白色的圆顶状物体，看起来像帐篷或遮阳棚，不具备摩托车或自行车的车轮、车把等结构特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是一个白色的圆顶状物体，看起来像帐篷或遮阳棚，不具备摩托车或自行车的车轮、车把等结构特征。"
+  }
+}

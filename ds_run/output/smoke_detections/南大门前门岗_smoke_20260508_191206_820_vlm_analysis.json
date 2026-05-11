@@ -1,0 +1,12 @@
+{
+  "image_path": "output/smoke_detections/南大门前门岗_smoke_20260508_191206_820.jpg",
+  "detection_type": "smoke",
+  "source_type": "single",
+  "timestamp": "2026-05-08 19:31:15",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"smoke\",\n    \"description\": \"画面中的灰白色团状物形态较为均匀，缺乏火焰特征，且无明显上升扩散趋势，结合傍晚时间及路面环境，判断为雾气或水蒸气干扰，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "smoke",
+    "description": "画面中的灰白色团状物形态较为均匀，缺乏火焰特征，且无明显上升扩散趋势，结合傍晚时间及路面环境，判断为雾气或水蒸气干扰，属于误报。"
+  }
+}

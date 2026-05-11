@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260511_062043_473.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-11 06:21:24",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"该区域呈现为橙红色光斑，形态较为规则，缺乏火焰明显的根部和不规则跳动感，且无伴随烟雾，疑似为顶部光源或反光物体干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "该区域呈现为橙红色光斑，形态较为规则，缺乏火焰明显的根部和不规则跳动感，且无伴随烟雾，疑似为顶部光源或反光物体干扰。"
+  }
+}

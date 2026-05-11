@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/1号楼东南侧_motor_vio_20260509_002336_696.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 00:23:54",
+  "vlm_analysis": "{\n\"signal\": true,\n\"behavior_type\": \"motor_vehicle_violations\",\n\"description\": \"红框内清晰可见一辆白色轿车（或SUV），具有完整的车顶、车窗和车身结构，属于机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰可见一辆白色轿车（或SUV），具有完整的车顶、车窗和车身结构，属于机动车目标。"
+  }
+}

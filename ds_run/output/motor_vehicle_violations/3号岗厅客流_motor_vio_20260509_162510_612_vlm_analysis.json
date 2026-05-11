@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/3号岗厅客流_motor_vio_20260509_162510_612.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 16:25:20",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"motor_vehicle_violations\",\n    \"description\": \"红框内是一辆深色的SUV或轿车，清晰可见车窗、车门及车头结构，符合机动车特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内是一辆深色的SUV或轿车，清晰可见车窗、车门及车头结构，符合机动车特征。"
+  }
+}

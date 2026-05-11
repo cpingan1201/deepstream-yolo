@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/物业前台_fire_20260509_151541_012.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:16:07",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false\",\n  \"description\": \"红色方框内显示的是‘全家光荣，全社会点赞’的文字信息，属于监控画面叠加的文字或电子屏显示，并非真实火焰，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false",
+    "description": "红色方框内显示的是‘全家光荣，全社会点赞’的文字信息，属于监控画面叠加的文字或电子屏显示，并非真实火焰，属于误报。"
+  }
+}

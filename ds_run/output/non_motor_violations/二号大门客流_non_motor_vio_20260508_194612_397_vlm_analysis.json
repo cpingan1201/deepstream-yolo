@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/二号大门客流_non_motor_vio_20260508_194612_397.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 20:09:30",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内显示一辆摩托车，可以看到车轮和车身结构，上方有文字标注 'motorcycle'。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示一辆摩托车，可以看到车轮和车身结构，上方有文字标注 'motorcycle'。"
+  }
+}

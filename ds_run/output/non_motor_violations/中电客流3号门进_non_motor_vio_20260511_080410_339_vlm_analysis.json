@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电客流3号门进_non_motor_vio_20260511_080410_339.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 08:04:41",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"non_motor_violations\",\n    \"description\": \"红框内显示的是摩托车（或电动车）的后轮、挡泥板及车身侧面部分，结合旁边的蓝色两轮车，可确认为摩托车目标。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内显示的是摩托车（或电动车）的后轮、挡泥板及车身侧面部分，结合旁边的蓝色两轮车，可确认为摩托车目标。"
+  }
+}

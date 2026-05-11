@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/地下室-2_non_motor_vio_20260430_103543_022.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:35:52",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红色方框内清晰可见停放的摩托车或电动自行车等非机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红色方框内清晰可见停放的摩托车或电动自行车等非机动车目标。"
+  }
+}

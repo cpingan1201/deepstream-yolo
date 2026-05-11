@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中电信息港8栋B座前厅_fire_20260509_052521_110.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 05:49:18",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"light source interference\",\n  \"description\": \"红色方框内显示的是强烈的阳光射入室内造成的过曝现象，属于光源干扰，非真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light source interference",
+    "description": "红色方框内显示的是强烈的阳光射入室内造成的过曝现象，属于光源干扰，非真实明火。"
+  }
+}

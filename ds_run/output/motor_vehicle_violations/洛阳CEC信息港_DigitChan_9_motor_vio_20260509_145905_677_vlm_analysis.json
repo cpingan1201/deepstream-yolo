@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/洛阳CEC信息港_DigitChan_9_motor_vio_20260509_145905_677.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 15:00:19",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"car\", \"description\": \"红框内是一辆白色的SUV，清晰可见车头、前轮和车身侧面，属于封闭车身汽车，主体占据红框主要区域。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "car",
+    "description": "红框内是一辆白色的SUV，清晰可见车头、前轮和车身侧面，属于封闭车身汽车，主体占据红框主要区域。"
+  }
+}

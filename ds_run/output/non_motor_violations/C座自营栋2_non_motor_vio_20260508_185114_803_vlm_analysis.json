@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/C座自营栋2_non_motor_vio_20260508_185114_803.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 19:04:37",
+  "vlm_analysis": "{\n\"signal\": true,\n\"behavior_type\": \"non_motor_violations\",\n\"description\": \"红框内清晰可见两辆两轮车辆（摩托车/电动车），具备车把、车轮、车身结构，符合摩托车定义。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见两辆两轮车辆（摩托车/电动车），具备车把、车轮、车身结构，符合摩托车定义。"
+  }
+}

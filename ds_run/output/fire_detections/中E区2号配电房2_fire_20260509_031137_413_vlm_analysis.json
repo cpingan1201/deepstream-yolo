@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_031137_413.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 03:13:12",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内的红色光点排列整齐，呈现规则分布，无火焰根部及不规则跳动感，且与左侧电气柜上的指示灯特征相似，推测为地面反光或指示灯倒影，属于环境干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "红色方框内的红色光点排列整齐，呈现规则分布，无火焰根部及不规则跳动感，且与左侧电气柜上的指示灯特征相似，推测为地面反光或指示灯倒影，属于环境干扰。"
+  }
+}

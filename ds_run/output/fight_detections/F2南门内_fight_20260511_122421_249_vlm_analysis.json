@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fight_detections/F2南门内_fight_20260511_122421_249.jpg",
+  "detection_type": "fight",
+  "source_type": "single",
+  "timestamp": "2026-05-11 12:24:34",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"normal walking\",\n  \"description\": \"画面显示商场大厅内有多名行人正常通行。右侧红框内人物背对镜头行走，中间人物低头看手机，左侧人物走向大门。所有人物之间无肢体接触，无攻击性动作，无打斗迹象。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "normal walking",
+    "description": "画面显示商场大厅内有多名行人正常通行。右侧红框内人物背对镜头行走，中间人物低头看手机，左侧人物走向大门。所有人物之间无肢体接触，无攻击性动作，无打斗迹象。"
+  }
+}

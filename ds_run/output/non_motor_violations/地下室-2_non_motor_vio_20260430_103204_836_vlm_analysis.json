@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/地下室-2_non_motor_vio_20260430_103204_836.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:32:13",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内清晰可见一辆摩托车。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内清晰可见一辆摩托车。"
+  }
+}

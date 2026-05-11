@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_183355_639.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 18:35:03",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内的红色光点排列相对规则，疑似为顶部设备（如温控器或传感器）的指示灯或金属表面反光，没有明显的火焰根部、不规则跳动或伴随的烟雾，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的红色光点排列相对规则，疑似为顶部设备（如温控器或传感器）的指示灯或金属表面反光，没有明显的火焰根部、不规则跳动或伴随的烟雾，属于误报。"
+  }
+}

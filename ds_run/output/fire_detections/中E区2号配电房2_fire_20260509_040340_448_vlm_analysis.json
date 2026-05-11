@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_040340_448.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 04:04:54",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"红色方框内显示的是配电柜面板上的红色指示灯，排列规则且静止，无火焰的不规则跳动感，属于设备指示灯误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是配电柜面板上的红色指示灯，排列规则且静止，无火焰的不规则跳动感，属于设备指示灯误报。"
+  }
+}

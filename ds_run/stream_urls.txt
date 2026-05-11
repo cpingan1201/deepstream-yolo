@@ -1,0 +1,2453 @@
+# Generated at 2026-05-08 03:01:00
+# Config: /app/m3u8/script/push_m3u8_stream.conf
+
+camera_name=artemis_0001
+stream_key=stream_0001
+source=artemis:3740aad52b6f486dbae89e5bc6dab4bb
+m3u8_url=http://127.0.0.1:6969/hls/stream_0001/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0002
+stream_key=stream_0002
+source=artemis:ad0e8bedb9f446079f3a413e90770c79
+m3u8_url=http://127.0.0.1:6969/hls/stream_0002/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0003
+stream_key=stream_0003
+source=artemis:5a5395d4d45943a79e329d5a454b2725
+m3u8_url=http://127.0.0.1:6969/hls/stream_0003/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0004
+stream_key=stream_0004
+source=artemis:1471d1e4be83489a834ae0505dbe7d21
+m3u8_url=http://127.0.0.1:6969/hls/stream_0004/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0005
+stream_key=stream_0005
+source=artemis:8ce27637e2e04fb6b1ad54d6ad480197
+m3u8_url=http://127.0.0.1:6969/hls/stream_0005/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0006
+stream_key=stream_0006
+source=artemis:fe7493e888b649549eab708b80c46a89
+m3u8_url=http://127.0.0.1:6969/hls/stream_0006/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0007
+stream_key=stream_0007
+source=artemis:162b3b45d5644070b49e8c4432a4d474
+m3u8_url=http://127.0.0.1:6969/hls/stream_0007/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0008
+stream_key=stream_0008
+source=artemis:579877a1f2494f009ef1672887a22621
+m3u8_url=http://127.0.0.1:6969/hls/stream_0008/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0009
+stream_key=stream_0009
+source=artemis:f3fd5d422fb243e08cccf306a50bf5e2
+m3u8_url=http://127.0.0.1:6969/hls/stream_0009/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0010
+stream_key=stream_0010
+source=artemis:a84954d3b6874a07bd0dbb5c8e25655c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0010/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0011
+stream_key=stream_0011
+source=artemis:4afc557060d94baa8c15af5d6635fe1d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0011/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0012
+stream_key=stream_0012
+source=artemis:da83d16f51744846a4bac33831822c8d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0012/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0013
+stream_key=stream_0013
+source=artemis:d0f1b19451424016b5c6bfb3de53fa02
+m3u8_url=http://127.0.0.1:6969/hls/stream_0013/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0014
+stream_key=stream_0014
+source=artemis:61268cb9c99640afb3daf1b9846e59a4
+m3u8_url=http://127.0.0.1:6969/hls/stream_0014/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0015
+stream_key=stream_0015
+source=artemis:c8eade3365a9489698ff7ee5ad0da9da
+m3u8_url=http://127.0.0.1:6969/hls/stream_0015/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0016
+stream_key=stream_0016
+source=artemis:e492d43456f7485395f91940774b8a11
+m3u8_url=http://127.0.0.1:6969/hls/stream_0016/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0017
+stream_key=stream_0017
+source=artemis:933f3492ec874f93a0358d93a45d0c07
+m3u8_url=http://127.0.0.1:6969/hls/stream_0017/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0018
+stream_key=stream_0018
+source=artemis:c88a589dc9294530814030e0873f1472
+m3u8_url=http://127.0.0.1:6969/hls/stream_0018/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0019
+stream_key=stream_0019
+source=artemis:9282e8be630a4d07ad55e8ba6b9b0ab1
+m3u8_url=http://127.0.0.1:6969/hls/stream_0019/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0020
+stream_key=stream_0020
+source=artemis:cae42d1cbd9e4285b6d22c5448cc51ab
+m3u8_url=http://127.0.0.1:6969/hls/stream_0020/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0021
+stream_key=stream_0021
+source=artemis:4bddc69c566b4be5bac71a9ca8a3a686
+m3u8_url=http://127.0.0.1:6969/hls/stream_0021/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0022
+stream_key=stream_0022
+source=artemis:5a7d8c425e754341b43b5c050093062a
+m3u8_url=http://127.0.0.1:6969/hls/stream_0022/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0023
+stream_key=stream_0023
+source=artemis:bc2f4c5359bc406e9faf5014a6e0d694
+m3u8_url=http://127.0.0.1:6969/hls/stream_0023/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0024
+stream_key=stream_0024
+source=artemis:41a9894e7012430e92cbedaa6cd71d57
+m3u8_url=http://127.0.0.1:6969/hls/stream_0024/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0025
+stream_key=stream_0025
+source=artemis:078ed1fa8ad0422e9da848d8455ba6e2
+m3u8_url=http://127.0.0.1:6969/hls/stream_0025/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0026
+stream_key=stream_0026
+source=artemis:5b0cc9c827d54858bdbcbe62bc298061
+m3u8_url=http://127.0.0.1:6969/hls/stream_0026/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0027
+stream_key=stream_0027
+source=artemis:c424cb3ed7764c4581d4a6fdf31d2245
+m3u8_url=http://127.0.0.1:6969/hls/stream_0027/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0028
+stream_key=stream_0028
+source=artemis:80bc05bd15c74c748036d98d5ba65d0a
+m3u8_url=http://127.0.0.1:6969/hls/stream_0028/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0029
+stream_key=stream_0029
+source=artemis:94b804eac35d478c9bdee7e46c04a782
+m3u8_url=http://127.0.0.1:6969/hls/stream_0029/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0030
+stream_key=stream_0030
+source=artemis:12bb773cf97a4e2d83ffd26a6774c11a
+m3u8_url=http://127.0.0.1:6969/hls/stream_0030/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0031
+stream_key=stream_0031
+source=artemis:525d9249285440828988fde11daaf30d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0031/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0032
+stream_key=stream_0032
+source=artemis:9607e619a69640cc95ecb8e8a270a675
+m3u8_url=http://127.0.0.1:6969/hls/stream_0032/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0033
+stream_key=stream_0033
+source=artemis:8f4cb41ba34c4695b150036dbe4bd5dd
+m3u8_url=http://127.0.0.1:6969/hls/stream_0033/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0034
+stream_key=stream_0034
+source=artemis:2388893b6da4429892966084bdb9075b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0034/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0035
+stream_key=stream_0035
+source=artemis:d9350b7e7c4046e19b45cfcc3523ef13
+m3u8_url=http://127.0.0.1:6969/hls/stream_0035/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0036
+stream_key=stream_0036
+source=artemis:1dd2ddc46820496cb7d3f172b1fbcb91
+m3u8_url=http://127.0.0.1:6969/hls/stream_0036/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0037
+stream_key=stream_0037
+source=artemis:4e0b5d502d784c00a85d002b459a4c46
+m3u8_url=http://127.0.0.1:6969/hls/stream_0037/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0038
+stream_key=stream_0038
+source=artemis:6a120c45f0924ebba7d2a1186badb949
+m3u8_url=http://127.0.0.1:6969/hls/stream_0038/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0039
+stream_key=stream_0039
+source=artemis:007f58f7531e42b0a0322adce9ffbdb1
+m3u8_url=http://127.0.0.1:6969/hls/stream_0039/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0040
+stream_key=stream_0040
+source=artemis:fb850cf712b14bf29be7fb7be656758f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0040/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0041
+stream_key=stream_0041
+source=artemis:8d8d67c855144c219fb50026e5de26c4
+m3u8_url=http://127.0.0.1:6969/hls/stream_0041/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0042
+stream_key=stream_0042
+source=artemis:46127e7ae232425ea3cfcc1c0ae5b2ba
+m3u8_url=http://127.0.0.1:6969/hls/stream_0042/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0043
+stream_key=stream_0043
+source=artemis:4ab47990679849138dbb53143f669a7e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0043/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0044
+stream_key=stream_0044
+source=artemis:a86194883aff480388bcc66c76018e8f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0044/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0045
+stream_key=stream_0045
+source=artemis:1783ec7c10a2433aa1e4f7afcd334f61
+m3u8_url=http://127.0.0.1:6969/hls/stream_0045/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0046
+stream_key=stream_0046
+source=artemis:dea79359dff1400aac15fc186b6df136
+m3u8_url=http://127.0.0.1:6969/hls/stream_0046/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0047
+stream_key=stream_0047
+source=artemis:d51f16e76ea842418c8c192b3871f3ad
+m3u8_url=http://127.0.0.1:6969/hls/stream_0047/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0048
+stream_key=stream_0048
+source=artemis:8962f98d19af46e8ae44978123f7a142
+m3u8_url=http://127.0.0.1:6969/hls/stream_0048/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0049
+stream_key=stream_0049
+source=artemis:ab3f2359c78a47ee81ef511aaa33ab5b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0049/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0050
+stream_key=stream_0050
+source=artemis:53d3805048a449b6aaf00e76222d2b0c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0050/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0051
+stream_key=stream_0051
+source=artemis:8b529267feaf425681e6746ee8b6aab8
+m3u8_url=http://127.0.0.1:6969/hls/stream_0051/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0052
+stream_key=stream_0052
+source=artemis:1d867ee986a249c3baa590b86c5bf65a
+m3u8_url=http://127.0.0.1:6969/hls/stream_0052/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0053
+stream_key=stream_0053
+source=artemis:ceacca9896a840d1ae3132a464f70714
+m3u8_url=http://127.0.0.1:6969/hls/stream_0053/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0054
+stream_key=stream_0054
+source=artemis:093d079b4c564177a186d5fea339b325
+m3u8_url=http://127.0.0.1:6969/hls/stream_0054/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0055
+stream_key=stream_0055
+source=artemis:269b1a8370094af79b4d351325ef1a2f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0055/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0056
+stream_key=stream_0056
+source=artemis:7773d41934a8439892cc0dd4714f567b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0056/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0057
+stream_key=stream_0057
+source=artemis:1bbcd68a357a41b8a97a2e0a846a915c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0057/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0058
+stream_key=stream_0058
+source=artemis:bdc59d36319c4898b9450a94f726e74a
+m3u8_url=http://127.0.0.1:6969/hls/stream_0058/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0059
+stream_key=stream_0059
+source=artemis:25ec8fe2f0d74b5cb281237f9c52db74
+m3u8_url=http://127.0.0.1:6969/hls/stream_0059/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0060
+stream_key=stream_0060
+source=artemis:4038c7c96b5642e9b7bd2c6cb0cccf68
+m3u8_url=http://127.0.0.1:6969/hls/stream_0060/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0061
+stream_key=stream_0061
+source=artemis:bafd219ce5454d72a7a57691aa164bea
+m3u8_url=http://127.0.0.1:6969/hls/stream_0061/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0062
+stream_key=stream_0062
+source=artemis:5b103ea066664c85924927bd04c21a19
+m3u8_url=http://127.0.0.1:6969/hls/stream_0062/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0063
+stream_key=stream_0063
+source=artemis:3fc0ddc9392248f3a8187b24ff9ee552
+m3u8_url=http://127.0.0.1:6969/hls/stream_0063/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0064
+stream_key=stream_0064
+source=artemis:ce2386ff24f34ff8b026868ea93e406e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0064/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0065
+stream_key=stream_0065
+source=artemis:cfdb002aae05492cab17f0e13cd364bf
+m3u8_url=http://127.0.0.1:6969/hls/stream_0065/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0066
+stream_key=stream_0066
+source=artemis:e4bc514168f648ac81dc7267f6da691c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0066/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0067
+stream_key=stream_0067
+source=artemis:ac6aeded2f5948e08f22546f7fd462c2
+m3u8_url=http://127.0.0.1:6969/hls/stream_0067/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0068
+stream_key=stream_0068
+source=artemis:eb70248f588640b3a084b92efcca99ad
+m3u8_url=http://127.0.0.1:6969/hls/stream_0068/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0069
+stream_key=stream_0069
+source=artemis:f9438115e54a4938972067098e9a6e44
+m3u8_url=http://127.0.0.1:6969/hls/stream_0069/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0070
+stream_key=stream_0070
+source=artemis:13e9091000874a07bcc72a452a259c4e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0070/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0071
+stream_key=stream_0071
+source=artemis:861ff71c72214a33bb6cdcfc11ed3536
+m3u8_url=http://127.0.0.1:6969/hls/stream_0071/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0072
+stream_key=stream_0072
+source=artemis:b508b31077004732959b08af28970c45
+m3u8_url=http://127.0.0.1:6969/hls/stream_0072/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0073
+stream_key=stream_0073
+source=artemis:04c25a5f18ad4d0cacf14c0c7ff7990c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0073/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0074
+stream_key=stream_0074
+source=artemis:9475279f5ec246c7acfe85fd45f969af
+m3u8_url=http://127.0.0.1:6969/hls/stream_0074/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0075
+stream_key=stream_0075
+source=artemis:377a1ee290cf434d9cd003b5960e7aeb
+m3u8_url=http://127.0.0.1:6969/hls/stream_0075/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0076
+stream_key=stream_0076
+source=artemis:393a6692873445ab828262222fe2c916
+m3u8_url=http://127.0.0.1:6969/hls/stream_0076/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0077
+stream_key=stream_0077
+source=artemis:90bbbb48536e4c66ac5e95fc2fca46eb
+m3u8_url=http://127.0.0.1:6969/hls/stream_0077/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0078
+stream_key=stream_0078
+source=artemis:48c3ebc5567345ff887e849f6695d316
+m3u8_url=http://127.0.0.1:6969/hls/stream_0078/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0079
+stream_key=stream_0079
+source=artemis:83442bbf71ae4225b7da60fb03bd5334
+m3u8_url=http://127.0.0.1:6969/hls/stream_0079/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0080
+stream_key=stream_0080
+source=artemis:2494519002aa4ac0847ae68c198c4bff
+m3u8_url=http://127.0.0.1:6969/hls/stream_0080/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0081
+stream_key=stream_0081
+source=artemis:213b7101c1af445895feaf65b75486da
+m3u8_url=http://127.0.0.1:6969/hls/stream_0081/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0082
+stream_key=stream_0082
+source=artemis:3d7d7e6c5bda46aa8949bad044547602
+m3u8_url=http://127.0.0.1:6969/hls/stream_0082/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0083
+stream_key=stream_0083
+source=artemis:eed9598ea18345c7949350f9bb1309a6
+m3u8_url=http://127.0.0.1:6969/hls/stream_0083/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0084
+stream_key=stream_0084
+source=artemis:cb5758e3ebde483d93973f08280f1e52
+m3u8_url=http://127.0.0.1:6969/hls/stream_0084/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0085
+stream_key=stream_0085
+source=artemis:21b48cdb430448d6a95a5b53f7de9ebc
+m3u8_url=http://127.0.0.1:6969/hls/stream_0085/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0086
+stream_key=stream_0086
+source=artemis:8c65e78b7c2b48c3830ecc949b542db3
+m3u8_url=http://127.0.0.1:6969/hls/stream_0086/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0087
+stream_key=stream_0087
+source=artemis:8a7e2fe0d2bd4d2690816a21c9aa2779
+m3u8_url=http://127.0.0.1:6969/hls/stream_0087/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0088
+stream_key=stream_0088
+source=artemis:a478289b45014c5fb5b09c55b37d8b56
+m3u8_url=http://127.0.0.1:6969/hls/stream_0088/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0089
+stream_key=stream_0089
+source=artemis:401bc7e6fd5945e9a7e2e0d9ecf10e7e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0089/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0090
+stream_key=stream_0090
+source=artemis:03583656d0a14a5eb0deadc8e5c8f8a6
+m3u8_url=http://127.0.0.1:6969/hls/stream_0090/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0091
+stream_key=stream_0091
+source=artemis:ac142807e7284923ae02eb00233a6742
+m3u8_url=http://127.0.0.1:6969/hls/stream_0091/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0092
+stream_key=stream_0092
+source=artemis:d336cd4ac0b54360a24ee768ac28312b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0092/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0093
+stream_key=stream_0093
+source=artemis:5ec199341833438887ae579314f170e0
+m3u8_url=http://127.0.0.1:6969/hls/stream_0093/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0094
+stream_key=stream_0094
+source=artemis:3ff7bc4a486749208836a806d64360f0
+m3u8_url=http://127.0.0.1:6969/hls/stream_0094/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0095
+stream_key=stream_0095
+source=artemis:e385b92213564e34ae405cb7cd6ee684
+m3u8_url=http://127.0.0.1:6969/hls/stream_0095/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0096
+stream_key=stream_0096
+source=artemis:4b373cc5cb8a459b88f882fa0c01a7e3
+m3u8_url=http://127.0.0.1:6969/hls/stream_0096/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0097
+stream_key=stream_0097
+source=artemis:6a9e78e67eb64c41a2dff6e7df332b9d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0097/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0098
+stream_key=stream_0098
+source=artemis:51a5a65669d84af1a02c84d0717942dd
+m3u8_url=http://127.0.0.1:6969/hls/stream_0098/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0099
+stream_key=stream_0099
+source=artemis:5147f16d2c884a368a7aeb980ed23acb
+m3u8_url=http://127.0.0.1:6969/hls/stream_0099/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0100
+stream_key=stream_0100
+source=artemis:0fea653e24ed499fb8dca2a26edcdf5b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0100/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0101
+stream_key=stream_0101
+source=artemis:2ce67a35c20e479d969541fa2b3d4a71
+m3u8_url=http://127.0.0.1:6969/hls/stream_0101/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0102
+stream_key=stream_0102
+source=artemis:d2d6ec8b4448489a95d42582807be666
+m3u8_url=http://127.0.0.1:6969/hls/stream_0102/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0103
+stream_key=stream_0103
+source=artemis:ca2c756c3c5b453ca9836ed495347c91
+m3u8_url=http://127.0.0.1:6969/hls/stream_0103/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0104
+stream_key=stream_0104
+source=artemis:5704ad3a117a4962b2ff8487a36dc087
+m3u8_url=http://127.0.0.1:6969/hls/stream_0104/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0105
+stream_key=stream_0105
+source=artemis:6f6a33f4ebba4b408ff628243a051d18
+m3u8_url=http://127.0.0.1:6969/hls/stream_0105/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0106
+stream_key=stream_0106
+source=artemis:b80182196fc5493182106b718bea8394
+m3u8_url=http://127.0.0.1:6969/hls/stream_0106/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0107
+stream_key=stream_0107
+source=artemis:30e33be2cab644039805228e27314c79
+m3u8_url=http://127.0.0.1:6969/hls/stream_0107/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0108
+stream_key=stream_0108
+source=artemis:31962cacd46e45159e89927147a6e74f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0108/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0109
+stream_key=stream_0109
+source=artemis:d4a4458e00854e3f88391718abb9b4d3
+m3u8_url=http://127.0.0.1:6969/hls/stream_0109/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0110
+stream_key=stream_0110
+source=artemis:b2a1b12e1f5446e29b699084a33deb12
+m3u8_url=http://127.0.0.1:6969/hls/stream_0110/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0111
+stream_key=stream_0111
+source=artemis:34322a93b02540ceb0501b46d2fbfbaa
+m3u8_url=http://127.0.0.1:6969/hls/stream_0111/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0112
+stream_key=stream_0112
+source=artemis:f7f83d94aeb24751b9a2886e1e50f002
+m3u8_url=http://127.0.0.1:6969/hls/stream_0112/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0113
+stream_key=stream_0113
+source=artemis:a79ef02f62a14d638192f4fa42ba9598
+m3u8_url=http://127.0.0.1:6969/hls/stream_0113/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0114
+stream_key=stream_0114
+source=artemis:361df2de93254f1592d4511ac80702fe
+m3u8_url=http://127.0.0.1:6969/hls/stream_0114/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0115
+stream_key=stream_0115
+source=artemis:167f85a42acc45d683931d94a3e9d496
+m3u8_url=http://127.0.0.1:6969/hls/stream_0115/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0116
+stream_key=stream_0116
+source=artemis:5b2cd28df9dc41638662c8214c4c3688
+m3u8_url=http://127.0.0.1:6969/hls/stream_0116/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0117
+stream_key=stream_0117
+source=artemis:7b7f8ed66f8041ba8beb48211aa0f892
+m3u8_url=http://127.0.0.1:6969/hls/stream_0117/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0118
+stream_key=stream_0118
+source=artemis:1536aaf1a2aa4a0d8ba8ba14e6ab73ff
+m3u8_url=http://127.0.0.1:6969/hls/stream_0118/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0119
+stream_key=stream_0119
+source=artemis:a7ad3ca0d5dd4a25926f41e8d01915d5
+m3u8_url=http://127.0.0.1:6969/hls/stream_0119/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0120
+stream_key=stream_0120
+source=artemis:cf8e2ef8d18d4e0a94e40e683d3a5673
+m3u8_url=http://127.0.0.1:6969/hls/stream_0120/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0121
+stream_key=stream_0121
+source=artemis:0f8b39b0497441eb89ee5a7fb93f3784
+m3u8_url=http://127.0.0.1:6969/hls/stream_0121/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0122
+stream_key=stream_0122
+source=artemis:e44efe2beaaa4fa991b0efbd025a1e6b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0122/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0123
+stream_key=stream_0123
+source=artemis:6b7281522e1248c2bb1345a01808d364
+m3u8_url=http://127.0.0.1:6969/hls/stream_0123/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0124
+stream_key=stream_0124
+source=artemis:dffb7cb4248c43db9300c6e58e9a9f58
+m3u8_url=http://127.0.0.1:6969/hls/stream_0124/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0125
+stream_key=stream_0125
+source=artemis:c7b2b067448147ca940dae00758c7129
+m3u8_url=http://127.0.0.1:6969/hls/stream_0125/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0126
+stream_key=stream_0126
+source=artemis:0be2858a6d5f40d283e91312c601b60c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0126/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0127
+stream_key=stream_0127
+source=artemis:b66f584e94644047a9856a8594f60741
+m3u8_url=http://127.0.0.1:6969/hls/stream_0127/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0128
+stream_key=stream_0128
+source=artemis:715502326c5d4a57b087835f99be1edf
+m3u8_url=http://127.0.0.1:6969/hls/stream_0128/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0129
+stream_key=stream_0129
+source=artemis:b4545db0522f428986fc4487644d65ad
+m3u8_url=http://127.0.0.1:6969/hls/stream_0129/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0130
+stream_key=stream_0130
+source=artemis:09d998bd37114f268c02c5e238c5dd61
+m3u8_url=http://127.0.0.1:6969/hls/stream_0130/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0131
+stream_key=stream_0131
+source=artemis:11c7dbda9b1840ce97fc7c64977402f7
+m3u8_url=http://127.0.0.1:6969/hls/stream_0131/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0132
+stream_key=stream_0132
+source=artemis:49d49d15d1e2451db086eb42bc2be40d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0132/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0133
+stream_key=stream_0133
+source=artemis:e9bdf64462a44b0c870cc36c44d8caf6
+m3u8_url=http://127.0.0.1:6969/hls/stream_0133/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0134
+stream_key=stream_0134
+source=artemis:4c8d57e6bad44302bb869546787a5784
+m3u8_url=http://127.0.0.1:6969/hls/stream_0134/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0135
+stream_key=stream_0135
+source=artemis:6c7b885581a9404593b08f10f2b75472
+m3u8_url=http://127.0.0.1:6969/hls/stream_0135/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0136
+stream_key=stream_0136
+source=artemis:b62fb4d8d9494e1e90adf2a5a0ef4d95
+m3u8_url=http://127.0.0.1:6969/hls/stream_0136/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0137
+stream_key=stream_0137
+source=artemis:316606a8706d402ea41961fceffe4565
+m3u8_url=http://127.0.0.1:6969/hls/stream_0137/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0138
+stream_key=stream_0138
+source=artemis:91f0cc91d8ad420d81fb45d9c58571bc
+m3u8_url=http://127.0.0.1:6969/hls/stream_0138/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0139
+stream_key=stream_0139
+source=artemis:ab7e4fd260984a558f43ab6b0030b920
+m3u8_url=http://127.0.0.1:6969/hls/stream_0139/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0140
+stream_key=stream_0140
+source=artemis:56b4908a8df743899ebb63b136dc0dbe
+m3u8_url=http://127.0.0.1:6969/hls/stream_0140/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0141
+stream_key=stream_0141
+source=artemis:bdf18db8aa104b59b4fd2164e81ba8b1
+m3u8_url=http://127.0.0.1:6969/hls/stream_0141/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0142
+stream_key=stream_0142
+source=artemis:ad46657c253945f99803853faf354888
+m3u8_url=http://127.0.0.1:6969/hls/stream_0142/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0143
+stream_key=stream_0143
+source=artemis:7becab4e7e2b4ea0a8a8a2f35eaf7dc8
+m3u8_url=http://127.0.0.1:6969/hls/stream_0143/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0144
+stream_key=stream_0144
+source=artemis:881ae8fd9d21421d8cbc137d129752b2
+m3u8_url=http://127.0.0.1:6969/hls/stream_0144/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0145
+stream_key=stream_0145
+source=artemis:acb688c77372441b9f47214c6b287fc7
+m3u8_url=http://127.0.0.1:6969/hls/stream_0145/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0146
+stream_key=stream_0146
+source=artemis:f1a563d9d7b14025a2955f281914f67b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0146/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0147
+stream_key=stream_0147
+source=artemis:dc5f7453c5d940118813d253a35fd1d3
+m3u8_url=http://127.0.0.1:6969/hls/stream_0147/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0148
+stream_key=stream_0148
+source=artemis:8c87fe5e06f64b6ea312cb7146747a04
+m3u8_url=http://127.0.0.1:6969/hls/stream_0148/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0149
+stream_key=stream_0149
+source=artemis:e9a84be79c4c4281a300d0bafa2c9eec
+m3u8_url=http://127.0.0.1:6969/hls/stream_0149/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0150
+stream_key=stream_0150
+source=artemis:b13f654218df4667b32001408ea68955
+m3u8_url=http://127.0.0.1:6969/hls/stream_0150/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0151
+stream_key=stream_0151
+source=artemis:f87133a68ef24621b3b14e5351181e8f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0151/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0152
+stream_key=stream_0152
+source=artemis:2c44d92fbbdd4fa9b3e81ac81ca889c6
+m3u8_url=http://127.0.0.1:6969/hls/stream_0152/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0153
+stream_key=stream_0153
+source=artemis:54fe49c1487f4f8a87a2136506730499
+m3u8_url=http://127.0.0.1:6969/hls/stream_0153/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0154
+stream_key=stream_0154
+source=artemis:2a2455c4c35c4b4598508bd76a8cbcf5
+m3u8_url=http://127.0.0.1:6969/hls/stream_0154/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0155
+stream_key=stream_0155
+source=artemis:74df050b6cb340888d07cd4e4dac180d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0155/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0156
+stream_key=stream_0156
+source=artemis:916e457337f946af8117901b03fb411e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0156/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0157
+stream_key=stream_0157
+source=artemis:c526566d94bc4957b6ed882fdc496a07
+m3u8_url=http://127.0.0.1:6969/hls/stream_0157/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0158
+stream_key=stream_0158
+source=artemis:99640f6e28c84eafb95323dd128ac59a
+m3u8_url=http://127.0.0.1:6969/hls/stream_0158/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0159
+stream_key=stream_0159
+source=artemis:60bd4f6a463440e08c84fe46ea1f2789
+m3u8_url=http://127.0.0.1:6969/hls/stream_0159/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0160
+stream_key=stream_0160
+source=artemis:9c1e43a1d82442e0b45c4df1d4ba6f01
+m3u8_url=http://127.0.0.1:6969/hls/stream_0160/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0161
+stream_key=stream_0161
+source=artemis:d373510bb1ac4f4da8a1ad094aef400b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0161/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0162
+stream_key=stream_0162
+source=artemis:5681ef42f80f4da2b7836cc94b89fa00
+m3u8_url=http://127.0.0.1:6969/hls/stream_0162/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0163
+stream_key=stream_0163
+source=artemis:7fab56310da54791bf1d46e1eb2dbc03
+m3u8_url=http://127.0.0.1:6969/hls/stream_0163/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0164
+stream_key=stream_0164
+source=artemis:39de4e19b1304047ac6f7f02299fc8db
+m3u8_url=http://127.0.0.1:6969/hls/stream_0164/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0165
+stream_key=stream_0165
+source=artemis:ef35b7b55bab424b8373b14f996bb219
+m3u8_url=http://127.0.0.1:6969/hls/stream_0165/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0166
+stream_key=stream_0166
+source=artemis:350c397cf906477789b6ed04885ebc81
+m3u8_url=http://127.0.0.1:6969/hls/stream_0166/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0167
+stream_key=stream_0167
+source=artemis:03a239c37e6f4def8bae2f02f6f3b8bc
+m3u8_url=http://127.0.0.1:6969/hls/stream_0167/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0168
+stream_key=stream_0168
+source=artemis:1ac70ad651db41f5892f8c8157f11a94
+m3u8_url=http://127.0.0.1:6969/hls/stream_0168/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0169
+stream_key=stream_0169
+source=artemis:dce3deb0963e447aa39616f2857a4953
+m3u8_url=http://127.0.0.1:6969/hls/stream_0169/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0170
+stream_key=stream_0170
+source=artemis:1f7b4680ca41492b9f5f47e670b82ba7
+m3u8_url=http://127.0.0.1:6969/hls/stream_0170/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0171
+stream_key=stream_0171
+source=artemis:ebd5721ae7c444a093080b3045929e0f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0171/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0172
+stream_key=stream_0172
+source=artemis:a2f031610f1146b98a04656a5acbce7b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0172/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0173
+stream_key=stream_0173
+source=artemis:fa66c57c43464ee1b024e16123bd5eab
+m3u8_url=http://127.0.0.1:6969/hls/stream_0173/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0174
+stream_key=stream_0174
+source=artemis:87386692bf5b4562b90ddbd66edd6582
+m3u8_url=http://127.0.0.1:6969/hls/stream_0174/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0175
+stream_key=stream_0175
+source=artemis:fc08657846c547f38cf6fa4a71216f60
+m3u8_url=http://127.0.0.1:6969/hls/stream_0175/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0176
+stream_key=stream_0176
+source=artemis:08f09b50084b4cf09bada0a66d937c0c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0176/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0177
+stream_key=stream_0177
+source=artemis:c8141f01221d4443b9c81adac91052a7
+m3u8_url=http://127.0.0.1:6969/hls/stream_0177/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0178
+stream_key=stream_0178
+source=artemis:beee6750f8cb4d6c90550b52f0531d7d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0178/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0179
+stream_key=stream_0179
+source=artemis:74ef835e09214694a31db6d55b93979f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0179/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0180
+stream_key=stream_0180
+source=artemis:ecfba2f6eb714ecfa1ce623357b13120
+m3u8_url=http://127.0.0.1:6969/hls/stream_0180/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0181
+stream_key=stream_0181
+source=artemis:7c8c082dc02647398262ad0cdfc1cfd9
+m3u8_url=http://127.0.0.1:6969/hls/stream_0181/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0182
+stream_key=stream_0182
+source=artemis:2eda64da107f42a5b7a465fa8d9a183a
+m3u8_url=http://127.0.0.1:6969/hls/stream_0182/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0183
+stream_key=stream_0183
+source=artemis:12c885ab7d60423ca6c973c2fe496e8d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0183/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0184
+stream_key=stream_0184
+source=artemis:784c4d712bd348009f5246702ef00f82
+m3u8_url=http://127.0.0.1:6969/hls/stream_0184/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0185
+stream_key=stream_0185
+source=artemis:f2e6f7d28c33499d99e4534d0f30af6b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0185/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0186
+stream_key=stream_0186
+source=artemis:883a1d748f30418a8aa6f6f086f5d59e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0186/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0187
+stream_key=stream_0187
+source=artemis:ebfdd1d0ba1b4c69b2c5e91a4dadc792
+m3u8_url=http://127.0.0.1:6969/hls/stream_0187/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0188
+stream_key=stream_0188
+source=artemis:b66c7f3c4dc74793af31ed8bbaa433d3
+m3u8_url=http://127.0.0.1:6969/hls/stream_0188/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0189
+stream_key=stream_0189
+source=artemis:ccc0172840774a09a32bad2917137203
+m3u8_url=http://127.0.0.1:6969/hls/stream_0189/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0190
+stream_key=stream_0190
+source=artemis:150e753954bc48498ff00609bc3ea174
+m3u8_url=http://127.0.0.1:6969/hls/stream_0190/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0191
+stream_key=stream_0191
+source=artemis:8ef4940e4f4147e1a058b23c78062602
+m3u8_url=http://127.0.0.1:6969/hls/stream_0191/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0192
+stream_key=stream_0192
+source=artemis:d240968ac8a943a1931708008b31267e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0192/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0193
+stream_key=stream_0193
+source=artemis:ef65f470e4d54e3cbee845dcd04a61eb
+m3u8_url=http://127.0.0.1:6969/hls/stream_0193/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0194
+stream_key=stream_0194
+source=artemis:067b8c9c00204ece8516e8e246046dd9
+m3u8_url=http://127.0.0.1:6969/hls/stream_0194/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0195
+stream_key=stream_0195
+source=artemis:fbcd27ed441e444f89c8895dbc6c91b5
+m3u8_url=http://127.0.0.1:6969/hls/stream_0195/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0196
+stream_key=stream_0196
+source=artemis:f0f7cfac606644e3b0806859e7b54588
+m3u8_url=http://127.0.0.1:6969/hls/stream_0196/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0197
+stream_key=stream_0197
+source=artemis:720db826b05a41e0a16bb9a851b008da
+m3u8_url=http://127.0.0.1:6969/hls/stream_0197/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0198
+stream_key=stream_0198
+source=artemis:7050161315d44632b2a8de0aa4952cc9
+m3u8_url=http://127.0.0.1:6969/hls/stream_0198/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0199
+stream_key=stream_0199
+source=artemis:3d5fab168cbd48c7bb6bd571c3a6299e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0199/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0200
+stream_key=stream_0200
+source=artemis:73dd8fca84724238bd4ebbf7ac2a748d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0200/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0201
+stream_key=stream_0201
+source=artemis:70cdac9deeae4e4a823a1aa6278dd02a
+m3u8_url=http://127.0.0.1:6969/hls/stream_0201/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0202
+stream_key=stream_0202
+source=artemis:97ea7da94f72416eb369216fba863b4a
+m3u8_url=http://127.0.0.1:6969/hls/stream_0202/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0203
+stream_key=stream_0203
+source=artemis:0301c8dfc18340c094a3a40b327ea6f7
+m3u8_url=http://127.0.0.1:6969/hls/stream_0203/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0204
+stream_key=stream_0204
+source=artemis:2f3a6a1f72a0449d9ff6f59687053b4b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0204/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0205
+stream_key=stream_0205
+source=artemis:2d41719b28d54d1891f212c32ffaff0e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0205/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0206
+stream_key=stream_0206
+source=artemis:0311895a179a4ea4b80a287ff8199c57
+m3u8_url=http://127.0.0.1:6969/hls/stream_0206/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0207
+stream_key=stream_0207
+source=artemis:7535424438bd4456a900c1aa925dcd2e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0207/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0208
+stream_key=stream_0208
+source=artemis:de9539591089493c8aab13f893a115ce
+m3u8_url=http://127.0.0.1:6969/hls/stream_0208/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0209
+stream_key=stream_0209
+source=artemis:ae908228cc1a447c985cefe936f031ae
+m3u8_url=http://127.0.0.1:6969/hls/stream_0209/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0210
+stream_key=stream_0210
+source=artemis:6e405308a55b4932a22cc5de87f525b2
+m3u8_url=http://127.0.0.1:6969/hls/stream_0210/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0211
+stream_key=stream_0211
+source=artemis:541b170556c84a60a370b83cb78d5c0b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0211/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0212
+stream_key=stream_0212
+source=artemis:3c0d03a7050d4d61a15b9f5d42de017f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0212/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0213
+stream_key=stream_0213
+source=artemis:c1354af45ee9464190f499529e0892e1
+m3u8_url=http://127.0.0.1:6969/hls/stream_0213/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0214
+stream_key=stream_0214
+source=artemis:c72390402e594cf6822bd291b59533d5
+m3u8_url=http://127.0.0.1:6969/hls/stream_0214/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0215
+stream_key=stream_0215
+source=artemis:ed57a5c692ef4723acee2b67a11cd48c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0215/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0216
+stream_key=stream_0216
+source=artemis:1644cbaba6f9452bbfc80e56e6abf691
+m3u8_url=http://127.0.0.1:6969/hls/stream_0216/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0217
+stream_key=stream_0217
+source=artemis:9aa86c01a98e4926bbade7bb4ed87084
+m3u8_url=http://127.0.0.1:6969/hls/stream_0217/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0218
+stream_key=stream_0218
+source=artemis:50d2a313f58c460182502664b1bb81db
+m3u8_url=http://127.0.0.1:6969/hls/stream_0218/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0219
+stream_key=stream_0219
+source=artemis:7d4ceac6591f4bc6af6728009e196a0c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0219/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0220
+stream_key=stream_0220
+source=artemis:e46480c43df24c0e8e6d14d1bdb841c7
+m3u8_url=http://127.0.0.1:6969/hls/stream_0220/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0221
+stream_key=stream_0221
+source=artemis:b733d80ad8bf4f6f831c229d57cd0c02
+m3u8_url=http://127.0.0.1:6969/hls/stream_0221/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0222
+stream_key=stream_0222
+source=artemis:5610ad64663f4c05bcf61bfa064eb32d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0222/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0223
+stream_key=stream_0223
+source=artemis:aff14fc046c64aa38a1135fb676190e1
+m3u8_url=http://127.0.0.1:6969/hls/stream_0223/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0224
+stream_key=stream_0224
+source=artemis:961199dad8954696a0f6b9450dfa5c8b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0224/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0225
+stream_key=stream_0225
+source=artemis:f79f97b87c5d4d738fa405c5005d29ef
+m3u8_url=http://127.0.0.1:6969/hls/stream_0225/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0226
+stream_key=stream_0226
+source=artemis:e6b7ffd0e46a4d59a4078e330942144c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0226/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0227
+stream_key=stream_0227
+source=artemis:083ee28ce8964c4daa66b031c75fe115
+m3u8_url=http://127.0.0.1:6969/hls/stream_0227/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0228
+stream_key=stream_0228
+source=artemis:ee07b2dda0d44445ab85034fb1938847
+m3u8_url=http://127.0.0.1:6969/hls/stream_0228/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0229
+stream_key=stream_0229
+source=artemis:c33c794ebc1d46139ea73f9d2fcdd2ba
+m3u8_url=http://127.0.0.1:6969/hls/stream_0229/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0230
+stream_key=stream_0230
+source=artemis:7003893ace524a1488f5c72baf823a91
+m3u8_url=http://127.0.0.1:6969/hls/stream_0230/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0231
+stream_key=stream_0231
+source=artemis:e071cf9fae9b4d598334e352b3208fb9
+m3u8_url=http://127.0.0.1:6969/hls/stream_0231/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0232
+stream_key=stream_0232
+source=artemis:8968b652116448238717eb0f67c575b4
+m3u8_url=http://127.0.0.1:6969/hls/stream_0232/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0233
+stream_key=stream_0233
+source=artemis:a9d33c7af755445ea156f46736a8476e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0233/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0234
+stream_key=stream_0234
+source=artemis:fa408570c09e4a46a3466746277559cb
+m3u8_url=http://127.0.0.1:6969/hls/stream_0234/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0235
+stream_key=stream_0235
+source=artemis:a48a25069e4447e8b0ed395691da89bf
+m3u8_url=http://127.0.0.1:6969/hls/stream_0235/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0236
+stream_key=stream_0236
+source=artemis:37c216a9a7584fbea9237d39a96a8889
+m3u8_url=http://127.0.0.1:6969/hls/stream_0236/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0237
+stream_key=stream_0237
+source=artemis:76dff5e538174946a4cd9dea1d90580b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0237/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0238
+stream_key=stream_0238
+source=artemis:b43a1f6fb4634945a31bdcd0f8cce070
+m3u8_url=http://127.0.0.1:6969/hls/stream_0238/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0239
+stream_key=stream_0239
+source=artemis:cb2c950275e74fad97a3d064d451a674
+m3u8_url=http://127.0.0.1:6969/hls/stream_0239/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0240
+stream_key=stream_0240
+source=artemis:0b61b495ea00479dbfe1b9f7831bacb7
+m3u8_url=http://127.0.0.1:6969/hls/stream_0240/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0241
+stream_key=stream_0241
+source=artemis:83947c3fff4743dab1ff1bcb0563a821
+m3u8_url=http://127.0.0.1:6969/hls/stream_0241/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0242
+stream_key=stream_0242
+source=artemis:a4440dae874644688dbf3344e87545ce
+m3u8_url=http://127.0.0.1:6969/hls/stream_0242/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0243
+stream_key=stream_0243
+source=artemis:f018298af27948cfb95ff02cfdd230f3
+m3u8_url=http://127.0.0.1:6969/hls/stream_0243/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0244
+stream_key=stream_0244
+source=artemis:41a373e7533a400ebd72cf2d2a22f487
+m3u8_url=http://127.0.0.1:6969/hls/stream_0244/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0245
+stream_key=stream_0245
+source=artemis:d4cbef188df9488d9d8b68cfcb054802
+m3u8_url=http://127.0.0.1:6969/hls/stream_0245/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0246
+stream_key=stream_0246
+source=artemis:6c5ce27de569427f8ac2c0f30a54aa6f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0246/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0247
+stream_key=stream_0247
+source=artemis:c8ce5bf664634003ade35b4371ebe8b6
+m3u8_url=http://127.0.0.1:6969/hls/stream_0247/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0248
+stream_key=stream_0248
+source=artemis:c847d60a48d545d7b9833b54ab622763
+m3u8_url=http://127.0.0.1:6969/hls/stream_0248/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0249
+stream_key=stream_0249
+source=artemis:db1613d45be14547b0ccf0bfdba266ef
+m3u8_url=http://127.0.0.1:6969/hls/stream_0249/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0250
+stream_key=stream_0250
+source=artemis:b3ca41a018bf48ceb844a66bd634859f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0250/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0251
+stream_key=stream_0251
+source=artemis:50ba76090c924e7daaaa581089f84e33
+m3u8_url=http://127.0.0.1:6969/hls/stream_0251/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0252
+stream_key=stream_0252
+source=artemis:f6650c49bfa04486b4f23fd59a9c1b0d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0252/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0253
+stream_key=stream_0253
+source=artemis:4fe1be7b8d9a418989378a83b93c6a69
+m3u8_url=http://127.0.0.1:6969/hls/stream_0253/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0254
+stream_key=stream_0254
+source=artemis:16b9e41e16864dc29e8958d8ab235205
+m3u8_url=http://127.0.0.1:6969/hls/stream_0254/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0255
+stream_key=stream_0255
+source=artemis:07ca22c2ac924a73990c39c982413009
+m3u8_url=http://127.0.0.1:6969/hls/stream_0255/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0256
+stream_key=stream_0256
+source=artemis:2aebe9fee4f4470c870c02862a59be94
+m3u8_url=http://127.0.0.1:6969/hls/stream_0256/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0257
+stream_key=stream_0257
+source=artemis:ab092ba1acc14c698891f4dda223e434
+m3u8_url=http://127.0.0.1:6969/hls/stream_0257/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0258
+stream_key=stream_0258
+source=artemis:fae8f7a0af05483392a4eb891cb93648
+m3u8_url=http://127.0.0.1:6969/hls/stream_0258/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0259
+stream_key=stream_0259
+source=artemis:1e5a2d72834040fdb9fd802227ce8d3f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0259/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0260
+stream_key=stream_0260
+source=artemis:68758ee72d6e428baadd0b6adfd4f4c1
+m3u8_url=http://127.0.0.1:6969/hls/stream_0260/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0261
+stream_key=stream_0261
+source=artemis:830eb6958ade47b89fef056245529605
+m3u8_url=http://127.0.0.1:6969/hls/stream_0261/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0262
+stream_key=stream_0262
+source=artemis:1034812e4fc8483a8f442f3294e9a516
+m3u8_url=http://127.0.0.1:6969/hls/stream_0262/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0263
+stream_key=stream_0263
+source=artemis:2ec38379236349fd8c8239f488c2b542
+m3u8_url=http://127.0.0.1:6969/hls/stream_0263/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0264
+stream_key=stream_0264
+source=artemis:7280c63a806646b09cd3dede168b41ec
+m3u8_url=http://127.0.0.1:6969/hls/stream_0264/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0265
+stream_key=stream_0265
+source=artemis:b7ec2edccfa14bd08de85ebfa8f4d2c5
+m3u8_url=http://127.0.0.1:6969/hls/stream_0265/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0266
+stream_key=stream_0266
+source=artemis:0a96114145a74f928c60a502c4335187
+m3u8_url=http://127.0.0.1:6969/hls/stream_0266/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0267
+stream_key=stream_0267
+source=artemis:f98e490b9bbc47d5b15fb139004ee720
+m3u8_url=http://127.0.0.1:6969/hls/stream_0267/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0268
+stream_key=stream_0268
+source=artemis:906412d0d17349db8acf82855ca53a8d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0268/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0269
+stream_key=stream_0269
+source=artemis:ab46b20c37fe450ea59a00ddf4e0f4cd
+m3u8_url=http://127.0.0.1:6969/hls/stream_0269/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0270
+stream_key=stream_0270
+source=artemis:61a625edafe64f0c80871f0f8b025064
+m3u8_url=http://127.0.0.1:6969/hls/stream_0270/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0271
+stream_key=stream_0271
+source=artemis:d5376e82690f484f8835a604ffb31278
+m3u8_url=http://127.0.0.1:6969/hls/stream_0271/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0272
+stream_key=stream_0272
+source=artemis:6abbba2c547248c3ad8a92bdf06546f6
+m3u8_url=http://127.0.0.1:6969/hls/stream_0272/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0273
+stream_key=stream_0273
+source=artemis:e7c290df8b6d4bf4b66f1d3976298505
+m3u8_url=http://127.0.0.1:6969/hls/stream_0273/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0274
+stream_key=stream_0274
+source=artemis:9c6909686a89446e870cc8ff1fbe0156
+m3u8_url=http://127.0.0.1:6969/hls/stream_0274/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0275
+stream_key=stream_0275
+source=artemis:22f5a0971bc745af8acf1e92f2f09c5c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0275/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0276
+stream_key=stream_0276
+source=artemis:1244a4759e564ca0a514a4e1de238565
+m3u8_url=http://127.0.0.1:6969/hls/stream_0276/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0277
+stream_key=stream_0277
+source=artemis:0901805ce6254125bf1f84872a488591
+m3u8_url=http://127.0.0.1:6969/hls/stream_0277/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0278
+stream_key=stream_0278
+source=artemis:9ffdb4774aed49caaeda17087ea2482f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0278/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0279
+stream_key=stream_0279
+source=artemis:5fcd713e597f49f7bf0be2cd8738fe40
+m3u8_url=http://127.0.0.1:6969/hls/stream_0279/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0280
+stream_key=stream_0280
+source=artemis:037ce40e5f954e33b2fb3d4fb344f999
+m3u8_url=http://127.0.0.1:6969/hls/stream_0280/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0281
+stream_key=stream_0281
+source=artemis:4b6dbf8d1e444e18a3479a68f02d71eb
+m3u8_url=http://127.0.0.1:6969/hls/stream_0281/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0282
+stream_key=stream_0282
+source=artemis:f78aa5f17b9c48c4aa20e0d319c9764c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0282/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0283
+stream_key=stream_0283
+source=artemis:87a8a3a873e049e58b0bccb89ef1c290
+m3u8_url=http://127.0.0.1:6969/hls/stream_0283/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0284
+stream_key=stream_0284
+source=artemis:9b043c406cf846b19a6618c30110b3fc
+m3u8_url=http://127.0.0.1:6969/hls/stream_0284/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0285
+stream_key=stream_0285
+source=artemis:1be397fd52754d14b21fc686359da545
+m3u8_url=http://127.0.0.1:6969/hls/stream_0285/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0286
+stream_key=stream_0286
+source=artemis:c7d274639f5b4662a493a0b970626cd0
+m3u8_url=http://127.0.0.1:6969/hls/stream_0286/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0287
+stream_key=stream_0287
+source=artemis:f525db44aed6456c970030cf2f3ab762
+m3u8_url=http://127.0.0.1:6969/hls/stream_0287/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0288
+stream_key=stream_0288
+source=artemis:597057f4852b4358bd977cbcf19672e6
+m3u8_url=http://127.0.0.1:6969/hls/stream_0288/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0289
+stream_key=stream_0289
+source=artemis:c62a720e6d8740b1a3aedf0f4560e5a5
+m3u8_url=http://127.0.0.1:6969/hls/stream_0289/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0290
+stream_key=stream_0290
+source=artemis:f16dda1bb14f499eb969f755e222e0fc
+m3u8_url=http://127.0.0.1:6969/hls/stream_0290/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0291
+stream_key=stream_0291
+source=artemis:c2543ff79a6a49e188b1ed5ac107d8eb
+m3u8_url=http://127.0.0.1:6969/hls/stream_0291/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0292
+stream_key=stream_0292
+source=artemis:f1981ef6279d4ee3aa2074662415fb6d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0292/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0293
+stream_key=stream_0293
+source=artemis:23fe2ba560504179a5c11880212d3302
+m3u8_url=http://127.0.0.1:6969/hls/stream_0293/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0294
+stream_key=stream_0294
+source=artemis:b657df54d650447384a7583a7c945f24
+m3u8_url=http://127.0.0.1:6969/hls/stream_0294/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0295
+stream_key=stream_0295
+source=artemis:bac4ac82238043d38f2a622736440381
+m3u8_url=http://127.0.0.1:6969/hls/stream_0295/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0296
+stream_key=stream_0296
+source=artemis:2107f4fbc4dc44c8a592958616616f9c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0296/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0297
+stream_key=stream_0297
+source=artemis:fd680b5e5c6d4a21972747da4abb4b0f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0297/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0298
+stream_key=stream_0298
+source=artemis:341227e965e240cfa6accd139c9276d7
+m3u8_url=http://127.0.0.1:6969/hls/stream_0298/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0299
+stream_key=stream_0299
+source=artemis:2262b4df7fd545fe8bca6046de9b0201
+m3u8_url=http://127.0.0.1:6969/hls/stream_0299/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0300
+stream_key=stream_0300
+source=artemis:619e08be36504863aea8165ad57ffff8
+m3u8_url=http://127.0.0.1:6969/hls/stream_0300/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0301
+stream_key=stream_0301
+source=artemis:b3687c2d6ae04a91b48324f6a40cf63c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0301/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0302
+stream_key=stream_0302
+source=artemis:dae54fc892c54f66a3f88789b30225d3
+m3u8_url=http://127.0.0.1:6969/hls/stream_0302/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0303
+stream_key=stream_0303
+source=artemis:689c7e1479084bd4ba9e6b3e425566fe
+m3u8_url=http://127.0.0.1:6969/hls/stream_0303/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0304
+stream_key=stream_0304
+source=artemis:2132b985683544298d38988118318441
+m3u8_url=http://127.0.0.1:6969/hls/stream_0304/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0305
+stream_key=stream_0305
+source=artemis:1f958ed90ea84c08b2586303e7b1f78d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0305/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0306
+stream_key=stream_0306
+source=artemis:ea9dc45a9cc94f2bb30c2930e58700e8
+m3u8_url=http://127.0.0.1:6969/hls/stream_0306/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0307
+stream_key=stream_0307
+source=artemis:3d9d67a5c52d4fecad1d632c9131309f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0307/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0308
+stream_key=stream_0308
+source=artemis:63bb0afb0f1b4874bc4caef51e550c4d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0308/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0309
+stream_key=stream_0309
+source=artemis:837a9eeea83542deb9c0024b7d4812f1
+m3u8_url=http://127.0.0.1:6969/hls/stream_0309/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0310
+stream_key=stream_0310
+source=artemis:76295722e7a344d783d2c9f119d7a634
+m3u8_url=http://127.0.0.1:6969/hls/stream_0310/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0311
+stream_key=stream_0311
+source=artemis:63cf676add9443f98393caee91606aff
+m3u8_url=http://127.0.0.1:6969/hls/stream_0311/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0312
+stream_key=stream_0312
+source=artemis:51b7031b514b4895994f330dfacd66d1
+m3u8_url=http://127.0.0.1:6969/hls/stream_0312/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0313
+stream_key=stream_0313
+source=artemis:855a70b5ae9d4c14a33465220bc0e4f1
+m3u8_url=http://127.0.0.1:6969/hls/stream_0313/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0314
+stream_key=stream_0314
+source=artemis:e0e4f182b11b4587a1d21d331988e5e0
+m3u8_url=http://127.0.0.1:6969/hls/stream_0314/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0315
+stream_key=stream_0315
+source=artemis:9b8d805500084b9d81174a515334a586
+m3u8_url=http://127.0.0.1:6969/hls/stream_0315/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0316
+stream_key=stream_0316
+source=artemis:1817679676494d6a834b8e158e69466d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0316/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0317
+stream_key=stream_0317
+source=artemis:459b47749c5046a29ce36ee6d1848b38
+m3u8_url=http://127.0.0.1:6969/hls/stream_0317/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0318
+stream_key=stream_0318
+source=artemis:3e6675e87a01409a897885cfc17aa0ee
+m3u8_url=http://127.0.0.1:6969/hls/stream_0318/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0319
+stream_key=stream_0319
+source=artemis:e3f650e2fd7847e49c3c44b0a8344505
+m3u8_url=http://127.0.0.1:6969/hls/stream_0319/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0320
+stream_key=stream_0320
+source=artemis:ff4425a72612411a8732da9d0fa6329e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0320/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0321
+stream_key=stream_0321
+source=artemis:0828abb3723d4d159051db1a5fac1747
+m3u8_url=http://127.0.0.1:6969/hls/stream_0321/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0322
+stream_key=stream_0322
+source=artemis:889ef5cdd29c4a45b160b6150f10767d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0322/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0323
+stream_key=stream_0323
+source=artemis:5224039870344ae0a7fe479e3e8fde61
+m3u8_url=http://127.0.0.1:6969/hls/stream_0323/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0324
+stream_key=stream_0324
+source=artemis:48061263202d4cb0a944abacbde0a24c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0324/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0325
+stream_key=stream_0325
+source=artemis:51c986b9ba1146a1add61a109937008b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0325/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0326
+stream_key=stream_0326
+source=artemis:c8ccf07ddf574dd5bd69ccdd187b6b37
+m3u8_url=http://127.0.0.1:6969/hls/stream_0326/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0327
+stream_key=stream_0327
+source=artemis:b7a05a745aa9406e8b2bc584f1c8a928
+m3u8_url=http://127.0.0.1:6969/hls/stream_0327/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0328
+stream_key=stream_0328
+source=artemis:ddb5ec268a8341a4868bbda7488e8237
+m3u8_url=http://127.0.0.1:6969/hls/stream_0328/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0329
+stream_key=stream_0329
+source=artemis:e618d01598b54eccb2855a6f04e6e059
+m3u8_url=http://127.0.0.1:6969/hls/stream_0329/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0330
+stream_key=stream_0330
+source=artemis:add03cd169964aed879c306ddca10b66
+m3u8_url=http://127.0.0.1:6969/hls/stream_0330/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0331
+stream_key=stream_0331
+source=artemis:109e3e85ab584523b84a3b6ca46f0f28
+m3u8_url=http://127.0.0.1:6969/hls/stream_0331/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0332
+stream_key=stream_0332
+source=artemis:2008fcacb1a942099377d31cdd71d97b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0332/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0333
+stream_key=stream_0333
+source=artemis:261f3b66662c4879a182d2a17e349d5f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0333/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0334
+stream_key=stream_0334
+source=artemis:e050e527b416409b9b601146b930a4c7
+m3u8_url=http://127.0.0.1:6969/hls/stream_0334/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0335
+stream_key=stream_0335
+source=artemis:9c594758cafe4dc6962735a8846e168a
+m3u8_url=http://127.0.0.1:6969/hls/stream_0335/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0336
+stream_key=stream_0336
+source=artemis:7103c94e46e24ab0ba57899080712d3d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0336/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0337
+stream_key=stream_0337
+source=artemis:6b3fc29ecabd41adbe1f939ce6bb1a1e
+m3u8_url=http://127.0.0.1:6969/hls/stream_0337/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0338
+stream_key=stream_0338
+source=artemis:86e923b1331d4d4d82bb7d00627e8913
+m3u8_url=http://127.0.0.1:6969/hls/stream_0338/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0339
+stream_key=stream_0339
+source=artemis:d64d75bfad514d9fb8454f71de496d09
+m3u8_url=http://127.0.0.1:6969/hls/stream_0339/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0340
+stream_key=stream_0340
+source=artemis:f5c3c77ed59d46b0b90182bb4cc5772f
+m3u8_url=http://127.0.0.1:6969/hls/stream_0340/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0341
+stream_key=stream_0341
+source=artemis:10181678cdb84b848ae7304cfa67db5c
+m3u8_url=http://127.0.0.1:6969/hls/stream_0341/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0342
+stream_key=stream_0342
+source=artemis:9ae980a544974d73846feb821d69e72d
+m3u8_url=http://127.0.0.1:6969/hls/stream_0342/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0343
+stream_key=stream_0343
+source=artemis:a43cd612c56f457bb4db758d6fa6501b
+m3u8_url=http://127.0.0.1:6969/hls/stream_0343/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0344
+stream_key=stream_0344
+source=artemis:cba289d2a5764cb290d9dbcffcf15c73
+m3u8_url=http://127.0.0.1:6969/hls/stream_0344/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0345
+stream_key=stream_0345
+source=artemis:ee8d5ca12c3949aa9ae1a3abdbb967cb
+m3u8_url=http://127.0.0.1:6969/hls/stream_0345/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0346
+stream_key=stream_0346
+source=artemis:ab5350e52eab4d4c827320e3c82c1d49
+m3u8_url=http://127.0.0.1:6969/hls/stream_0346/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0347
+stream_key=stream_0347
+source=artemis:65dfebe7e0ee410993ffb5e86e2a49e1
+m3u8_url=http://127.0.0.1:6969/hls/stream_0347/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0348
+stream_key=stream_0348
+source=artemis:16f17a9a760842a6af3ab45679074c42
+m3u8_url=http://127.0.0.1:6969/hls/stream_0348/index.m3u8
+convert_status=failed
+status_detail=ffprobe skipped; ffmpeg attempted video copy
+
+camera_name=artemis_0349
+stream_key=stream_0349
+source=artemis:37342c95353746f2a87cfb910451cdde
+m3u8_url=http://127.0.0.1:6969/hls/stream_0349/index.m3u8
+convert_status=success
+status_detail=playlist ready
+
+camera_name=artemis_0350
+stream_key=stream_0350
+source=artemis:f96e34987dd0429f876fc742a44305c4
+m3u8_url=http://127.0.0.1:6969/hls/stream_0350/index.m3u8
+convert_status=success
+status_detail=playlist ready
+

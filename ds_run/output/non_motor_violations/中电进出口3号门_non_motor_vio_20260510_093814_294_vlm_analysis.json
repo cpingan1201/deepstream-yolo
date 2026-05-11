@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电进出口3号门_non_motor_vio_20260510_093814_294.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 09:38:52",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内是一辆绿色的电动三轮车（或类似的载货车辆），旁边有人，不符合 bicycle 或 motorcycle 的特征。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内是一辆绿色的电动三轮车（或类似的载货车辆），旁边有人，不符合 bicycle 或 motorcycle 的特征。"
+  }
+}

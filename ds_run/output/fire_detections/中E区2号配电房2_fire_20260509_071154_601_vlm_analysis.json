@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_071154_601.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 07:12:03",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"方框内显示的是排列整齐的地面反光标识或指示灯，形状规则且无跳动感，属于环境干扰或反光，非真实明火。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "方框内显示的是排列整齐的地面反光标识或指示灯，形状规则且无跳动感，属于环境干扰或反光，非真实明火。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南门客流右_motor_vio_20260509_224622_615.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 22:46:33",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内主要显示的是蓝白相间的道闸杆、低矮护栏、交通锥以及地面标线，没有看到封闭车身的汽车。远处边缘有一个模糊的人影，但属于两轮车/人，不符合机动车定义。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内主要显示的是蓝白相间的道闸杆、低矮护栏、交通锥以及地面标线，没有看到封闭车身的汽车。远处边缘有一个模糊的人影，但属于两轮车/人，不符合机动车定义。"
+  }
+}

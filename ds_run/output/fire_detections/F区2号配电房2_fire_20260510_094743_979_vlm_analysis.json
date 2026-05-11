@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_094743_979.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 09:48:18",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是管道或设备顶部的红色反光或指示灯，排列规则，无火焰根部及不规则跳动特征，属于环境干扰或物体反光。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是管道或设备顶部的红色反光或指示灯，排列规则，无火焰根部及不规则跳动特征，属于环境干扰或物体反光。"
+  }
+}

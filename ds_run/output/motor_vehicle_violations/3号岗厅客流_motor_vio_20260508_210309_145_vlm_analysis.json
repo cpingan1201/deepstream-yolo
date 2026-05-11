@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/3号岗厅客流_motor_vio_20260508_210309_145.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:09:16",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"car\", \"description\": \"红框内清晰显示一辆白色的SUV或轿车，具有封闭的车身、车窗和车头结构，车辆主体占据了红框的主要区域，确认为机动车目标。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "car",
+    "description": "红框内清晰显示一辆白色的SUV或轿车，具有封闭的车身、车窗和车头结构，车辆主体占据了红框的主要区域，确认为机动车目标。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260509_034127_175.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 03:41:45",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"false_alarm\",\n\"description\": \"红色方框内显示的是地面上的红色反光物体或标记（可能是警示锥或设备部件），排列整齐且静止，没有火焰的跳动、烟雾等特征，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是地面上的红色反光物体或标记（可能是警示锥或设备部件），排列整齐且静止，没有火焰的跳动、烟雾等特征，属于误报。"
+  }
+}

@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  ds_builder:
+    image: ds-stream
+    container_name: ds_builder
+    restart: always
+    shm_size: '16g'
+    ipc: host
+    network_mode: host
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ['0', '1']
+              capabilities: [gpu, video, compute, utility]
+    volumes:
+      - /home/userroot/ultralytics-main/ds_run:/workspace
+    working_dir: /workspace
+    environment:
+      - CUDA_MODULE_LOADING=LAZY
+      - PYTHONUNBUFFERED=1
+      - TZ=Asia/Shanghai
+    entrypoint: ["tail"]
+    command: ["-f", "/dev/null"]

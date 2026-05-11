@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南大门前门岗_motor_vio_20260510_203547_430.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 20:36:06",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"motor_vehicle_violations\",\n    \"description\": \"红框内主要是空旷的路面，包含车道虚线和地面箭头标线。虽然左侧有红色的 'car' 文字标注，远处有车辆灯光，但红框范围内并未显示清晰的封闭车身汽车主体，无法确认为机动车目标。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内主要是空旷的路面，包含车道虚线和地面箭头标线。虽然左侧有红色的 'car' 文字标注，远处有车辆灯光，但红框范围内并未显示清晰的封闭车身汽车主体，无法确认为机动车目标。"
+  }
+}

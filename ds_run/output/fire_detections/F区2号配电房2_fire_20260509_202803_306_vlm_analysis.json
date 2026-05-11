@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260509_202803_306.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-09 20:28:19",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"误报\",\n  \"description\": \"红色方框内显示的是规则的红色光点，看起来像是设备指示灯或声光报警器，没有明显的火焰形态或烟雾特征，属于光源干扰或误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "误报",
+    "description": "红色方框内显示的是规则的红色光点，看起来像是设备指示灯或声光报警器，没有明显的火焰形态或烟雾特征，属于光源干扰或误报。"
+  }
+}

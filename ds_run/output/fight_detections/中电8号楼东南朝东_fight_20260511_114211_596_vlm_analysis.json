@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fight_detections/中电8号楼东南朝东_fight_20260511_114211_596.jpg",
+  "detection_type": "fight",
+  "source_type": "single",
+  "timestamp": "2026-05-11 11:43:46",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"non_fight\",\n    \"description\": \"画面右下角显示一名行人（被红框标记），旁边似乎有其他人，但并未观察到明显的挥拳、踢腿或推搡等暴力行为。人物姿态相对平静，没有表现出攻击意图。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_fight",
+    "description": "画面右下角显示一名行人（被红框标记），旁边似乎有其他人，但并未观察到明显的挥拳、踢腿或推搡等暴力行为。人物姿态相对平静，没有表现出攻击意图。"
+  }
+}

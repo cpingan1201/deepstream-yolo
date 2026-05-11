@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/5号工坊－1F电梯出口_non_motor_vio_20260430_101405_492.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:15:55",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_motor_violations\",\n  \"description\": \"红框内物体过于黑暗和模糊，无法确认其为自行车或摩托车，更像是一个不明确的物体或阴影。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_motor_violations",
+    "description": "红框内物体过于黑暗和模糊，无法确认其为自行车或摩托车，更像是一个不明确的物体或阴影。"
+  }
+}

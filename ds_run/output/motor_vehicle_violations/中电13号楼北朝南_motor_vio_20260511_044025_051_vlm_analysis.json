@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/中电13号楼北朝南_motor_vio_20260511_044025_051.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-11 04:40:32",
+  "vlm_analysis": "{\n    \"signal\": true,\n    \"behavior_type\": \"motor_vehicle_violations\",\n    \"description\": \"红框内显示一辆远处的汽车，具有明显的封闭车身、车窗和车顶结构，符合机动车特征。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内显示一辆远处的汽车，具有明显的封闭车身、车窗和车顶结构，符合机动车特征。"
+  }
+}

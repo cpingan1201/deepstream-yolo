@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区4号配电房1_fire_20260430_102407_247.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-30 18:24:18",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"fire\",\n  \"description\": \"该红色方框内的亮光非常局限，形状规则，且缺乏真实火焰应有的不规则跳动和明显根部。结合其位于配电箱面板的特征，该光斑更可能是电箱上的指示灯、电弧光或轻微的过热发光，属于光源干扰，判断为误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "fire",
+    "description": "该红色方框内的亮光非常局限，形状规则，且缺乏真实火焰应有的不规则跳动和明显根部。结合其位于配电箱面板的特征，该光斑更可能是电箱上的指示灯、电弧光或轻微的过热发光，属于光源干扰，判断为误报。"
+  }
+}

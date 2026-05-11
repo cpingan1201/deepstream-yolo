@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_175435_185.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 17:54:53",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"红色方框内的光点呈现规则的亮斑，没有火焰的不规则形状和跳动特征，且位于天花板区域，结合配电房场景，极有可能是电气设备的指示灯或反光。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的光点呈现规则的亮斑，没有火焰的不规则形状和跳动特征，且位于天花板区域，结合配电房场景，极有可能是电气设备的指示灯或反光。"
+  }
+}

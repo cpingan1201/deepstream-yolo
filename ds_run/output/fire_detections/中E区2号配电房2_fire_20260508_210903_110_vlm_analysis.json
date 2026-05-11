@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/中E区2号配电房2_fire_20260508_210903_110.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:14:04",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"false_alarm\",\n    \"description\": \"红色方框内显示的是排列整齐的红色指示灯或反光点，无火焰跳动感及烟雾特征，属于正常设备指示灯或环境反光。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是排列整齐的红色指示灯或反光点，无火焰跳动感及烟雾特征，属于正常设备指示灯或环境反光。"
+  }
+}

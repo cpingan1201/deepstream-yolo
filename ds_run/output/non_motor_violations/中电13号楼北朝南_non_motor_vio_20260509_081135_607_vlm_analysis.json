@@ -1,0 +1,12 @@
+{
+  "image_path": "output/non_motor_violations/中电13号楼北朝南_non_motor_vio_20260509_081135_607.jpg",
+  "detection_type": "non_motor_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 08:27:19",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motorcycle\",\n  \"description\": \"红框内清晰可见一辆摩托车（或电动踏板车），具有两轮、车把和车身结构，旁边地上有一个倒下的头盔。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motorcycle",
+    "description": "红框内清晰可见一辆摩托车（或电动踏板车），具有两轮、车把和车身结构，旁边地上有一个倒下的头盔。"
+  }
+}

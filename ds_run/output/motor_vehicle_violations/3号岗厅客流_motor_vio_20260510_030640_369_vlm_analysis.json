@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/3号岗厅客流_motor_vio_20260510_030640_369.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 03:07:01",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"motor_vehicle_violations\", \"description\": \"红框内清晰显示一辆白色汽车的车头部分，可见挡风玻璃、引擎盖及前大灯轮廓，符合封闭车身汽车特征。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示一辆白色汽车的车头部分，可见挡风玻璃、引擎盖及前大灯轮廓，符合封闭车身汽车特征。"
+  }
+}

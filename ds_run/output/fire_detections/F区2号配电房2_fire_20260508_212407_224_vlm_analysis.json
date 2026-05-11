@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260508_212407_224.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-08 21:26:44",
+  "vlm_analysis": "{\"signal\": false, \"behavior_type\": \"false_alarm\", \"description\": \"红色方框内的红色光斑形状规则，呈点状排列，且与下方电柜上的红色指示灯阵列一致，判断为指示灯光线在上方管道或金属结构上的反射，属于误报。\"}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内的红色光斑形状规则，呈点状排列，且与下方电柜上的红色指示灯阵列一致，判断为指示灯光线在上方管道或金属结构上的反射，属于误报。"
+  }
+}

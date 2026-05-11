@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_004533_894.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 00:45:58",
+  "vlm_analysis": "{\n    \"signal\": false,\n    \"behavior_type\": \"light_source_interference\",\n    \"description\": \"方框内显示规则的红色光点，疑似天花板上的指示灯或光源，无火焰的不规则跳动感，属于光源干扰。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "light_source_interference",
+    "description": "方框内显示规则的红色光点，疑似天花板上的指示灯或光源，无火焰的不规则跳动感，属于光源干扰。"
+  }
+}

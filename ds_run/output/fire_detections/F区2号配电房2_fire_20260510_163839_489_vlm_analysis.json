@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/F区2号配电房2_fire_20260510_163839_489.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-05-10 16:39:02",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"false_alarm\",\n  \"description\": \"红色方框内显示的是金属管道或设备表面的规则反光，或者是固定指示灯的反射，不具备火焰的不规则形状和跳动感，属于误报。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "false_alarm",
+    "description": "红色方框内显示的是金属管道或设备表面的规则反光，或者是固定指示灯的反射，不具备火焰的不规则形状和跳动感，属于误报。"
+  }
+}

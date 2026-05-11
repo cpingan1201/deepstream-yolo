@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/南门客流右_motor_vio_20260510_214225_891.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 21:42:42",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内是一辆深色的皮卡车，具有封闭的驾驶室、车窗、车门和车尾，符合机动车（小货车/皮卡车）的特征，且车辆主体占据了红框的主要区域。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内是一辆深色的皮卡车，具有封闭的驾驶室、车窗、车门和车尾，符合机动车（小货车/皮卡车）的特征，且车辆主体占据了红框的主要区域。"
+  }
+}

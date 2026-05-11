@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fire_detections/Camera 9 检测20_fire_20260420_043203_372.jpg",
+  "detection_type": "fire",
+  "source_type": "single",
+  "timestamp": "2026-04-20 12:32:20",
+  "vlm_analysis": "{\n  \"signal\": true,\n  \"behavior_type\": \"fire\",\n  \"description\": \"红色方框内显示出不规则形状、明亮的橙红色光团，具有明显的火焰特征和跳动感，符合真实火灾告警的判断标准。\"\n}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "fire",
+    "description": "红色方框内显示出不规则形状、明亮的橙红色光团，具有明显的火焰特征和跳动感，符合真实火灾告警的判断标准。"
+  }
+}

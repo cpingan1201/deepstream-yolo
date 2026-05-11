@@ -1,0 +1,12 @@
+{
+  "image_path": "output/fight_detections/E4大厅内_fight_20260511_120434_095.jpg",
+  "detection_type": "fight",
+  "source_type": "single",
+  "timestamp": "2026-05-11 12:05:41",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"non_fight\",\n  \"description\": \"视频画面显示为室内大厅场景，左下角红框内人物（carbon）正低头查看手中物品，姿态静止，无攻击动作。画面中其他人物也在正常行走或站立，彼此间无肢体冲突或激烈互动，整体环境平静，未检测到打架行为。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "non_fight",
+    "description": "视频画面显示为室内大厅场景，左下角红框内人物（carbon）正低头查看手中物品，姿态静止，无攻击动作。画面中其他人物也在正常行走或站立，彼此间无肢体冲突或激烈互动，整体环境平静，未检测到打架行为。"
+  }
+}

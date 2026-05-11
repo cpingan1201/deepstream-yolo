@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/3号岗厅客流_motor_vio_20260509_185800_755.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 18:58:27",
+  "vlm_analysis": "{\n\"signal\": false,\n\"behavior_type\": \"none\",\n\"description\": \"红框内主要显示的是行人，虽然背景有一辆白色车辆，但红框并未框住车辆主体。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "none",
+    "description": "红框内主要显示的是行人，虽然背景有一辆白色车辆，但红框并未框住车辆主体。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/D4道闸路段_motor_vio_20260509_135746_928.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-09 13:58:37",
+  "vlm_analysis": "{\"signal\": true, \"behavior_type\": \"motor_vehicle_violations\", \"description\": \"红框内清晰显示了两辆停放的汽车，包括一辆白色轿车和一辆深色轿车，具有明显的封闭车身、车窗和车头结构。\"}",
+  "parsed_result": {
+    "signal": true,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内清晰显示了两辆停放的汽车，包括一辆白色轿车和一辆深色轿车，具有明显的封闭车身、车窗和车头结构。"
+  }
+}

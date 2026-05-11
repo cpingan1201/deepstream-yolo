@@ -1,0 +1,12 @@
+{
+  "image_path": "output/motor_vehicle_violations/中电进出口3号门_motor_vio_20260510_103334_692.jpg",
+  "detection_type": "motor_vehicle_violations",
+  "source_type": "single",
+  "timestamp": "2026-05-10 10:33:58",
+  "vlm_analysis": "{\n  \"signal\": false,\n  \"behavior_type\": \"motor_vehicle_violations\",\n  \"description\": \"红框内显示的是一个白色的栏杆或隔离设施，上面有文字，并非封闭车身汽车。\"\n}",
+  "parsed_result": {
+    "signal": false,
+    "behavior_type": "motor_vehicle_violations",
+    "description": "红框内显示的是一个白色的栏杆或隔离设施，上面有文字，并非封闭车身汽车。"
+  }
+}
